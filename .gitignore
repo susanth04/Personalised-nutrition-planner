@@ -1,6 +1,4 @@
 07_AGORA_Metabolic_Models/  
-*.pth  
-*.csv  
-*.tsv  
+*.pth
 __pycache__/  
 node_modules/ 
