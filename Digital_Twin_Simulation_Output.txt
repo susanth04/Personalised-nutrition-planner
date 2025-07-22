@@ -1,0 +1,7 @@
+C:\RESEARCH-PROJECT\03_Machine_Learning_Pipeline\API_and_Models\Digital_Twin_Simulation_Engine.py:8: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  import pkg_resources
+2025-04-24 00:51:08,794 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-04-24 00:51:08,796 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-04-24 00:51:08,798 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-04-24 00:51:08,800 - INFO - The current solver interface glpk doesn't support setting the optimality tolerance.
+2025-04-24 00:51:08,801 - ERROR - Error in model simulation: Reaction 'R_energy_maintenance' does not belong to a model. Either add the reaction to a model or use Metabolite objects instead of strings as keys.

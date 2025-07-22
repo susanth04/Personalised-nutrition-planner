@@ -1,0 +1,46 @@
+=== Digital Twin Model Simulation ===
+Start time: 2025-04-24 01:00:07.704019
+
+2025-04-24 01:00:07,780 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-04-24 01:00:07,782 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-04-24 01:00:07,785 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-04-24 01:00:07,788 - INFO - The current solver interface glpk doesn't support setting the optimality tolerance.
+2025-04-24 01:00:07,795 - INFO - 
+Running metabolic simulations...
+Sample CSM5MCVN: fiber_uptake=9.09, butyrate_flux=0.0000
+Sample CSM5MCWE: fiber_uptake=9.20, butyrate_flux=0.0000
+Sample CSM5MCX3: fiber_uptake=9.77, butyrate_flux=0.0000
+Sample CSM5MCXL: fiber_uptake=8.19, butyrate_flux=0.0000
+Sample CSM5MCY8: fiber_uptake=9.74, butyrate_flux=0.0000
+2025-04-24 01:00:07,909 - INFO - Progress: 50/382 samples processed
+2025-04-24 01:00:07,968 - INFO - Progress: 100/382 samples processed
+2025-04-24 01:00:08,029 - INFO - Progress: 150/382 samples processed
+2025-04-24 01:00:08,085 - INFO - Progress: 200/382 samples processed
+2025-04-24 01:00:08,141 - INFO - Progress: 250/382 samples processed
+2025-04-24 01:00:08,193 - INFO - Progress: 300/382 samples processed
+2025-04-24 01:00:08,246 - INFO - Progress: 350/382 samples processed
+2025-04-24 01:00:08,280 - INFO - Simulation complete: 382 successful, 0 failed
+2025-04-24 01:00:08,343 - INFO - Dataset with butyrate fluxes saved as 'C:\RESEARCH-PROJECT\IHMP\DONE\ubarkbarkjb_with_butyrate_flux.tsv'
+
+Detailed analysis saved to C:\RESEARCH-PROJECT\IHMP\DONE\butyrate_flux_details.txt
+2025-04-24 01:00:08,376 - INFO - 
+Summary statistics:
+2025-04-24 01:00:08,387 - INFO -        avg_daily_fiber  butyrate_flux  normalized_inflammation
+count       382.000000          382.0               382.000000
+mean          4.274818            0.0                 0.221849
+std           3.366647            0.0                 0.256979
+min           0.166667            0.0                 0.000000
+25%           1.541667            0.0                 0.014234
+50%           3.533333            0.0                 0.132131
+75%           5.983333            0.0                 0.325240
+max          16.956667            0.0                 1.000000
+2025-04-24 01:00:08,399 - INFO - 
+Data Head:
+2025-04-24 01:00:08,400 - INFO -      Sample  avg_daily_fiber  butyrate_flux  normalized_inflammation
+0  CSM5MCVN         9.413333            0.0                 0.010180
+1  CSM5MCWE         9.900000            0.0                 0.021574
+2  CSM5MCX3        12.480667            0.0                 0.002161
+3  CSM5MCXL         7.033333            0.0                 0.007357
+4  CSM5MCY8        12.423333            0.0                 0.530969
+2025-04-24 01:00:08,411 - INFO - 
+Correlation between butyrate_flux and normalized_inflammation: nan

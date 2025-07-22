@@ -1,0 +1,77 @@
+Collecting cobra==0.26.3
+  Downloading cobra-0.26.3-py2.py3-none-any.whl.metadata (9.4 kB)
+Requirement already satisfied: pandas in c:\research-project\venv311\lib\site-packages (2.2.3)
+Requirement already satisfied: numpy in c:\research-project\venv311\lib\site-packages (2.1.2)
+Requirement already satisfied: matplotlib in c:\research-project\venv311\lib\site-packages (3.10.1)
+Requirement already satisfied: appdirs~=1.4 in c:\research-project\venv311\lib\site-packages (from cobra==0.26.3) (1.4.4)
+Collecting depinfo~=1.7 (from cobra==0.26.3)
+  Downloading depinfo-1.7.0-py2.py3-none-any.whl.metadata (3.6 kB)
+Requirement already satisfied: diskcache~=5.0 in c:\research-project\venv311\lib\site-packages (from cobra==0.26.3) (5.6.3)
+Requirement already satisfied: future in c:\research-project\venv311\lib\site-packages (from cobra==0.26.3) (1.0.0)
+Requirement already satisfied: httpx~=0.24 in c:\research-project\venv311\lib\site-packages (from cobra==0.26.3) (0.28.1)
+Requirement already satisfied: importlib-resources in c:\research-project\venv311\lib\site-packages (from cobra==0.26.3) (6.5.2)
+Collecting numpy
+  Downloading numpy-1.23.5-cp311-cp311-win_amd64.whl.metadata (2.3 kB)
+Requirement already satisfied: optlang~=1.5 in c:\research-project\venv311\lib\site-packages (from cobra==0.26.3) (1.8.3)
+Collecting pandas
+  Downloading pandas-1.5.3-cp311-cp311-win_amd64.whl.metadata (12 kB)
+Collecting pydantic~=1.6 (from cobra==0.26.3)
+  Downloading pydantic-1.10.21-cp311-cp311-win_amd64.whl.metadata (155 kB)
+Requirement already satisfied: python-libsbml~=5.19 in c:\research-project\venv311\lib\site-packages (from cobra==0.26.3) (5.20.4)
+Requirement already satisfied: rich>=8.0 in c:\research-project\venv311\lib\site-packages (from cobra==0.26.3) (14.0.0)
+Requirement already satisfied: ruamel.yaml~=0.16 in c:\research-project\venv311\lib\site-packages (from cobra==0.26.3) (0.18.10)
+Requirement already satisfied: swiglpk in c:\research-project\venv311\lib\site-packages (from cobra==0.26.3) (5.0.12)
+Requirement already satisfied: python-dateutil>=2.8.1 in c:\research-project\venv311\lib\site-packages (from pandas) (2.9.0.post0)
+Requirement already satisfied: pytz>=2020.1 in c:\research-project\venv311\lib\site-packages (from pandas) (2025.2)
+Requirement already satisfied: contourpy>=1.0.1 in c:\research-project\venv311\lib\site-packages (from matplotlib) (1.3.1)
+Requirement already satisfied: cycler>=0.10 in c:\research-project\venv311\lib\site-packages (from matplotlib) (0.12.1)
+Requirement already satisfied: fonttools>=4.22.0 in c:\research-project\venv311\lib\site-packages (from matplotlib) (4.57.0)
+Requirement already satisfied: kiwisolver>=1.3.1 in c:\research-project\venv311\lib\site-packages (from matplotlib) (1.4.8)
+Requirement already satisfied: packaging>=20.0 in c:\research-project\venv311\lib\site-packages (from matplotlib) (24.2)
+Requirement already satisfied: pillow>=8 in c:\research-project\venv311\lib\site-packages (from matplotlib) (11.0.0)
+Requirement already satisfied: pyparsing>=2.3.1 in c:\research-project\venv311\lib\site-packages (from matplotlib) (3.2.3)
+Requirement already satisfied: anyio in c:\research-project\venv311\lib\site-packages (from httpx~=0.24->cobra==0.26.3) (4.9.0)
+Requirement already satisfied: certifi in c:\research-project\venv311\lib\site-packages (from httpx~=0.24->cobra==0.26.3) (2025.1.31)
+Requirement already satisfied: httpcore==1.* in c:\research-project\venv311\lib\site-packages (from httpx~=0.24->cobra==0.26.3) (1.0.8)
+Requirement already satisfied: idna in c:\research-project\venv311\lib\site-packages (from httpx~=0.24->cobra==0.26.3) (3.10)
+Requirement already satisfied: h11<0.15,>=0.13 in c:\research-project\venv311\lib\site-packages (from httpcore==1.*->httpx~=0.24->cobra==0.26.3) (0.14.0)
+Requirement already satisfied: sympy>=1.12.0 in c:\research-project\venv311\lib\site-packages (from optlang~=1.5->cobra==0.26.3) (1.13.1)
+Requirement already satisfied: typing-extensions>=4.2.0 in c:\research-project\venv311\lib\site-packages (from pydantic~=1.6->cobra==0.26.3) (4.12.2)
+Requirement already satisfied: six>=1.5 in c:\research-project\venv311\lib\site-packages (from python-dateutil>=2.8.1->pandas) (1.17.0)
+Requirement already satisfied: markdown-it-py>=2.2.0 in c:\research-project\venv311\lib\site-packages (from rich>=8.0->cobra==0.26.3) (3.0.0)
+Requirement already satisfied: pygments<3.0.0,>=2.13.0 in c:\research-project\venv311\lib\site-packages (from rich>=8.0->cobra==0.26.3) (2.19.1)
+Requirement already satisfied: ruamel.yaml.clib>=0.2.7 in c:\research-project\venv311\lib\site-packages (from ruamel.yaml~=0.16->cobra==0.26.3) (0.2.12)
+Requirement already satisfied: mdurl~=0.1 in c:\research-project\venv311\lib\site-packages (from markdown-it-py>=2.2.0->rich>=8.0->cobra==0.26.3) (0.1.2)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in c:\research-project\venv311\lib\site-packages (from sympy>=1.12.0->optlang~=1.5->cobra==0.26.3) (1.3.0)
+Requirement already satisfied: sniffio>=1.1 in c:\research-project\venv311\lib\site-packages (from anyio->httpx~=0.24->cobra==0.26.3) (1.3.1)
+Downloading cobra-0.26.3-py2.py3-none-any.whl (1.2 MB)
+   ---------------------------------------- 1.2/1.2 MB 6.0 MB/s eta 0:00:00
+Downloading pandas-1.5.3-cp311-cp311-win_amd64.whl (10.3 MB)
+   ---------------------------------------- 10.3/10.3 MB 21.4 MB/s eta 0:00:00
+Downloading numpy-1.23.5-cp311-cp311-win_amd64.whl (14.6 MB)
+   ---------------------------------------- 14.6/14.6 MB 11.7 MB/s eta 0:00:00
+Downloading depinfo-1.7.0-py2.py3-none-any.whl (8.6 kB)
+Downloading pydantic-1.10.21-cp311-cp311-win_amd64.whl (2.3 MB)
+   ---------------------------------------- 2.3/2.3 MB 16.4 MB/s eta 0:00:00
+Installing collected packages: pydantic, numpy, depinfo, pandas, cobra
+  Attempting uninstall: pydantic
+    Found existing installation: pydantic 2.11.3
+    Uninstalling pydantic-2.11.3:
+      Successfully uninstalled pydantic-2.11.3
+  Attempting uninstall: numpy
+    Found existing installation: numpy 2.1.2
+    Uninstalling numpy-2.1.2:
+      Successfully uninstalled numpy-2.1.2
+  Attempting uninstall: depinfo
+    Found existing installation: depinfo 2.2.0
+    Uninstalling depinfo-2.2.0:
+      Successfully uninstalled depinfo-2.2.0
+  Attempting uninstall: pandas
+    Found existing installation: pandas 2.2.3
+    Uninstalling pandas-2.2.3:
+      Successfully uninstalled pandas-2.2.3
+  Attempting uninstall: cobra
+    Found existing installation: cobra 0.29.1
+    Uninstalling cobra-0.29.1:
+      Successfully uninstalled cobra-0.29.1
+Successfully installed cobra-0.26.3 depinfo-1.7.0 numpy-1.23.5 pandas-1.5.3 pydantic-1.10.21

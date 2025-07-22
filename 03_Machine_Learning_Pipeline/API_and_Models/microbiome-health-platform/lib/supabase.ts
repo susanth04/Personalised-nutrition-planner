@@ -1,0 +1,76 @@
+"use client"
+
+// Mock Supabase client implementation
+export const createClient = () => {
+  return mockSupabaseClient;
+};
+
+// For client-side usage
+let supabaseClient = mockSupabaseClient;
+
+export const getSupabaseClient = () => {
+  return supabaseClient;
+};
+
+// For server-side usage
+export const createServerSupabaseClient = () => {
+  return mockSupabaseClient;
+};
+
+// Mock client that doesn't require Supabase
+const mockSupabaseClient = {
+  auth: {
+    getSession: async () => ({
+      data: { 
+        session: {
+          user: {
+            id: 'mock-user-id',
+            email: 'user@example.com'
+          }
+        }
+      }
+    }),
+    signInWithPassword: async () => ({
+      data: {
+        user: {
+          id: 'mock-user-id',
+          email: 'user@example.com'
+        }
+      },
+      error: null
+    }),
+    signUp: async () => ({
+      data: {
+        user: {
+          id: 'mock-user-id',
+          email: 'user@example.com'
+        }
+      },
+      error: null
+    }),
+    signOut: async () => ({}),
+    onAuthStateChange: () => ({
+      data: { 
+        subscription: {
+          unsubscribe: () => {}
+        }
+      }
+    })
+  },
+  from: (table) => ({
+    select: () => ({
+      eq: () => ({
+        single: async () => ({
+          data: {
+            id: 'mock-user-id',
+            email: 'user@example.com',
+            role: 'doctor',
+            name: 'Mock User'
+          },
+          error: null
+        })
+      })
+    }),
+    insert: async () => ({ error: null })
+  })
+};

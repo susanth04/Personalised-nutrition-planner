@@ -1,0 +1,2203 @@
+2025-04-24 00:29:28,125 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-04-24 00:29:28,134 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-04-24 00:29:28,139 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-04-24 00:29:28,147 - INFO - The current solver interface glpk doesn't support setting the optimality tolerance.
+2025-04-24 00:29:28,161 - INFO - 
+Running metabolic simulations...
+2025-04-24 00:29:28,171 - WARNING - Non-optimal solution for sample CSM5MCVN: infeasible
+2025-04-24 00:29:28,235 - WARNING - Non-optimal solution for sample CSM5MCWE: infeasible
+2025-04-24 00:29:28,239 - WARNING - Non-optimal solution for sample CSM5MCX3: infeasible
+2025-04-24 00:29:28,241 - WARNING - Non-optimal solution for sample CSM5MCXL: infeasible
+2025-04-24 00:29:28,242 - WARNING - Non-optimal solution for sample CSM5MCY8: infeasible
+2025-04-24 00:29:28,244 - WARNING - Non-optimal solution for sample CSM5MCZ3: infeasible
+2025-04-24 00:29:28,246 - WARNING - Non-optimal solution for sample CSM5MCZF: infeasible
+2025-04-24 00:29:28,248 - WARNING - Non-optimal solution for sample CSM67UA2: infeasible
+2025-04-24 00:29:28,249 - WARNING - Non-optimal solution for sample CSM67UAA: infeasible
+2025-04-24 00:29:28,251 - WARNING - Non-optimal solution for sample CSM67UAQ: infeasible
+2025-04-24 00:29:28,253 - WARNING - Non-optimal solution for sample CSM67UB1: infeasible
+2025-04-24 00:29:28,255 - WARNING - Non-optimal solution for sample CSM67UBB: infeasible
+2025-04-24 00:29:28,258 - WARNING - Non-optimal solution for sample CSM67UBH: infeasible
+2025-04-24 00:29:28,260 - WARNING - Non-optimal solution for sample CSM67UBN: infeasible
+2025-04-24 00:29:28,262 - WARNING - Non-optimal solution for sample CSM67UBZ: infeasible
+2025-04-24 00:29:28,263 - WARNING - Non-optimal solution for sample CSM67UCK: infeasible
+2025-04-24 00:29:28,266 - WARNING - Non-optimal solution for sample CSM67UDN: infeasible
+2025-04-24 00:29:28,268 - WARNING - Non-optimal solution for sample CSM67UEA: infeasible
+2025-04-24 00:29:28,270 - WARNING - Non-optimal solution for sample CSM67UEI: infeasible
+2025-04-24 00:29:28,271 - WARNING - Non-optimal solution for sample CSM67UEW: infeasible
+2025-04-24 00:29:28,273 - WARNING - Non-optimal solution for sample CSM67UF5: infeasible
+2025-04-24 00:29:28,275 - WARNING - Non-optimal solution for sample CSM67UFZ: infeasible
+2025-04-24 00:29:28,276 - WARNING - Non-optimal solution for sample CSM67UGO: infeasible
+2025-04-24 00:29:28,278 - WARNING - Non-optimal solution for sample CSM67UH7: infeasible
+2025-04-24 00:29:28,279 - WARNING - Non-optimal solution for sample CSM79HGP: infeasible
+2025-04-24 00:29:28,281 - WARNING - Non-optimal solution for sample CSM79HGZ: infeasible
+2025-04-24 00:29:28,283 - WARNING - Non-optimal solution for sample CSM79HH8: infeasible
+2025-04-24 00:29:28,285 - WARNING - Non-optimal solution for sample CSM79HHO: infeasible
+2025-04-24 00:29:28,287 - WARNING - Non-optimal solution for sample CSM79HI7: infeasible
+2025-04-24 00:29:28,288 - WARNING - Non-optimal solution for sample CSM79HIB: infeasible
+2025-04-24 00:29:28,290 - WARNING - Non-optimal solution for sample CSM79HIJ: infeasible
+2025-04-24 00:29:28,292 - WARNING - Non-optimal solution for sample CSM79HIT: infeasible
+2025-04-24 00:29:28,294 - WARNING - Non-optimal solution for sample CSM79HJM: infeasible
+2025-04-24 00:29:28,297 - WARNING - Non-optimal solution for sample CSM79HJS: infeasible
+2025-04-24 00:29:28,298 - WARNING - Non-optimal solution for sample CSM79HKB: infeasible
+2025-04-24 00:29:28,300 - WARNING - Non-optimal solution for sample CSM79HKZ: infeasible
+2025-04-24 00:29:28,303 - WARNING - Non-optimal solution for sample CSM79HLA: infeasible
+2025-04-24 00:29:28,305 - WARNING - Non-optimal solution for sample CSM79HLM: infeasible
+2025-04-24 00:29:28,307 - WARNING - Non-optimal solution for sample CSM79HMN: infeasible
+2025-04-24 00:29:28,310 - WARNING - Non-optimal solution for sample CSM79HN6: infeasible
+2025-04-24 00:29:28,312 - WARNING - Non-optimal solution for sample CSM79HOJ: infeasible
+2025-04-24 00:29:28,313 - WARNING - Non-optimal solution for sample CSM79HP4: infeasible
+2025-04-24 00:29:28,315 - WARNING - Non-optimal solution for sample CSM79HPA: infeasible
+2025-04-24 00:29:28,317 - WARNING - Non-optimal solution for sample CSM79HPS: infeasible
+2025-04-24 00:29:28,319 - WARNING - Non-optimal solution for sample CSM79HR6: infeasible
+2025-04-24 00:29:28,320 - WARNING - Non-optimal solution for sample CSM79HRG: infeasible
+2025-04-24 00:29:28,321 - WARNING - Non-optimal solution for sample CSM7KOJO: infeasible
+2025-04-24 00:29:28,323 - WARNING - Non-optimal solution for sample CSM7KOKB: infeasible
+2025-04-24 00:29:28,325 - WARNING - Non-optimal solution for sample CSM7KOKN: infeasible
+2025-04-24 00:29:28,327 - WARNING - Non-optimal solution for sample CSM7KOKZ: infeasible
+2025-04-24 00:29:28,328 - INFO - Progress: 50/382 samples processed
+2025-04-24 00:29:28,330 - WARNING - Non-optimal solution for sample CSM7KOLA: infeasible
+2025-04-24 00:29:28,331 - WARNING - Non-optimal solution for sample CSM7KOLE: infeasible
+2025-04-24 00:29:28,333 - WARNING - Non-optimal solution for sample CSM7KOLK: infeasible
+2025-04-24 00:29:28,335 - WARNING - Non-optimal solution for sample CSM7KOLY: infeasible
+2025-04-24 00:29:28,338 - WARNING - Non-optimal solution for sample CSM7KOMB: infeasible
+2025-04-24 00:29:28,339 - WARNING - Non-optimal solution for sample CSM7KOMT: infeasible
+2025-04-24 00:29:28,341 - WARNING - Non-optimal solution for sample CSM7KON2: infeasible
+2025-04-24 00:29:28,343 - WARNING - Non-optimal solution for sample CSM7KON8: infeasible
+2025-04-24 00:29:28,345 - WARNING - Non-optimal solution for sample CSM7KONA: infeasible
+2025-04-24 00:29:28,346 - WARNING - Non-optimal solution for sample CSM7KONK: infeasible
+2025-04-24 00:29:28,348 - WARNING - Non-optimal solution for sample CSM7KOO9: infeasible
+2025-04-24 00:29:28,350 - WARNING - Non-optimal solution for sample CSM7KOOF: infeasible
+2025-04-24 00:29:28,353 - WARNING - Non-optimal solution for sample CSM7KOOH: infeasible
+2025-04-24 00:29:28,355 - WARNING - Non-optimal solution for sample CSM7KOOV: infeasible
+2025-04-24 00:29:28,356 - WARNING - Non-optimal solution for sample CSM7KOP8: infeasible
+2025-04-24 00:29:28,358 - WARNING - Non-optimal solution for sample CSM7KOPE: infeasible
+2025-04-24 00:29:28,360 - WARNING - Non-optimal solution for sample CSM7KOPI: infeasible
+2025-04-24 00:29:28,362 - WARNING - Non-optimal solution for sample CSM7KOPS: infeasible
+2025-04-24 00:29:28,364 - WARNING - Non-optimal solution for sample CSM7KOQ1: infeasible
+2025-04-24 00:29:28,366 - WARNING - Non-optimal solution for sample CSM7KORK: infeasible
+2025-04-24 00:29:28,368 - WARNING - Non-optimal solution for sample CSM7KORU: infeasible
+2025-04-24 00:29:28,369 - WARNING - Non-optimal solution for sample CSM7KOSP: infeasible
+2025-04-24 00:29:28,372 - WARNING - Non-optimal solution for sample CSM7KOSV: infeasible
+2025-04-24 00:29:28,373 - WARNING - Non-optimal solution for sample CSM7KOTK: infeasible
+2025-04-24 00:29:28,375 - WARNING - Non-optimal solution for sample CSM7KOTU: infeasible
+2025-04-24 00:29:28,377 - WARNING - Non-optimal solution for sample CSM7KOU9: infeasible
+2025-04-24 00:29:28,379 - WARNING - Non-optimal solution for sample CSM7KOUL: infeasible
+2025-04-24 00:29:28,381 - WARNING - Non-optimal solution for sample CSM9X1Y5: infeasible
+2025-04-24 00:29:28,383 - WARNING - Non-optimal solution for sample CSM9X1YV: infeasible
+2025-04-24 00:29:28,384 - WARNING - Non-optimal solution for sample CSM9X1ZC: infeasible
+2025-04-24 00:29:28,386 - WARNING - Non-optimal solution for sample CSM9X211: infeasible
+2025-04-24 00:29:28,388 - WARNING - Non-optimal solution for sample CSM9X213: infeasible
+2025-04-24 00:29:28,389 - WARNING - Non-optimal solution for sample CSM9X21J: infeasible
+2025-04-24 00:29:28,390 - WARNING - Non-optimal solution for sample CSM9X22G: infeasible
+2025-04-24 00:29:28,393 - WARNING - Non-optimal solution for sample CSM9X22U: infeasible
+2025-04-24 00:29:28,395 - WARNING - Non-optimal solution for sample CSM9X237: infeasible
+2025-04-24 00:29:28,397 - WARNING - Non-optimal solution for sample CSM9X23B: infeasible
+2025-04-24 00:29:28,399 - WARNING - Non-optimal solution for sample CSMA9J65: infeasible
+2025-04-24 00:29:28,401 - WARNING - Non-optimal solution for sample CSMAG78W: infeasible
+2025-04-24 00:29:28,402 - WARNING - Non-optimal solution for sample CSMAIG7X: infeasible
+2025-04-24 00:29:28,404 - WARNING - Non-optimal solution for sample ESM5MEBE: infeasible
+2025-04-24 00:29:28,406 - WARNING - Non-optimal solution for sample ESM5MEBG: infeasible
+2025-04-24 00:29:28,409 - WARNING - Non-optimal solution for sample ESM5MEBU: infeasible
+2025-04-24 00:29:28,411 - WARNING - Non-optimal solution for sample ESM5MEC5: infeasible
+2025-04-24 00:29:28,412 - WARNING - Non-optimal solution for sample ESM5MECL: infeasible
+2025-04-24 00:29:28,414 - WARNING - Non-optimal solution for sample ESM5MEDD: infeasible
+2025-04-24 00:29:28,416 - WARNING - Non-optimal solution for sample ESM5MEDN: infeasible
+2025-04-24 00:29:28,419 - WARNING - Non-optimal solution for sample ESM718SY: infeasible
+2025-04-24 00:29:28,421 - WARNING - Non-optimal solution for sample ESM718TF: infeasible
+2025-04-24 00:29:28,423 - WARNING - Non-optimal solution for sample ESM718TM: infeasible
+2025-04-24 00:29:28,424 - INFO - Progress: 100/382 samples processed
+2025-04-24 00:29:28,426 - WARNING - Non-optimal solution for sample ESM718UH: infeasible
+2025-04-24 00:29:28,428 - WARNING - Non-optimal solution for sample ESM718V8: infeasible
+2025-04-24 00:29:28,430 - WARNING - Non-optimal solution for sample ESM7F5AK: infeasible
+2025-04-24 00:29:28,431 - WARNING - Non-optimal solution for sample ESM9IEP1: infeasible
+2025-04-24 00:29:28,433 - WARNING - Non-optimal solution for sample HSM5MD3Y: infeasible
+2025-04-24 00:29:28,435 - WARNING - Non-optimal solution for sample HSM5MD41: infeasible
+2025-04-24 00:29:28,437 - WARNING - Non-optimal solution for sample HSM5MD43: infeasible
+2025-04-24 00:29:28,439 - WARNING - Non-optimal solution for sample HSM5MD4O: infeasible
+2025-04-24 00:29:28,441 - WARNING - Non-optimal solution for sample HSM5MD5D: infeasible
+2025-04-24 00:29:28,443 - WARNING - Non-optimal solution for sample HSM5MD5P: infeasible
+2025-04-24 00:29:28,444 - WARNING - Non-optimal solution for sample HSM5MD62: infeasible
+2025-04-24 00:29:28,446 - WARNING - Non-optimal solution for sample HSM5MD6A: infeasible
+2025-04-24 00:29:28,448 - WARNING - Non-optimal solution for sample HSM5MD6K: infeasible
+2025-04-24 00:29:28,449 - WARNING - Non-optimal solution for sample HSM5MD73: infeasible
+2025-04-24 00:29:28,451 - WARNING - Non-optimal solution for sample HSM5MD79: infeasible
+2025-04-24 00:29:28,453 - WARNING - Non-optimal solution for sample HSM5MD7J: infeasible
+2025-04-24 00:29:28,455 - WARNING - Non-optimal solution for sample HSM5MD7O: infeasible
+2025-04-24 00:29:28,457 - WARNING - Non-optimal solution for sample HSM67VCZ: infeasible
+2025-04-24 00:29:28,458 - WARNING - Non-optimal solution for sample HSM67VD6: infeasible
+2025-04-24 00:29:28,460 - WARNING - Non-optimal solution for sample HSM67VEE: infeasible
+2025-04-24 00:29:28,461 - WARNING - Non-optimal solution for sample HSM67VES: infeasible
+2025-04-24 00:29:28,463 - WARNING - Non-optimal solution for sample HSM67VF3: infeasible
+2025-04-24 00:29:28,465 - WARNING - Non-optimal solution for sample HSM67VFR: infeasible
+2025-04-24 00:29:28,467 - WARNING - Non-optimal solution for sample HSM67VFZ: infeasible
+2025-04-24 00:29:28,469 - WARNING - Non-optimal solution for sample HSM67VGA: infeasible
+2025-04-24 00:29:28,472 - WARNING - Non-optimal solution for sample HSM67VGG: infeasible
+2025-04-24 00:29:28,473 - WARNING - Non-optimal solution for sample HSM67VH1: infeasible
+2025-04-24 00:29:28,475 - WARNING - Non-optimal solution for sample HSM67VHF: infeasible
+2025-04-24 00:29:28,477 - WARNING - Non-optimal solution for sample HSM67VI5: infeasible
+2025-04-24 00:29:28,479 - WARNING - Non-optimal solution for sample HSM6XRQ8: infeasible
+2025-04-24 00:29:28,482 - WARNING - Non-optimal solution for sample HSM6XRQB: infeasible
+2025-04-24 00:29:28,483 - WARNING - Non-optimal solution for sample HSM6XRQM: infeasible
+2025-04-24 00:29:28,485 - WARNING - Non-optimal solution for sample HSM6XRQW: infeasible
+2025-04-24 00:29:28,487 - WARNING - Non-optimal solution for sample HSM6XRRD: infeasible
+2025-04-24 00:29:28,488 - WARNING - Non-optimal solution for sample HSM6XRRJ: infeasible
+2025-04-24 00:29:28,490 - WARNING - Non-optimal solution for sample HSM6XRRV: infeasible
+2025-04-24 00:29:28,491 - WARNING - Non-optimal solution for sample HSM6XRS8: infeasible
+2025-04-24 00:29:28,494 - WARNING - Non-optimal solution for sample HSM6XRSG: infeasible
+2025-04-24 00:29:28,495 - WARNING - Non-optimal solution for sample HSM6XRSN: infeasible
+2025-04-24 00:29:28,497 - WARNING - Non-optimal solution for sample HSM6XRTM: infeasible
+2025-04-24 00:29:28,499 - WARNING - Non-optimal solution for sample HSM6XRTQ: infeasible
+2025-04-24 00:29:28,501 - WARNING - Non-optimal solution for sample HSM6XRV2: infeasible
+2025-04-24 00:29:28,503 - WARNING - Non-optimal solution for sample HSM6XRVC: infeasible
+2025-04-24 00:29:28,505 - WARNING - Non-optimal solution for sample HSM6XRVK: infeasible
+2025-04-24 00:29:28,508 - WARNING - Non-optimal solution for sample HSM6XRVO: infeasible
+2025-04-24 00:29:28,510 - WARNING - Non-optimal solution for sample HSM6XRVW: infeasible
+2025-04-24 00:29:28,512 - WARNING - Non-optimal solution for sample HSM7CYX2: infeasible
+2025-04-24 00:29:28,514 - WARNING - Non-optimal solution for sample HSM7CYXA: infeasible
+2025-04-24 00:29:28,515 - WARNING - Non-optimal solution for sample HSM7CYY3: infeasible
+2025-04-24 00:29:28,517 - WARNING - Non-optimal solution for sample HSM7CYYB: infeasible
+2025-04-24 00:29:28,517 - INFO - Progress: 150/382 samples processed
+2025-04-24 00:29:28,520 - WARNING - Non-optimal solution for sample HSM7CYYF: infeasible
+2025-04-24 00:29:28,522 - WARNING - Non-optimal solution for sample HSM7CYZ7: infeasible
+2025-04-24 00:29:28,524 - WARNING - Non-optimal solution for sample HSM7CYZJ: infeasible
+2025-04-24 00:29:28,525 - WARNING - Non-optimal solution for sample HSM7CYZT: infeasible
+2025-04-24 00:29:28,528 - WARNING - Non-optimal solution for sample HSM7CZ14: infeasible
+2025-04-24 00:29:28,529 - WARNING - Non-optimal solution for sample HSM7CZ32: infeasible
+2025-04-24 00:29:28,531 - WARNING - Non-optimal solution for sample HSM7CZ38: infeasible
+2025-04-24 00:29:28,532 - WARNING - Non-optimal solution for sample HSM7CZ3G: infeasible
+2025-04-24 00:29:28,534 - WARNING - Non-optimal solution for sample HSM7J4G1: infeasible
+2025-04-24 00:29:28,537 - WARNING - Non-optimal solution for sample HSM7J4GR: infeasible
+2025-04-24 00:29:28,539 - WARNING - Non-optimal solution for sample HSM7J4HC: infeasible
+2025-04-24 00:29:28,540 - WARNING - Non-optimal solution for sample HSM7J4HO: infeasible
+2025-04-24 00:29:28,542 - WARNING - Non-optimal solution for sample HSM7J4HS: infeasible
+2025-04-24 00:29:28,544 - WARNING - Non-optimal solution for sample HSM7J4I3: infeasible
+2025-04-24 00:29:28,545 - WARNING - Non-optimal solution for sample HSM7J4I7: infeasible
+2025-04-24 00:29:28,547 - WARNING - Non-optimal solution for sample HSM7J4IC: infeasible
+2025-04-24 00:29:28,549 - WARNING - Non-optimal solution for sample HSM7J4IS: infeasible
+2025-04-24 00:29:28,551 - WARNING - Non-optimal solution for sample HSM7J4IU: infeasible
+2025-04-24 00:29:28,553 - WARNING - Non-optimal solution for sample HSM7J4J7: infeasible
+2025-04-24 00:29:28,555 - WARNING - Non-optimal solution for sample HSM7J4JF: infeasible
+2025-04-24 00:29:28,557 - WARNING - Non-optimal solution for sample HSM7J4JZ: infeasible
+2025-04-24 00:29:28,558 - WARNING - Non-optimal solution for sample HSM7J4K8: infeasible
+2025-04-24 00:29:28,560 - WARNING - Non-optimal solution for sample HSM7J4KC: infeasible
+2025-04-24 00:29:28,562 - WARNING - Non-optimal solution for sample HSM7J4KK: infeasible
+2025-04-24 00:29:28,564 - WARNING - Non-optimal solution for sample HSM7J4KQ: infeasible
+2025-04-24 00:29:28,567 - WARNING - Non-optimal solution for sample HSM7J4L9: infeasible
+2025-04-24 00:29:28,569 - WARNING - Non-optimal solution for sample HSM7J4LD: infeasible
+2025-04-24 00:29:28,570 - WARNING - Non-optimal solution for sample HSM7J4LN: infeasible
+2025-04-24 00:29:28,572 - WARNING - Non-optimal solution for sample HSM7J4LP: infeasible
+2025-04-24 00:29:28,574 - WARNING - Non-optimal solution for sample HSM7J4M4: infeasible
+2025-04-24 00:29:28,576 - WARNING - Non-optimal solution for sample HSM7J4ME: infeasible
+2025-04-24 00:29:28,577 - WARNING - Non-optimal solution for sample HSM7J4MK: infeasible
+2025-04-24 00:29:28,580 - WARNING - Non-optimal solution for sample HSM7J4MS: infeasible
+2025-04-24 00:29:28,582 - WARNING - Non-optimal solution for sample HSM7J4MY: infeasible
+2025-04-24 00:29:28,584 - WARNING - Non-optimal solution for sample HSM7J4N4: infeasible
+2025-04-24 00:29:28,586 - WARNING - Non-optimal solution for sample HSM7J4NA: infeasible
+2025-04-24 00:29:28,587 - WARNING - Non-optimal solution for sample HSM7J4NE: infeasible
+2025-04-24 00:29:28,589 - WARNING - Non-optimal solution for sample HSM7J4O1: infeasible
+2025-04-24 00:29:28,590 - WARNING - Non-optimal solution for sample HSM7J4O3: infeasible
+2025-04-24 00:29:28,592 - WARNING - Non-optimal solution for sample HSM7J4OE: infeasible
+2025-04-24 00:29:28,594 - WARNING - Non-optimal solution for sample HSM7J4OT: infeasible
+2025-04-24 00:29:28,596 - WARNING - Non-optimal solution for sample HSM7J4OZ: infeasible
+2025-04-24 00:29:28,598 - WARNING - Non-optimal solution for sample HSM7J4PE: infeasible
+2025-04-24 00:29:28,599 - WARNING - Non-optimal solution for sample HSM7J4PW: infeasible
+2025-04-24 00:29:28,601 - WARNING - Non-optimal solution for sample HSM7J4QB: infeasible
+2025-04-24 00:29:28,603 - WARNING - Non-optimal solution for sample HSM7J4QT: infeasible
+2025-04-24 00:29:28,606 - WARNING - Non-optimal solution for sample HSM7J4R2: infeasible
+2025-04-24 00:29:28,608 - WARNING - Non-optimal solution for sample HSMA33J5: infeasible
+2025-04-24 00:29:28,610 - WARNING - Non-optimal solution for sample HSMA33J9: infeasible
+2025-04-24 00:29:28,612 - WARNING - Non-optimal solution for sample HSMA33JB: infeasible
+2025-04-24 00:29:28,612 - INFO - Progress: 200/382 samples processed
+2025-04-24 00:29:28,614 - WARNING - Non-optimal solution for sample HSMA33JP: infeasible
+2025-04-24 00:29:28,615 - WARNING - Non-optimal solution for sample HSMA33L1: infeasible
+2025-04-24 00:29:28,617 - WARNING - Non-optimal solution for sample HSMA33M8: infeasible
+2025-04-24 00:29:28,619 - WARNING - Non-optimal solution for sample HSMA33MI: infeasible
+2025-04-24 00:29:28,620 - WARNING - Non-optimal solution for sample HSMA33MZ: infeasible
+2025-04-24 00:29:28,623 - WARNING - Non-optimal solution for sample HSMA33NQ: infeasible
+2025-04-24 00:29:28,625 - WARNING - Non-optimal solution for sample HSMA33NW: infeasible
+2025-04-24 00:29:28,626 - WARNING - Non-optimal solution for sample HSMA33NY: infeasible
+2025-04-24 00:29:28,628 - WARNING - Non-optimal solution for sample HSMA33O1: infeasible
+2025-04-24 00:29:28,630 - WARNING - Non-optimal solution for sample HSMA33OJ: infeasible
+2025-04-24 00:29:28,631 - WARNING - Non-optimal solution for sample HSMA33OR: infeasible
+2025-04-24 00:29:28,633 - WARNING - Non-optimal solution for sample HSMA33OZ: infeasible
+2025-04-24 00:29:28,634 - WARNING - Non-optimal solution for sample HSMA33PZ: infeasible
+2025-04-24 00:29:28,637 - WARNING - Non-optimal solution for sample HSMA33Q6: infeasible
+2025-04-24 00:29:28,639 - WARNING - Non-optimal solution for sample HSMA33QO: infeasible
+2025-04-24 00:29:28,640 - WARNING - Non-optimal solution for sample HSMA33R7: infeasible
+2025-04-24 00:29:28,642 - WARNING - Non-optimal solution for sample HSMA33R9: infeasible
+2025-04-24 00:29:28,644 - WARNING - Non-optimal solution for sample HSMA33RX: infeasible
+2025-04-24 00:29:28,645 - WARNING - Non-optimal solution for sample HSMA33SG: infeasible
+2025-04-24 00:29:28,646 - WARNING - Non-optimal solution for sample HSMA33SK: infeasible
+2025-04-24 00:29:28,648 - WARNING - Non-optimal solution for sample MSM5LLDA: infeasible
+2025-04-24 00:29:28,650 - WARNING - Non-optimal solution for sample MSM5LLDI: infeasible
+2025-04-24 00:29:28,652 - WARNING - Non-optimal solution for sample MSM5LLDS: infeasible
+2025-04-24 00:29:28,654 - WARNING - Non-optimal solution for sample MSM5LLF4: infeasible
+2025-04-24 00:29:28,655 - WARNING - Non-optimal solution for sample MSM6J2HF: infeasible
+2025-04-24 00:29:28,657 - WARNING - Non-optimal solution for sample MSM6J2HT: infeasible
+2025-04-24 00:29:28,659 - WARNING - Non-optimal solution for sample MSM6J2IG: infeasible
+2025-04-24 00:29:28,660 - WARNING - Non-optimal solution for sample MSM6J2IQ: infeasible
+2025-04-24 00:29:28,662 - WARNING - Non-optimal solution for sample MSM6J2J1: infeasible
+2025-04-24 00:29:28,665 - WARNING - Non-optimal solution for sample MSM6J2J5: infeasible
+2025-04-24 00:29:28,666 - WARNING - Non-optimal solution for sample MSM6J2JR: infeasible
+2025-04-24 00:29:28,668 - WARNING - Non-optimal solution for sample MSM6J2K6: infeasible
+2025-04-24 00:29:28,670 - WARNING - Non-optimal solution for sample MSM6J2KE: infeasible
+2025-04-24 00:29:28,671 - WARNING - Non-optimal solution for sample MSM6J2LB: infeasible
+2025-04-24 00:29:28,673 - WARNING - Non-optimal solution for sample MSM6J2LL: infeasible
+2025-04-24 00:29:28,675 - WARNING - Non-optimal solution for sample MSM6J2LT: infeasible
+2025-04-24 00:29:28,676 - WARNING - Non-optimal solution for sample MSM6J2M3: infeasible
+2025-04-24 00:29:28,680 - WARNING - Non-optimal solution for sample MSM6J2MB: infeasible
+2025-04-24 00:29:28,682 - WARNING - Non-optimal solution for sample MSM6J2MH: infeasible
+2025-04-24 00:29:28,683 - WARNING - Non-optimal solution for sample MSM6J2OH: infeasible
+2025-04-24 00:29:28,685 - WARNING - Non-optimal solution for sample MSM6J2OP: infeasible
+2025-04-24 00:29:28,687 - WARNING - Non-optimal solution for sample MSM6J2PM: infeasible
+2025-04-24 00:29:28,689 - WARNING - Non-optimal solution for sample MSM6J2PO: infeasible
+2025-04-24 00:29:28,691 - WARNING - Non-optimal solution for sample MSM6J2PU: infeasible
+2025-04-24 00:29:28,694 - WARNING - Non-optimal solution for sample MSM6J2Q1: infeasible
+2025-04-24 00:29:28,695 - WARNING - Non-optimal solution for sample MSM6J2Q3: infeasible
+2025-04-24 00:29:28,697 - WARNING - Non-optimal solution for sample MSM6J2QP: infeasible
+2025-04-24 00:29:28,699 - WARNING - Non-optimal solution for sample MSM6J2R2: infeasible
+2025-04-24 00:29:28,701 - WARNING - Non-optimal solution for sample MSM6J2R8: infeasible
+2025-04-24 00:29:28,702 - WARNING - Non-optimal solution for sample MSM6J2RO: infeasible
+2025-04-24 00:29:28,703 - INFO - Progress: 250/382 samples processed
+2025-04-24 00:29:28,704 - WARNING - Non-optimal solution for sample MSM6J2SE: infeasible
+2025-04-24 00:29:28,708 - WARNING - Non-optimal solution for sample MSM79H5G: infeasible
+2025-04-24 00:29:28,711 - WARNING - Non-optimal solution for sample MSM79H5Q: infeasible
+2025-04-24 00:29:28,713 - WARNING - Non-optimal solution for sample MSM79H63: infeasible
+2025-04-24 00:29:28,715 - WARNING - Non-optimal solution for sample MSM79H6F: infeasible
+2025-04-24 00:29:28,716 - WARNING - Non-optimal solution for sample MSM79H6Y: infeasible
+2025-04-24 00:29:28,718 - WARNING - Non-optimal solution for sample MSM79H7G: infeasible
+2025-04-24 00:29:28,720 - WARNING - Non-optimal solution for sample MSM79H7M: infeasible
+2025-04-24 00:29:28,722 - WARNING - Non-optimal solution for sample MSM79H7Q: infeasible
+2025-04-24 00:29:28,723 - WARNING - Non-optimal solution for sample MSM79H7Y: infeasible
+2025-04-24 00:29:28,725 - WARNING - Non-optimal solution for sample MSM79H85: infeasible
+2025-04-24 00:29:28,727 - WARNING - Non-optimal solution for sample MSM79H8D: infeasible
+2025-04-24 00:29:28,729 - WARNING - Non-optimal solution for sample MSM79H9G: infeasible
+2025-04-24 00:29:28,731 - WARNING - Non-optimal solution for sample MSM79H9Q: infeasible
+2025-04-24 00:29:28,733 - WARNING - Non-optimal solution for sample MSM79HA3: infeasible
+2025-04-24 00:29:28,735 - WARNING - Non-optimal solution for sample MSM79HAH: infeasible
+2025-04-24 00:29:28,738 - WARNING - Non-optimal solution for sample MSM79HAJ: infeasible
+2025-04-24 00:29:28,739 - WARNING - Non-optimal solution for sample MSM79HAN: infeasible
+2025-04-24 00:29:28,741 - WARNING - Non-optimal solution for sample MSM79HB6: infeasible
+2025-04-24 00:29:28,743 - WARNING - Non-optimal solution for sample MSM79HC8: infeasible
+2025-04-24 00:29:28,745 - WARNING - Non-optimal solution for sample MSM79HCR: infeasible
+2025-04-24 00:29:28,747 - WARNING - Non-optimal solution for sample MSM79HDA: infeasible
+2025-04-24 00:29:28,748 - WARNING - Non-optimal solution for sample MSM79HDE: infeasible
+2025-04-24 00:29:28,751 - WARNING - Non-optimal solution for sample MSM79HDQ: infeasible
+2025-04-24 00:29:28,753 - WARNING - Non-optimal solution for sample MSM79HEY: infeasible
+2025-04-24 00:29:28,755 - WARNING - Non-optimal solution for sample MSM9VZEK: infeasible
+2025-04-24 00:29:28,757 - WARNING - Non-optimal solution for sample MSM9VZES: infeasible
+2025-04-24 00:29:28,759 - WARNING - Non-optimal solution for sample MSM9VZEW: infeasible
+2025-04-24 00:29:28,761 - WARNING - Non-optimal solution for sample MSM9VZF7: infeasible
+2025-04-24 00:29:28,762 - WARNING - Non-optimal solution for sample MSM9VZFR: infeasible
+2025-04-24 00:29:28,766 - WARNING - Non-optimal solution for sample MSM9VZGO: infeasible
+2025-04-24 00:29:28,768 - WARNING - Non-optimal solution for sample MSM9VZHB: infeasible
+2025-04-24 00:29:28,770 - WARNING - Non-optimal solution for sample MSM9VZHF: infeasible
+2025-04-24 00:29:28,772 - WARNING - Non-optimal solution for sample MSM9VZHR: infeasible
+2025-04-24 00:29:28,773 - WARNING - Non-optimal solution for sample MSM9VZHX: infeasible
+2025-04-24 00:29:28,775 - WARNING - Non-optimal solution for sample MSM9VZI6: infeasible
+2025-04-24 00:29:28,776 - WARNING - Non-optimal solution for sample MSM9VZIM: infeasible
+2025-04-24 00:29:28,778 - WARNING - Non-optimal solution for sample MSM9VZIQ: infeasible
+2025-04-24 00:29:28,780 - WARNING - Non-optimal solution for sample MSM9VZJ3: infeasible
+2025-04-24 00:29:28,782 - WARNING - Non-optimal solution for sample MSM9VZJZ: infeasible
+2025-04-24 00:29:28,784 - WARNING - Non-optimal solution for sample MSM9VZKE: infeasible
+2025-04-24 00:29:28,787 - WARNING - Non-optimal solution for sample MSM9VZL9: infeasible
+2025-04-24 00:29:28,789 - WARNING - Non-optimal solution for sample MSM9VZLJ: infeasible
+2025-04-24 00:29:28,790 - WARNING - Non-optimal solution for sample MSM9VZLP: infeasible
+2025-04-24 00:29:28,793 - WARNING - Non-optimal solution for sample MSM9VZLV: infeasible
+2025-04-24 00:29:28,795 - WARNING - Non-optimal solution for sample MSM9VZME: infeasible
+2025-04-24 00:29:28,797 - WARNING - Non-optimal solution for sample MSM9VZMM: infeasible
+2025-04-24 00:29:28,799 - WARNING - Non-optimal solution for sample MSM9VZMU: infeasible
+2025-04-24 00:29:28,801 - WARNING - Non-optimal solution for sample MSM9VZNL: infeasible
+2025-04-24 00:29:28,802 - WARNING - Non-optimal solution for sample MSM9VZNX: infeasible
+2025-04-24 00:29:28,803 - INFO - Progress: 300/382 samples processed
+2025-04-24 00:29:28,804 - WARNING - Non-optimal solution for sample MSM9VZOI: infeasible
+2025-04-24 00:29:28,807 - WARNING - Non-optimal solution for sample MSM9VZOO: infeasible
+2025-04-24 00:29:28,809 - WARNING - Non-optimal solution for sample MSM9VZOU: infeasible
+2025-04-24 00:29:28,811 - WARNING - Non-optimal solution for sample MSM9VZP3: infeasible
+2025-04-24 00:29:28,813 - WARNING - Non-optimal solution for sample MSM9VZPL: infeasible
+2025-04-24 00:29:28,815 - WARNING - Non-optimal solution for sample MSMA267V: infeasible
+2025-04-24 00:29:28,817 - WARNING - Non-optimal solution for sample MSMA26AL: infeasible
+2025-04-24 00:29:28,818 - WARNING - Non-optimal solution for sample MSMA26AZ: infeasible
+2025-04-24 00:29:28,822 - WARNING - Non-optimal solution for sample MSMA26BB: infeasible
+2025-04-24 00:29:28,824 - WARNING - Non-optimal solution for sample MSMA26BR: infeasible
+2025-04-24 00:29:28,825 - WARNING - Non-optimal solution for sample MSMA26CX: infeasible
+2025-04-24 00:29:28,827 - WARNING - Non-optimal solution for sample MSMA26DG: infeasible
+2025-04-24 00:29:28,829 - WARNING - Non-optimal solution for sample MSMA26DO: infeasible
+2025-04-24 00:29:28,830 - WARNING - Non-optimal solution for sample MSMA26EJ: infeasible
+2025-04-24 00:29:28,832 - WARNING - Non-optimal solution for sample MSMA26ET: infeasible
+2025-04-24 00:29:28,834 - WARNING - Non-optimal solution for sample MSMAPC5D: infeasible
+2025-04-24 00:29:28,836 - WARNING - Non-optimal solution for sample MSMAPC6G: infeasible
+2025-04-24 00:29:28,838 - WARNING - Non-optimal solution for sample MSMAPC6K: infeasible
+2025-04-24 00:29:28,840 - WARNING - Non-optimal solution for sample MSMAPC7J: infeasible
+2025-04-24 00:29:28,842 - WARNING - Non-optimal solution for sample MSMAPC7T: infeasible
+2025-04-24 00:29:28,843 - WARNING - Non-optimal solution for sample MSMB4LXW: infeasible
+2025-04-24 00:29:28,845 - WARNING - Non-optimal solution for sample MSMB4LXY: infeasible
+2025-04-24 00:29:28,848 - WARNING - Non-optimal solution for sample MSMB4LYB: infeasible
+2025-04-24 00:29:28,850 - WARNING - Non-optimal solution for sample MSMB4LYH: infeasible
+2025-04-24 00:29:28,852 - WARNING - Non-optimal solution for sample MSMB4LZ4: infeasible
+2025-04-24 00:29:28,854 - WARNING - Non-optimal solution for sample MSMB4LZ8: infeasible
+2025-04-24 00:29:28,855 - WARNING - Non-optimal solution for sample MSMB4LZC: infeasible
+2025-04-24 00:29:28,857 - WARNING - Non-optimal solution for sample MSMB4LZK: infeasible
+2025-04-24 00:29:28,858 - WARNING - Non-optimal solution for sample MSMB4LZR: infeasible
+2025-04-24 00:29:28,861 - WARNING - Non-optimal solution for sample MSMB4LZX: infeasible
+2025-04-24 00:29:28,863 - WARNING - Non-optimal solution for sample PSM6XBQY: infeasible
+2025-04-24 00:29:28,865 - WARNING - Non-optimal solution for sample PSM6XBRK: infeasible
+2025-04-24 00:29:28,867 - WARNING - Non-optimal solution for sample PSM6XBSE: infeasible
+2025-04-24 00:29:28,869 - WARNING - Non-optimal solution for sample PSM6XBSI: infeasible
+2025-04-24 00:29:28,871 - WARNING - Non-optimal solution for sample PSM6XBSK: infeasible
+2025-04-24 00:29:28,873 - WARNING - Non-optimal solution for sample PSM6XBSS: infeasible
+2025-04-24 00:29:28,876 - WARNING - Non-optimal solution for sample PSM6XBT3: infeasible
+2025-04-24 00:29:28,878 - WARNING - Non-optimal solution for sample PSM6XBUG: infeasible
+2025-04-24 00:29:28,880 - WARNING - Non-optimal solution for sample PSM6XBUO: infeasible
+2025-04-24 00:29:28,881 - WARNING - Non-optimal solution for sample PSM6XBVM: infeasible
+2025-04-24 00:29:28,883 - WARNING - Non-optimal solution for sample PSM7J12F: infeasible
+2025-04-24 00:29:28,885 - WARNING - Non-optimal solution for sample PSM7J12J: infeasible
+2025-04-24 00:29:28,887 - WARNING - Non-optimal solution for sample PSM7J12R: infeasible
+2025-04-24 00:29:28,889 - WARNING - Non-optimal solution for sample PSM7J12V: infeasible
+2025-04-24 00:29:28,891 - WARNING - Non-optimal solution for sample PSM7J136: infeasible
+2025-04-24 00:29:28,893 - WARNING - Non-optimal solution for sample PSM7J13E: infeasible
+2025-04-24 00:29:28,895 - WARNING - Non-optimal solution for sample PSM7J141: infeasible
+2025-04-24 00:29:28,898 - WARNING - Non-optimal solution for sample PSM7J14L: infeasible
+2025-04-24 00:29:28,899 - WARNING - Non-optimal solution for sample PSM7J14T: infeasible
+2025-04-24 00:29:28,901 - WARNING - Non-optimal solution for sample PSM7J14X: infeasible
+2025-04-24 00:29:28,901 - INFO - Progress: 350/382 samples processed
+2025-04-24 00:29:28,903 - WARNING - Non-optimal solution for sample PSM7J156: infeasible
+2025-04-24 00:29:28,905 - WARNING - Non-optimal solution for sample PSM7J158: infeasible
+2025-04-24 00:29:28,907 - WARNING - Non-optimal solution for sample PSM7J15M: infeasible
+2025-04-24 00:29:28,910 - WARNING - Non-optimal solution for sample PSM7J15U: infeasible
+2025-04-24 00:29:28,911 - WARNING - Non-optimal solution for sample PSM7J161: infeasible
+2025-04-24 00:29:28,913 - WARNING - Non-optimal solution for sample PSM7J16Y: infeasible
+2025-04-24 00:29:28,915 - WARNING - Non-optimal solution for sample PSM7J17F: infeasible
+2025-04-24 00:29:28,916 - WARNING - Non-optimal solution for sample PSM7J17L: infeasible
+2025-04-24 00:29:28,918 - WARNING - Non-optimal solution for sample PSM7J17X: infeasible
+2025-04-24 00:29:28,921 - WARNING - Non-optimal solution for sample PSM7J193: infeasible
+2025-04-24 00:29:28,923 - WARNING - Non-optimal solution for sample PSM7J19B: infeasible
+2025-04-24 00:29:28,925 - WARNING - Non-optimal solution for sample PSM7J19J: infeasible
+2025-04-24 00:29:28,927 - WARNING - Non-optimal solution for sample PSM7J1A2: infeasible
+2025-04-24 00:29:28,929 - WARNING - Non-optimal solution for sample PSM7J1AU: infeasible
+2025-04-24 00:29:28,930 - WARNING - Non-optimal solution for sample PSM7J1BF: infeasible
+2025-04-24 00:29:28,932 - WARNING - Non-optimal solution for sample PSM7J1CC: infeasible
+2025-04-24 00:29:28,934 - WARNING - Non-optimal solution for sample PSM7J1CU: infeasible
+2025-04-24 00:29:28,936 - WARNING - Non-optimal solution for sample PSMA263W: infeasible
+2025-04-24 00:29:28,937 - WARNING - Non-optimal solution for sample PSMA264Q: infeasible
+2025-04-24 00:29:28,939 - WARNING - Non-optimal solution for sample PSMA265H: infeasible
+2025-04-24 00:29:28,941 - WARNING - Non-optimal solution for sample PSMA265N: infeasible
+2025-04-24 00:29:28,943 - WARNING - Non-optimal solution for sample PSMA265T: infeasible
+2025-04-24 00:29:28,944 - WARNING - Non-optimal solution for sample PSMA265X: infeasible
+2025-04-24 00:29:28,946 - WARNING - Non-optimal solution for sample PSMA266I: infeasible
+2025-04-24 00:29:28,947 - WARNING - Non-optimal solution for sample PSMA266Q: infeasible
+2025-04-24 00:29:28,949 - WARNING - Non-optimal solution for sample PSMA2675: infeasible
+2025-04-24 00:29:28,951 - WARNING - Non-optimal solution for sample PSMA267J: infeasible
+2025-04-24 00:29:28,953 - WARNING - Non-optimal solution for sample PSMA267P: infeasible
+2025-04-24 00:29:28,954 - WARNING - Non-optimal solution for sample PSMA269W: infeasible
+2025-04-24 00:29:28,956 - WARNING - Non-optimal solution for sample PSMA26A3: infeasible
+2025-04-24 00:29:28,958 - WARNING - Non-optimal solution for sample PSMB4MBK: infeasible
+2025-04-24 00:29:28,960 - WARNING - Non-optimal solution for sample PSMB4MC5: infeasible
+2025-04-24 00:29:28,961 - INFO - Simulation complete: 0 successful, 382 failed
+2025-04-24 00:29:29,026 - INFO - Dataset with butyrate fluxes saved as 'C:\RESEARCH-PROJECT\IHMP\DONE\ubarkbarkjb_with_butyrate_flux.tsv'
+2025-04-24 00:29:29,065 - INFO - 
+Summary statistics:
+2025-04-24 00:29:29,070 - INFO -        avg_daily_fiber  butyrate_flux  normalized_inflammation
+count       382.000000            0.0               382.000000
+mean          4.274818            NaN                 0.221849
+std           3.366647            NaN                 0.256979
+min           0.166667            NaN                 0.000000
+25%           1.541667            NaN                 0.014234
+50%           3.533333            NaN                 0.132131
+75%           5.983333            NaN                 0.325240
+max          16.956667            NaN                 1.000000
+2025-04-24 00:29:29,081 - INFO - 
+Data Head:
+2025-04-24 00:29:29,083 - INFO -      Sample  avg_daily_fiber  butyrate_flux  normalized_inflammation
+0  CSM5MCVN         9.413333            NaN                 0.010180
+1  CSM5MCWE         9.900000            NaN                 0.021574
+2  CSM5MCX3        12.480667            NaN                 0.002161
+3  CSM5MCXL         7.033333            NaN                 0.007357
+4  CSM5MCY8        12.423333            NaN                 0.530969
+2025-04-24 00:29:29,093 - INFO - 
+Correlation between butyrate_flux and normalized_inflammation: nan
+2025-04-24 00:33:25,777 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-04-24 00:33:25,778 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-04-24 00:33:25,781 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-04-24 00:33:25,783 - INFO - The current solver interface glpk doesn't support setting the optimality tolerance.
+2025-04-24 00:33:25,791 - INFO - 
+Running metabolic simulations...
+2025-04-24 00:33:25,796 - WARNING - Non-optimal solution for sample CSM5MCVN: infeasible
+2025-04-24 00:33:25,856 - WARNING - Non-optimal solution for sample CSM5MCWE: infeasible
+2025-04-24 00:33:25,859 - WARNING - Non-optimal solution for sample CSM5MCX3: infeasible
+2025-04-24 00:33:25,861 - WARNING - Non-optimal solution for sample CSM5MCXL: infeasible
+2025-04-24 00:33:25,862 - WARNING - Non-optimal solution for sample CSM5MCY8: infeasible
+2025-04-24 00:33:25,864 - WARNING - Non-optimal solution for sample CSM5MCZ3: infeasible
+2025-04-24 00:33:25,866 - WARNING - Non-optimal solution for sample CSM5MCZF: infeasible
+2025-04-24 00:33:25,868 - WARNING - Non-optimal solution for sample CSM67UA2: infeasible
+2025-04-24 00:33:25,870 - WARNING - Non-optimal solution for sample CSM67UAA: infeasible
+2025-04-24 00:33:25,873 - WARNING - Non-optimal solution for sample CSM67UAQ: infeasible
+2025-04-24 00:33:25,876 - WARNING - Non-optimal solution for sample CSM67UB1: infeasible
+2025-04-24 00:33:25,879 - WARNING - Non-optimal solution for sample CSM67UBB: infeasible
+2025-04-24 00:33:25,881 - WARNING - Non-optimal solution for sample CSM67UBH: infeasible
+2025-04-24 00:33:25,884 - WARNING - Non-optimal solution for sample CSM67UBN: infeasible
+2025-04-24 00:33:25,886 - WARNING - Non-optimal solution for sample CSM67UBZ: infeasible
+2025-04-24 00:33:25,888 - WARNING - Non-optimal solution for sample CSM67UCK: infeasible
+2025-04-24 00:33:25,891 - WARNING - Non-optimal solution for sample CSM67UDN: infeasible
+2025-04-24 00:33:25,893 - WARNING - Non-optimal solution for sample CSM67UEA: infeasible
+2025-04-24 00:33:25,895 - WARNING - Non-optimal solution for sample CSM67UEI: infeasible
+2025-04-24 00:33:25,897 - WARNING - Non-optimal solution for sample CSM67UEW: infeasible
+2025-04-24 00:33:25,899 - WARNING - Non-optimal solution for sample CSM67UF5: infeasible
+2025-04-24 00:33:25,901 - WARNING - Non-optimal solution for sample CSM67UFZ: infeasible
+2025-04-24 00:33:25,903 - WARNING - Non-optimal solution for sample CSM67UGO: infeasible
+2025-04-24 00:33:25,904 - WARNING - Non-optimal solution for sample CSM67UH7: infeasible
+2025-04-24 00:33:25,906 - WARNING - Non-optimal solution for sample CSM79HGP: infeasible
+2025-04-24 00:33:25,909 - WARNING - Non-optimal solution for sample CSM79HGZ: infeasible
+2025-04-24 00:33:25,911 - WARNING - Non-optimal solution for sample CSM79HH8: infeasible
+2025-04-24 00:33:25,912 - WARNING - Non-optimal solution for sample CSM79HHO: infeasible
+2025-04-24 00:33:25,914 - WARNING - Non-optimal solution for sample CSM79HI7: infeasible
+2025-04-24 00:33:25,917 - WARNING - Non-optimal solution for sample CSM79HIB: infeasible
+2025-04-24 00:33:25,919 - WARNING - Non-optimal solution for sample CSM79HIJ: infeasible
+2025-04-24 00:33:25,921 - WARNING - Non-optimal solution for sample CSM79HIT: infeasible
+2025-04-24 00:33:25,923 - WARNING - Non-optimal solution for sample CSM79HJM: infeasible
+2025-04-24 00:33:25,925 - WARNING - Non-optimal solution for sample CSM79HJS: infeasible
+2025-04-24 00:33:25,927 - WARNING - Non-optimal solution for sample CSM79HKB: infeasible
+2025-04-24 00:33:25,928 - WARNING - Non-optimal solution for sample CSM79HKZ: infeasible
+2025-04-24 00:33:25,931 - WARNING - Non-optimal solution for sample CSM79HLA: infeasible
+2025-04-24 00:33:25,933 - WARNING - Non-optimal solution for sample CSM79HLM: infeasible
+2025-04-24 00:33:25,935 - WARNING - Non-optimal solution for sample CSM79HMN: infeasible
+2025-04-24 00:33:25,936 - WARNING - Non-optimal solution for sample CSM79HN6: infeasible
+2025-04-24 00:33:25,938 - WARNING - Non-optimal solution for sample CSM79HOJ: infeasible
+2025-04-24 00:33:25,940 - WARNING - Non-optimal solution for sample CSM79HP4: infeasible
+2025-04-24 00:33:25,942 - WARNING - Non-optimal solution for sample CSM79HPA: infeasible
+2025-04-24 00:33:25,943 - WARNING - Non-optimal solution for sample CSM79HPS: infeasible
+2025-04-24 00:33:25,946 - WARNING - Non-optimal solution for sample CSM79HR6: infeasible
+2025-04-24 00:33:25,948 - WARNING - Non-optimal solution for sample CSM79HRG: infeasible
+2025-04-24 00:33:25,949 - WARNING - Non-optimal solution for sample CSM7KOJO: infeasible
+2025-04-24 00:33:25,951 - WARNING - Non-optimal solution for sample CSM7KOKB: infeasible
+2025-04-24 00:33:25,953 - WARNING - Non-optimal solution for sample CSM7KOKN: infeasible
+2025-04-24 00:33:25,954 - WARNING - Non-optimal solution for sample CSM7KOKZ: infeasible
+2025-04-24 00:33:25,955 - INFO - Progress: 50/382 samples processed
+2025-04-24 00:33:25,956 - WARNING - Non-optimal solution for sample CSM7KOLA: infeasible
+2025-04-24 00:33:25,959 - WARNING - Non-optimal solution for sample CSM7KOLE: infeasible
+2025-04-24 00:33:25,961 - WARNING - Non-optimal solution for sample CSM7KOLK: infeasible
+2025-04-24 00:33:25,964 - WARNING - Non-optimal solution for sample CSM7KOLY: infeasible
+2025-04-24 00:33:25,966 - WARNING - Non-optimal solution for sample CSM7KOMB: infeasible
+2025-04-24 00:33:25,968 - WARNING - Non-optimal solution for sample CSM7KOMT: infeasible
+2025-04-24 00:33:25,970 - WARNING - Non-optimal solution for sample CSM7KON2: infeasible
+2025-04-24 00:33:25,972 - WARNING - Non-optimal solution for sample CSM7KON8: infeasible
+2025-04-24 00:33:25,974 - WARNING - Non-optimal solution for sample CSM7KONA: infeasible
+2025-04-24 00:33:25,976 - WARNING - Non-optimal solution for sample CSM7KONK: infeasible
+2025-04-24 00:33:25,978 - WARNING - Non-optimal solution for sample CSM7KOO9: infeasible
+2025-04-24 00:33:25,980 - WARNING - Non-optimal solution for sample CSM7KOOF: infeasible
+2025-04-24 00:33:25,981 - WARNING - Non-optimal solution for sample CSM7KOOH: infeasible
+2025-04-24 00:33:25,983 - WARNING - Non-optimal solution for sample CSM7KOOV: infeasible
+2025-04-24 00:33:25,985 - WARNING - Non-optimal solution for sample CSM7KOP8: infeasible
+2025-04-24 00:33:25,988 - WARNING - Non-optimal solution for sample CSM7KOPE: infeasible
+2025-04-24 00:33:25,990 - WARNING - Non-optimal solution for sample CSM7KOPI: infeasible
+2025-04-24 00:33:25,992 - WARNING - Non-optimal solution for sample CSM7KOPS: infeasible
+2025-04-24 00:33:25,993 - WARNING - Non-optimal solution for sample CSM7KOQ1: infeasible
+2025-04-24 00:33:25,995 - WARNING - Non-optimal solution for sample CSM7KORK: infeasible
+2025-04-24 00:33:25,997 - WARNING - Non-optimal solution for sample CSM7KORU: infeasible
+2025-04-24 00:33:25,998 - WARNING - Non-optimal solution for sample CSM7KOSP: infeasible
+2025-04-24 00:33:26,000 - WARNING - Non-optimal solution for sample CSM7KOSV: infeasible
+2025-04-24 00:33:26,002 - WARNING - Non-optimal solution for sample CSM7KOTK: infeasible
+2025-04-24 00:33:26,004 - WARNING - Non-optimal solution for sample CSM7KOTU: infeasible
+2025-04-24 00:33:26,006 - WARNING - Non-optimal solution for sample CSM7KOU9: infeasible
+2025-04-24 00:33:26,008 - WARNING - Non-optimal solution for sample CSM7KOUL: infeasible
+2025-04-24 00:33:26,010 - WARNING - Non-optimal solution for sample CSM9X1Y5: infeasible
+2025-04-24 00:33:26,012 - WARNING - Non-optimal solution for sample CSM9X1YV: infeasible
+2025-04-24 00:33:26,013 - WARNING - Non-optimal solution for sample CSM9X1ZC: infeasible
+2025-04-24 00:33:26,015 - WARNING - Non-optimal solution for sample CSM9X211: infeasible
+2025-04-24 00:33:26,017 - WARNING - Non-optimal solution for sample CSM9X213: infeasible
+2025-04-24 00:33:26,018 - WARNING - Non-optimal solution for sample CSM9X21J: infeasible
+2025-04-24 00:33:26,020 - WARNING - Non-optimal solution for sample CSM9X22G: infeasible
+2025-04-24 00:33:26,021 - WARNING - Non-optimal solution for sample CSM9X22U: infeasible
+2025-04-24 00:33:26,023 - WARNING - Non-optimal solution for sample CSM9X237: infeasible
+2025-04-24 00:33:26,025 - WARNING - Non-optimal solution for sample CSM9X23B: infeasible
+2025-04-24 00:33:26,028 - WARNING - Non-optimal solution for sample CSMA9J65: infeasible
+2025-04-24 00:33:26,030 - WARNING - Non-optimal solution for sample CSMAG78W: infeasible
+2025-04-24 00:33:26,033 - WARNING - Non-optimal solution for sample CSMAIG7X: infeasible
+2025-04-24 00:33:26,035 - WARNING - Non-optimal solution for sample ESM5MEBE: infeasible
+2025-04-24 00:33:26,037 - WARNING - Non-optimal solution for sample ESM5MEBG: infeasible
+2025-04-24 00:33:26,038 - WARNING - Non-optimal solution for sample ESM5MEBU: infeasible
+2025-04-24 00:33:26,040 - WARNING - Non-optimal solution for sample ESM5MEC5: infeasible
+2025-04-24 00:33:26,042 - WARNING - Non-optimal solution for sample ESM5MECL: infeasible
+2025-04-24 00:33:26,045 - WARNING - Non-optimal solution for sample ESM5MEDD: infeasible
+2025-04-24 00:33:26,047 - WARNING - Non-optimal solution for sample ESM5MEDN: infeasible
+2025-04-24 00:33:26,049 - WARNING - Non-optimal solution for sample ESM718SY: infeasible
+2025-04-24 00:33:26,050 - WARNING - Non-optimal solution for sample ESM718TF: infeasible
+2025-04-24 00:33:26,052 - WARNING - Non-optimal solution for sample ESM718TM: infeasible
+2025-04-24 00:33:26,052 - INFO - Progress: 100/382 samples processed
+2025-04-24 00:33:26,054 - WARNING - Non-optimal solution for sample ESM718UH: infeasible
+2025-04-24 00:33:26,056 - WARNING - Non-optimal solution for sample ESM718V8: infeasible
+2025-04-24 00:33:26,059 - WARNING - Non-optimal solution for sample ESM7F5AK: infeasible
+2025-04-24 00:33:26,062 - WARNING - Non-optimal solution for sample ESM9IEP1: infeasible
+2025-04-24 00:33:26,064 - WARNING - Non-optimal solution for sample HSM5MD3Y: infeasible
+2025-04-24 00:33:26,066 - WARNING - Non-optimal solution for sample HSM5MD41: infeasible
+2025-04-24 00:33:26,067 - WARNING - Non-optimal solution for sample HSM5MD43: infeasible
+2025-04-24 00:33:26,069 - WARNING - Non-optimal solution for sample HSM5MD4O: infeasible
+2025-04-24 00:33:26,071 - WARNING - Non-optimal solution for sample HSM5MD5D: infeasible
+2025-04-24 00:33:26,074 - WARNING - Non-optimal solution for sample HSM5MD5P: infeasible
+2025-04-24 00:33:26,075 - WARNING - Non-optimal solution for sample HSM5MD62: infeasible
+2025-04-24 00:33:26,077 - WARNING - Non-optimal solution for sample HSM5MD6A: infeasible
+2025-04-24 00:33:26,080 - WARNING - Non-optimal solution for sample HSM5MD6K: infeasible
+2025-04-24 00:33:26,082 - WARNING - Non-optimal solution for sample HSM5MD73: infeasible
+2025-04-24 00:33:26,084 - WARNING - Non-optimal solution for sample HSM5MD79: infeasible
+2025-04-24 00:33:26,087 - WARNING - Non-optimal solution for sample HSM5MD7J: infeasible
+2025-04-24 00:33:26,090 - WARNING - Non-optimal solution for sample HSM5MD7O: infeasible
+2025-04-24 00:33:26,093 - WARNING - Non-optimal solution for sample HSM67VCZ: infeasible
+2025-04-24 00:33:26,094 - WARNING - Non-optimal solution for sample HSM67VD6: infeasible
+2025-04-24 00:33:26,096 - WARNING - Non-optimal solution for sample HSM67VEE: infeasible
+2025-04-24 00:33:26,097 - WARNING - Non-optimal solution for sample HSM67VES: infeasible
+2025-04-24 00:33:26,099 - WARNING - Non-optimal solution for sample HSM67VF3: infeasible
+2025-04-24 00:33:26,103 - WARNING - Non-optimal solution for sample HSM67VFR: infeasible
+2025-04-24 00:33:26,104 - WARNING - Non-optimal solution for sample HSM67VFZ: infeasible
+2025-04-24 00:33:26,106 - WARNING - Non-optimal solution for sample HSM67VGA: infeasible
+2025-04-24 00:33:26,108 - WARNING - Non-optimal solution for sample HSM67VGG: infeasible
+2025-04-24 00:33:26,110 - WARNING - Non-optimal solution for sample HSM67VH1: infeasible
+2025-04-24 00:33:26,111 - WARNING - Non-optimal solution for sample HSM67VHF: infeasible
+2025-04-24 00:33:26,113 - WARNING - Non-optimal solution for sample HSM67VI5: infeasible
+2025-04-24 00:33:26,116 - WARNING - Non-optimal solution for sample HSM6XRQ8: infeasible
+2025-04-24 00:33:26,119 - WARNING - Non-optimal solution for sample HSM6XRQB: infeasible
+2025-04-24 00:33:26,121 - WARNING - Non-optimal solution for sample HSM6XRQM: infeasible
+2025-04-24 00:33:26,122 - WARNING - Non-optimal solution for sample HSM6XRQW: infeasible
+2025-04-24 00:33:26,124 - WARNING - Non-optimal solution for sample HSM6XRRD: infeasible
+2025-04-24 00:33:26,126 - WARNING - Non-optimal solution for sample HSM6XRRJ: infeasible
+2025-04-24 00:33:26,127 - WARNING - Non-optimal solution for sample HSM6XRRV: infeasible
+2025-04-24 00:33:26,129 - WARNING - Non-optimal solution for sample HSM6XRS8: infeasible
+2025-04-24 00:33:26,131 - WARNING - Non-optimal solution for sample HSM6XRSG: infeasible
+2025-04-24 00:33:26,134 - WARNING - Non-optimal solution for sample HSM6XRSN: infeasible
+2025-04-24 00:33:26,135 - WARNING - Non-optimal solution for sample HSM6XRTM: infeasible
+2025-04-24 00:33:26,137 - WARNING - Non-optimal solution for sample HSM6XRTQ: infeasible
+2025-04-24 00:33:26,139 - WARNING - Non-optimal solution for sample HSM6XRV2: infeasible
+2025-04-24 00:33:26,140 - WARNING - Non-optimal solution for sample HSM6XRVC: infeasible
+2025-04-24 00:33:26,142 - WARNING - Non-optimal solution for sample HSM6XRVK: infeasible
+2025-04-24 00:33:26,144 - WARNING - Non-optimal solution for sample HSM6XRVO: infeasible
+2025-04-24 00:33:26,146 - WARNING - Non-optimal solution for sample HSM6XRVW: infeasible
+2025-04-24 00:33:26,147 - WARNING - Non-optimal solution for sample HSM7CYX2: infeasible
+2025-04-24 00:33:26,150 - WARNING - Non-optimal solution for sample HSM7CYXA: infeasible
+2025-04-24 00:33:26,152 - WARNING - Non-optimal solution for sample HSM7CYY3: infeasible
+2025-04-24 00:33:26,153 - WARNING - Non-optimal solution for sample HSM7CYYB: infeasible
+2025-04-24 00:33:26,154 - INFO - Progress: 150/382 samples processed
+2025-04-24 00:33:26,155 - WARNING - Non-optimal solution for sample HSM7CYYF: infeasible
+2025-04-24 00:33:26,157 - WARNING - Non-optimal solution for sample HSM7CYZ7: infeasible
+2025-04-24 00:33:26,159 - WARNING - Non-optimal solution for sample HSM7CYZJ: infeasible
+2025-04-24 00:33:26,161 - WARNING - Non-optimal solution for sample HSM7CYZT: infeasible
+2025-04-24 00:33:26,162 - WARNING - Non-optimal solution for sample HSM7CZ14: infeasible
+2025-04-24 00:33:26,165 - WARNING - Non-optimal solution for sample HSM7CZ32: infeasible
+2025-04-24 00:33:26,166 - WARNING - Non-optimal solution for sample HSM7CZ38: infeasible
+2025-04-24 00:33:26,168 - WARNING - Non-optimal solution for sample HSM7CZ3G: infeasible
+2025-04-24 00:33:26,169 - WARNING - Non-optimal solution for sample HSM7J4G1: infeasible
+2025-04-24 00:33:26,171 - WARNING - Non-optimal solution for sample HSM7J4GR: infeasible
+2025-04-24 00:33:26,174 - WARNING - Non-optimal solution for sample HSM7J4HC: infeasible
+2025-04-24 00:33:26,176 - WARNING - Non-optimal solution for sample HSM7J4HO: infeasible
+2025-04-24 00:33:26,178 - WARNING - Non-optimal solution for sample HSM7J4HS: infeasible
+2025-04-24 00:33:26,181 - WARNING - Non-optimal solution for sample HSM7J4I3: infeasible
+2025-04-24 00:33:26,183 - WARNING - Non-optimal solution for sample HSM7J4I7: infeasible
+2025-04-24 00:33:26,185 - WARNING - Non-optimal solution for sample HSM7J4IC: infeasible
+2025-04-24 00:33:26,187 - WARNING - Non-optimal solution for sample HSM7J4IS: infeasible
+2025-04-24 00:33:26,189 - WARNING - Non-optimal solution for sample HSM7J4IU: infeasible
+2025-04-24 00:33:26,191 - WARNING - Non-optimal solution for sample HSM7J4J7: infeasible
+2025-04-24 00:33:26,192 - WARNING - Non-optimal solution for sample HSM7J4JF: infeasible
+2025-04-24 00:33:26,194 - WARNING - Non-optimal solution for sample HSM7J4JZ: infeasible
+2025-04-24 00:33:26,196 - WARNING - Non-optimal solution for sample HSM7J4K8: infeasible
+2025-04-24 00:33:26,197 - WARNING - Non-optimal solution for sample HSM7J4KC: infeasible
+2025-04-24 00:33:26,199 - WARNING - Non-optimal solution for sample HSM7J4KK: infeasible
+2025-04-24 00:33:26,202 - WARNING - Non-optimal solution for sample HSM7J4KQ: infeasible
+2025-04-24 00:33:26,203 - WARNING - Non-optimal solution for sample HSM7J4L9: infeasible
+2025-04-24 00:33:26,205 - WARNING - Non-optimal solution for sample HSM7J4LD: infeasible
+2025-04-24 00:33:26,206 - WARNING - Non-optimal solution for sample HSM7J4LN: infeasible
+2025-04-24 00:33:26,208 - WARNING - Non-optimal solution for sample HSM7J4LP: infeasible
+2025-04-24 00:33:26,209 - WARNING - Non-optimal solution for sample HSM7J4M4: infeasible
+2025-04-24 00:33:26,212 - WARNING - Non-optimal solution for sample HSM7J4ME: infeasible
+2025-04-24 00:33:26,214 - WARNING - Non-optimal solution for sample HSM7J4MK: infeasible
+2025-04-24 00:33:26,216 - WARNING - Non-optimal solution for sample HSM7J4MS: infeasible
+2025-04-24 00:33:26,218 - WARNING - Non-optimal solution for sample HSM7J4MY: infeasible
+2025-04-24 00:33:26,220 - WARNING - Non-optimal solution for sample HSM7J4N4: infeasible
+2025-04-24 00:33:26,222 - WARNING - Non-optimal solution for sample HSM7J4NA: infeasible
+2025-04-24 00:33:26,224 - WARNING - Non-optimal solution for sample HSM7J4NE: infeasible
+2025-04-24 00:33:26,225 - WARNING - Non-optimal solution for sample HSM7J4O1: infeasible
+2025-04-24 00:33:26,227 - WARNING - Non-optimal solution for sample HSM7J4O3: infeasible
+2025-04-24 00:33:26,230 - WARNING - Non-optimal solution for sample HSM7J4OE: infeasible
+2025-04-24 00:33:26,232 - WARNING - Non-optimal solution for sample HSM7J4OT: infeasible
+2025-04-24 00:33:26,234 - WARNING - Non-optimal solution for sample HSM7J4OZ: infeasible
+2025-04-24 00:33:26,236 - WARNING - Non-optimal solution for sample HSM7J4PE: infeasible
+2025-04-24 00:33:26,238 - WARNING - Non-optimal solution for sample HSM7J4PW: infeasible
+2025-04-24 00:33:26,240 - WARNING - Non-optimal solution for sample HSM7J4QB: infeasible
+2025-04-24 00:33:26,242 - WARNING - Non-optimal solution for sample HSM7J4QT: infeasible
+2025-04-24 00:33:26,244 - WARNING - Non-optimal solution for sample HSM7J4R2: infeasible
+2025-04-24 00:33:26,247 - WARNING - Non-optimal solution for sample HSMA33J5: infeasible
+2025-04-24 00:33:26,249 - WARNING - Non-optimal solution for sample HSMA33J9: infeasible
+2025-04-24 00:33:26,251 - WARNING - Non-optimal solution for sample HSMA33JB: infeasible
+2025-04-24 00:33:26,252 - INFO - Progress: 200/382 samples processed
+2025-04-24 00:33:26,254 - WARNING - Non-optimal solution for sample HSMA33JP: infeasible
+2025-04-24 00:33:26,256 - WARNING - Non-optimal solution for sample HSMA33L1: infeasible
+2025-04-24 00:33:26,258 - WARNING - Non-optimal solution for sample HSMA33M8: infeasible
+2025-04-24 00:33:26,261 - WARNING - Non-optimal solution for sample HSMA33MI: infeasible
+2025-04-24 00:33:26,264 - WARNING - Non-optimal solution for sample HSMA33MZ: infeasible
+2025-04-24 00:33:26,267 - WARNING - Non-optimal solution for sample HSMA33NQ: infeasible
+2025-04-24 00:33:26,269 - WARNING - Non-optimal solution for sample HSMA33NW: infeasible
+2025-04-24 00:33:26,271 - WARNING - Non-optimal solution for sample HSMA33NY: infeasible
+2025-04-24 00:33:26,272 - WARNING - Non-optimal solution for sample HSMA33O1: infeasible
+2025-04-24 00:33:26,274 - WARNING - Non-optimal solution for sample HSMA33OJ: infeasible
+2025-04-24 00:33:26,276 - WARNING - Non-optimal solution for sample HSMA33OR: infeasible
+2025-04-24 00:33:26,279 - WARNING - Non-optimal solution for sample HSMA33OZ: infeasible
+2025-04-24 00:33:26,281 - WARNING - Non-optimal solution for sample HSMA33PZ: infeasible
+2025-04-24 00:33:26,282 - WARNING - Non-optimal solution for sample HSMA33Q6: infeasible
+2025-04-24 00:33:26,284 - WARNING - Non-optimal solution for sample HSMA33QO: infeasible
+2025-04-24 00:33:26,286 - WARNING - Non-optimal solution for sample HSMA33R7: infeasible
+2025-04-24 00:33:26,288 - WARNING - Non-optimal solution for sample HSMA33R9: infeasible
+2025-04-24 00:33:26,291 - WARNING - Non-optimal solution for sample HSMA33RX: infeasible
+2025-04-24 00:33:26,293 - WARNING - Non-optimal solution for sample HSMA33SG: infeasible
+2025-04-24 00:33:26,294 - WARNING - Non-optimal solution for sample HSMA33SK: infeasible
+2025-04-24 00:33:26,296 - WARNING - Non-optimal solution for sample MSM5LLDA: infeasible
+2025-04-24 00:33:26,298 - WARNING - Non-optimal solution for sample MSM5LLDI: infeasible
+2025-04-24 00:33:26,300 - WARNING - Non-optimal solution for sample MSM5LLDS: infeasible
+2025-04-24 00:33:26,303 - WARNING - Non-optimal solution for sample MSM5LLF4: infeasible
+2025-04-24 00:33:26,305 - WARNING - Non-optimal solution for sample MSM6J2HF: infeasible
+2025-04-24 00:33:26,307 - WARNING - Non-optimal solution for sample MSM6J2HT: infeasible
+2025-04-24 00:33:26,308 - WARNING - Non-optimal solution for sample MSM6J2IG: infeasible
+2025-04-24 00:33:26,310 - WARNING - Non-optimal solution for sample MSM6J2IQ: infeasible
+2025-04-24 00:33:26,312 - WARNING - Non-optimal solution for sample MSM6J2J1: infeasible
+2025-04-24 00:33:26,314 - WARNING - Non-optimal solution for sample MSM6J2J5: infeasible
+2025-04-24 00:33:26,316 - WARNING - Non-optimal solution for sample MSM6J2JR: infeasible
+2025-04-24 00:33:26,318 - WARNING - Non-optimal solution for sample MSM6J2K6: infeasible
+2025-04-24 00:33:26,320 - WARNING - Non-optimal solution for sample MSM6J2KE: infeasible
+2025-04-24 00:33:26,323 - WARNING - Non-optimal solution for sample MSM6J2LB: infeasible
+2025-04-24 00:33:26,324 - WARNING - Non-optimal solution for sample MSM6J2LL: infeasible
+2025-04-24 00:33:26,326 - WARNING - Non-optimal solution for sample MSM6J2LT: infeasible
+2025-04-24 00:33:26,327 - WARNING - Non-optimal solution for sample MSM6J2M3: infeasible
+2025-04-24 00:33:26,329 - WARNING - Non-optimal solution for sample MSM6J2MB: infeasible
+2025-04-24 00:33:26,331 - WARNING - Non-optimal solution for sample MSM6J2MH: infeasible
+2025-04-24 00:33:26,333 - WARNING - Non-optimal solution for sample MSM6J2OH: infeasible
+2025-04-24 00:33:26,335 - WARNING - Non-optimal solution for sample MSM6J2OP: infeasible
+2025-04-24 00:33:26,337 - WARNING - Non-optimal solution for sample MSM6J2PM: infeasible
+2025-04-24 00:33:26,340 - WARNING - Non-optimal solution for sample MSM6J2PO: infeasible
+2025-04-24 00:33:26,342 - WARNING - Non-optimal solution for sample MSM6J2PU: infeasible
+2025-04-24 00:33:26,345 - WARNING - Non-optimal solution for sample MSM6J2Q1: infeasible
+2025-04-24 00:33:26,347 - WARNING - Non-optimal solution for sample MSM6J2Q3: infeasible
+2025-04-24 00:33:26,349 - WARNING - Non-optimal solution for sample MSM6J2QP: infeasible
+2025-04-24 00:33:26,350 - WARNING - Non-optimal solution for sample MSM6J2R2: infeasible
+2025-04-24 00:33:26,352 - WARNING - Non-optimal solution for sample MSM6J2R8: infeasible
+2025-04-24 00:33:26,354 - WARNING - Non-optimal solution for sample MSM6J2RO: infeasible
+2025-04-24 00:33:26,355 - INFO - Progress: 250/382 samples processed
+2025-04-24 00:33:26,358 - WARNING - Non-optimal solution for sample MSM6J2SE: infeasible
+2025-04-24 00:33:26,360 - WARNING - Non-optimal solution for sample MSM79H5G: infeasible
+2025-04-24 00:33:26,362 - WARNING - Non-optimal solution for sample MSM79H5Q: infeasible
+2025-04-24 00:33:26,364 - WARNING - Non-optimal solution for sample MSM79H63: infeasible
+2025-04-24 00:33:26,365 - WARNING - Non-optimal solution for sample MSM79H6F: infeasible
+2025-04-24 00:33:26,367 - WARNING - Non-optimal solution for sample MSM79H6Y: infeasible
+2025-04-24 00:33:26,369 - WARNING - Non-optimal solution for sample MSM79H7G: infeasible
+2025-04-24 00:33:26,371 - WARNING - Non-optimal solution for sample MSM79H7M: infeasible
+2025-04-24 00:33:26,373 - WARNING - Non-optimal solution for sample MSM79H7Q: infeasible
+2025-04-24 00:33:26,375 - WARNING - Non-optimal solution for sample MSM79H7Y: infeasible
+2025-04-24 00:33:26,376 - WARNING - Non-optimal solution for sample MSM79H85: infeasible
+2025-04-24 00:33:26,378 - WARNING - Non-optimal solution for sample MSM79H8D: infeasible
+2025-04-24 00:33:26,379 - WARNING - Non-optimal solution for sample MSM79H9G: infeasible
+2025-04-24 00:33:26,381 - WARNING - Non-optimal solution for sample MSM79H9Q: infeasible
+2025-04-24 00:33:26,383 - WARNING - Non-optimal solution for sample MSM79HA3: infeasible
+2025-04-24 00:33:26,385 - WARNING - Non-optimal solution for sample MSM79HAH: infeasible
+2025-04-24 00:33:26,387 - WARNING - Non-optimal solution for sample MSM79HAJ: infeasible
+2025-04-24 00:33:26,389 - WARNING - Non-optimal solution for sample MSM79HAN: infeasible
+2025-04-24 00:33:26,390 - WARNING - Non-optimal solution for sample MSM79HB6: infeasible
+2025-04-24 00:33:26,392 - WARNING - Non-optimal solution for sample MSM79HC8: infeasible
+2025-04-24 00:33:26,394 - WARNING - Non-optimal solution for sample MSM79HCR: infeasible
+2025-04-24 00:33:26,396 - WARNING - Non-optimal solution for sample MSM79HDA: infeasible
+2025-04-24 00:33:26,398 - WARNING - Non-optimal solution for sample MSM79HDE: infeasible
+2025-04-24 00:33:26,401 - WARNING - Non-optimal solution for sample MSM79HDQ: infeasible
+2025-04-24 00:33:26,403 - WARNING - Non-optimal solution for sample MSM79HEY: infeasible
+2025-04-24 00:33:26,405 - WARNING - Non-optimal solution for sample MSM9VZEK: infeasible
+2025-04-24 00:33:26,407 - WARNING - Non-optimal solution for sample MSM9VZES: infeasible
+2025-04-24 00:33:26,409 - WARNING - Non-optimal solution for sample MSM9VZEW: infeasible
+2025-04-24 00:33:26,411 - WARNING - Non-optimal solution for sample MSM9VZF7: infeasible
+2025-04-24 00:33:26,414 - WARNING - Non-optimal solution for sample MSM9VZFR: infeasible
+2025-04-24 00:33:26,416 - WARNING - Non-optimal solution for sample MSM9VZGO: infeasible
+2025-04-24 00:33:26,418 - WARNING - Non-optimal solution for sample MSM9VZHB: infeasible
+2025-04-24 00:33:26,420 - WARNING - Non-optimal solution for sample MSM9VZHF: infeasible
+2025-04-24 00:33:26,421 - WARNING - Non-optimal solution for sample MSM9VZHR: infeasible
+2025-04-24 00:33:26,423 - WARNING - Non-optimal solution for sample MSM9VZHX: infeasible
+2025-04-24 00:33:26,424 - WARNING - Non-optimal solution for sample MSM9VZI6: infeasible
+2025-04-24 00:33:26,426 - WARNING - Non-optimal solution for sample MSM9VZIM: infeasible
+2025-04-24 00:33:26,428 - WARNING - Non-optimal solution for sample MSM9VZIQ: infeasible
+2025-04-24 00:33:26,430 - WARNING - Non-optimal solution for sample MSM9VZJ3: infeasible
+2025-04-24 00:33:26,432 - WARNING - Non-optimal solution for sample MSM9VZJZ: infeasible
+2025-04-24 00:33:26,434 - WARNING - Non-optimal solution for sample MSM9VZKE: infeasible
+2025-04-24 00:33:26,436 - WARNING - Non-optimal solution for sample MSM9VZL9: infeasible
+2025-04-24 00:33:26,437 - WARNING - Non-optimal solution for sample MSM9VZLJ: infeasible
+2025-04-24 00:33:26,439 - WARNING - Non-optimal solution for sample MSM9VZLP: infeasible
+2025-04-24 00:33:26,441 - WARNING - Non-optimal solution for sample MSM9VZLV: infeasible
+2025-04-24 00:33:26,443 - WARNING - Non-optimal solution for sample MSM9VZME: infeasible
+2025-04-24 00:33:26,445 - WARNING - Non-optimal solution for sample MSM9VZMM: infeasible
+2025-04-24 00:33:26,447 - WARNING - Non-optimal solution for sample MSM9VZMU: infeasible
+2025-04-24 00:33:26,449 - WARNING - Non-optimal solution for sample MSM9VZNL: infeasible
+2025-04-24 00:33:26,451 - WARNING - Non-optimal solution for sample MSM9VZNX: infeasible
+2025-04-24 00:33:26,451 - INFO - Progress: 300/382 samples processed
+2025-04-24 00:33:26,453 - WARNING - Non-optimal solution for sample MSM9VZOI: infeasible
+2025-04-24 00:33:26,455 - WARNING - Non-optimal solution for sample MSM9VZOO: infeasible
+2025-04-24 00:33:26,457 - WARNING - Non-optimal solution for sample MSM9VZOU: infeasible
+2025-04-24 00:33:26,460 - WARNING - Non-optimal solution for sample MSM9VZP3: infeasible
+2025-04-24 00:33:26,462 - WARNING - Non-optimal solution for sample MSM9VZPL: infeasible
+2025-04-24 00:33:26,464 - WARNING - Non-optimal solution for sample MSMA267V: infeasible
+2025-04-24 00:33:26,466 - WARNING - Non-optimal solution for sample MSMA26AL: infeasible
+2025-04-24 00:33:26,468 - WARNING - Non-optimal solution for sample MSMA26AZ: infeasible
+2025-04-24 00:33:26,469 - WARNING - Non-optimal solution for sample MSMA26BB: infeasible
+2025-04-24 00:33:26,472 - WARNING - Non-optimal solution for sample MSMA26BR: infeasible
+2025-04-24 00:33:26,475 - WARNING - Non-optimal solution for sample MSMA26CX: infeasible
+2025-04-24 00:33:26,477 - WARNING - Non-optimal solution for sample MSMA26DG: infeasible
+2025-04-24 00:33:26,479 - WARNING - Non-optimal solution for sample MSMA26DO: infeasible
+2025-04-24 00:33:26,481 - WARNING - Non-optimal solution for sample MSMA26EJ: infeasible
+2025-04-24 00:33:26,483 - WARNING - Non-optimal solution for sample MSMA26ET: infeasible
+2025-04-24 00:33:26,485 - WARNING - Non-optimal solution for sample MSMAPC5D: infeasible
+2025-04-24 00:33:26,487 - WARNING - Non-optimal solution for sample MSMAPC6G: infeasible
+2025-04-24 00:33:26,489 - WARNING - Non-optimal solution for sample MSMAPC6K: infeasible
+2025-04-24 00:33:26,491 - WARNING - Non-optimal solution for sample MSMAPC7J: infeasible
+2025-04-24 00:33:26,493 - WARNING - Non-optimal solution for sample MSMAPC7T: infeasible
+2025-04-24 00:33:26,495 - WARNING - Non-optimal solution for sample MSMB4LXW: infeasible
+2025-04-24 00:33:26,497 - WARNING - Non-optimal solution for sample MSMB4LXY: infeasible
+2025-04-24 00:33:26,499 - WARNING - Non-optimal solution for sample MSMB4LYB: infeasible
+2025-04-24 00:33:26,501 - WARNING - Non-optimal solution for sample MSMB4LYH: infeasible
+2025-04-24 00:33:26,503 - WARNING - Non-optimal solution for sample MSMB4LZ4: infeasible
+2025-04-24 00:33:26,505 - WARNING - Non-optimal solution for sample MSMB4LZ8: infeasible
+2025-04-24 00:33:26,506 - WARNING - Non-optimal solution for sample MSMB4LZC: infeasible
+2025-04-24 00:33:26,508 - WARNING - Non-optimal solution for sample MSMB4LZK: infeasible
+2025-04-24 00:33:26,509 - WARNING - Non-optimal solution for sample MSMB4LZR: infeasible
+2025-04-24 00:33:26,511 - WARNING - Non-optimal solution for sample MSMB4LZX: infeasible
+2025-04-24 00:33:26,513 - WARNING - Non-optimal solution for sample PSM6XBQY: infeasible
+2025-04-24 00:33:26,516 - WARNING - Non-optimal solution for sample PSM6XBRK: infeasible
+2025-04-24 00:33:26,517 - WARNING - Non-optimal solution for sample PSM6XBSE: infeasible
+2025-04-24 00:33:26,519 - WARNING - Non-optimal solution for sample PSM6XBSI: infeasible
+2025-04-24 00:33:26,521 - WARNING - Non-optimal solution for sample PSM6XBSK: infeasible
+2025-04-24 00:33:26,523 - WARNING - Non-optimal solution for sample PSM6XBSS: infeasible
+2025-04-24 00:33:26,525 - WARNING - Non-optimal solution for sample PSM6XBT3: infeasible
+2025-04-24 00:33:26,528 - WARNING - Non-optimal solution for sample PSM6XBUG: infeasible
+2025-04-24 00:33:26,531 - WARNING - Non-optimal solution for sample PSM6XBUO: infeasible
+2025-04-24 00:33:26,533 - WARNING - Non-optimal solution for sample PSM6XBVM: infeasible
+2025-04-24 00:33:26,534 - WARNING - Non-optimal solution for sample PSM7J12F: infeasible
+2025-04-24 00:33:26,536 - WARNING - Non-optimal solution for sample PSM7J12J: infeasible
+2025-04-24 00:33:26,537 - WARNING - Non-optimal solution for sample PSM7J12R: infeasible
+2025-04-24 00:33:26,539 - WARNING - Non-optimal solution for sample PSM7J12V: infeasible
+2025-04-24 00:33:26,541 - WARNING - Non-optimal solution for sample PSM7J136: infeasible
+2025-04-24 00:33:26,544 - WARNING - Non-optimal solution for sample PSM7J13E: infeasible
+2025-04-24 00:33:26,547 - WARNING - Non-optimal solution for sample PSM7J141: infeasible
+2025-04-24 00:33:26,549 - WARNING - Non-optimal solution for sample PSM7J14L: infeasible
+2025-04-24 00:33:26,551 - WARNING - Non-optimal solution for sample PSM7J14T: infeasible
+2025-04-24 00:33:26,553 - WARNING - Non-optimal solution for sample PSM7J14X: infeasible
+2025-04-24 00:33:26,554 - INFO - Progress: 350/382 samples processed
+2025-04-24 00:33:26,556 - WARNING - Non-optimal solution for sample PSM7J156: infeasible
+2025-04-24 00:33:26,558 - WARNING - Non-optimal solution for sample PSM7J158: infeasible
+2025-04-24 00:33:26,560 - WARNING - Non-optimal solution for sample PSM7J15M: infeasible
+2025-04-24 00:33:26,562 - WARNING - Non-optimal solution for sample PSM7J15U: infeasible
+2025-04-24 00:33:26,564 - WARNING - Non-optimal solution for sample PSM7J161: infeasible
+2025-04-24 00:33:26,566 - WARNING - Non-optimal solution for sample PSM7J16Y: infeasible
+2025-04-24 00:33:26,568 - WARNING - Non-optimal solution for sample PSM7J17F: infeasible
+2025-04-24 00:33:26,570 - WARNING - Non-optimal solution for sample PSM7J17L: infeasible
+2025-04-24 00:33:26,572 - WARNING - Non-optimal solution for sample PSM7J17X: infeasible
+2025-04-24 00:33:26,575 - WARNING - Non-optimal solution for sample PSM7J193: infeasible
+2025-04-24 00:33:26,577 - WARNING - Non-optimal solution for sample PSM7J19B: infeasible
+2025-04-24 00:33:26,579 - WARNING - Non-optimal solution for sample PSM7J19J: infeasible
+2025-04-24 00:33:26,581 - WARNING - Non-optimal solution for sample PSM7J1A2: infeasible
+2025-04-24 00:33:26,583 - WARNING - Non-optimal solution for sample PSM7J1AU: infeasible
+2025-04-24 00:33:26,585 - WARNING - Non-optimal solution for sample PSM7J1BF: infeasible
+2025-04-24 00:33:26,587 - WARNING - Non-optimal solution for sample PSM7J1CC: infeasible
+2025-04-24 00:33:26,588 - WARNING - Non-optimal solution for sample PSM7J1CU: infeasible
+2025-04-24 00:33:26,591 - WARNING - Non-optimal solution for sample PSMA263W: infeasible
+2025-04-24 00:33:26,593 - WARNING - Non-optimal solution for sample PSMA264Q: infeasible
+2025-04-24 00:33:26,595 - WARNING - Non-optimal solution for sample PSMA265H: infeasible
+2025-04-24 00:33:26,596 - WARNING - Non-optimal solution for sample PSMA265N: infeasible
+2025-04-24 00:33:26,598 - WARNING - Non-optimal solution for sample PSMA265T: infeasible
+2025-04-24 00:33:26,601 - WARNING - Non-optimal solution for sample PSMA265X: infeasible
+2025-04-24 00:33:26,603 - WARNING - Non-optimal solution for sample PSMA266I: infeasible
+2025-04-24 00:33:26,605 - WARNING - Non-optimal solution for sample PSMA266Q: infeasible
+2025-04-24 00:33:26,607 - WARNING - Non-optimal solution for sample PSMA2675: infeasible
+2025-04-24 00:33:26,609 - WARNING - Non-optimal solution for sample PSMA267J: infeasible
+2025-04-24 00:33:26,610 - WARNING - Non-optimal solution for sample PSMA267P: infeasible
+2025-04-24 00:33:26,612 - WARNING - Non-optimal solution for sample PSMA269W: infeasible
+2025-04-24 00:33:26,614 - WARNING - Non-optimal solution for sample PSMA26A3: infeasible
+2025-04-24 00:33:26,616 - WARNING - Non-optimal solution for sample PSMB4MBK: infeasible
+2025-04-24 00:33:26,619 - WARNING - Non-optimal solution for sample PSMB4MC5: infeasible
+2025-04-24 00:33:26,619 - INFO - Simulation complete: 0 successful, 382 failed
+2025-04-24 00:33:26,679 - INFO - Dataset with butyrate fluxes saved as 'C:\RESEARCH-PROJECT\IHMP\DONE\ubarkbarkjb_with_butyrate_flux.tsv'
+2025-04-24 00:33:26,707 - INFO - 
+Summary statistics:
+2025-04-24 00:33:26,715 - INFO -        avg_daily_fiber  butyrate_flux  normalized_inflammation
+count       382.000000            0.0               382.000000
+mean          4.274818            NaN                 0.221849
+std           3.366647            NaN                 0.256979
+min           0.166667            NaN                 0.000000
+25%           1.541667            NaN                 0.014234
+50%           3.533333            NaN                 0.132131
+75%           5.983333            NaN                 0.325240
+max          16.956667            NaN                 1.000000
+2025-04-24 00:33:26,725 - INFO - 
+Data Head:
+2025-04-24 00:33:26,726 - INFO -      Sample  avg_daily_fiber  butyrate_flux  normalized_inflammation
+0  CSM5MCVN         9.413333            NaN                 0.010180
+1  CSM5MCWE         9.900000            NaN                 0.021574
+2  CSM5MCX3        12.480667            NaN                 0.002161
+3  CSM5MCXL         7.033333            NaN                 0.007357
+4  CSM5MCY8        12.423333            NaN                 0.530969
+2025-04-24 00:33:26,737 - INFO - 
+Correlation between butyrate_flux and normalized_inflammation: nan
+2025-04-24 00:41:06,251 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-04-24 00:41:06,253 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-04-24 00:41:06,256 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-04-24 00:41:06,260 - INFO - The current solver interface glpk doesn't support setting the optimality tolerance.
+2025-04-24 00:41:06,265 - INFO - 
+Running metabolic simulations...
+2025-04-24 00:41:06,272 - WARNING - Non-optimal solution for sample CSM5MCVN: infeasible
+2025-04-24 00:41:06,336 - WARNING - Non-optimal solution for sample CSM5MCWE: infeasible
+2025-04-24 00:41:06,339 - WARNING - Non-optimal solution for sample CSM5MCX3: infeasible
+2025-04-24 00:41:06,341 - WARNING - Non-optimal solution for sample CSM5MCXL: infeasible
+2025-04-24 00:41:06,344 - WARNING - Non-optimal solution for sample CSM5MCY8: infeasible
+2025-04-24 00:41:06,346 - WARNING - Non-optimal solution for sample CSM5MCZ3: infeasible
+2025-04-24 00:41:06,347 - WARNING - Non-optimal solution for sample CSM5MCZF: infeasible
+2025-04-24 00:41:06,348 - WARNING - Non-optimal solution for sample CSM67UA2: infeasible
+2025-04-24 00:41:06,350 - WARNING - Non-optimal solution for sample CSM67UAA: infeasible
+2025-04-24 00:41:06,352 - WARNING - Non-optimal solution for sample CSM67UAQ: infeasible
+2025-04-24 00:41:06,358 - WARNING - Non-optimal solution for sample CSM67UB1: infeasible
+2025-04-24 00:41:06,361 - WARNING - Non-optimal solution for sample CSM67UBB: infeasible
+2025-04-24 00:41:06,363 - WARNING - Non-optimal solution for sample CSM67UBH: infeasible
+2025-04-24 00:41:06,366 - WARNING - Non-optimal solution for sample CSM67UBN: infeasible
+2025-04-24 00:41:06,369 - WARNING - Non-optimal solution for sample CSM67UBZ: infeasible
+2025-04-24 00:41:06,372 - WARNING - Non-optimal solution for sample CSM67UCK: infeasible
+2025-04-24 00:41:06,374 - WARNING - Non-optimal solution for sample CSM67UDN: infeasible
+2025-04-24 00:41:06,376 - WARNING - Non-optimal solution for sample CSM67UEA: infeasible
+2025-04-24 00:41:06,378 - WARNING - Non-optimal solution for sample CSM67UEI: infeasible
+2025-04-24 00:41:06,381 - WARNING - Non-optimal solution for sample CSM67UEW: infeasible
+2025-04-24 00:41:06,382 - WARNING - Non-optimal solution for sample CSM67UF5: infeasible
+2025-04-24 00:41:06,384 - WARNING - Non-optimal solution for sample CSM67UFZ: infeasible
+2025-04-24 00:41:06,387 - WARNING - Non-optimal solution for sample CSM67UGO: infeasible
+2025-04-24 00:41:06,389 - WARNING - Non-optimal solution for sample CSM67UH7: infeasible
+2025-04-24 00:41:06,390 - WARNING - Non-optimal solution for sample CSM79HGP: infeasible
+2025-04-24 00:41:06,392 - WARNING - Non-optimal solution for sample CSM79HGZ: infeasible
+2025-04-24 00:41:06,395 - WARNING - Non-optimal solution for sample CSM79HH8: infeasible
+2025-04-24 00:41:06,399 - WARNING - Non-optimal solution for sample CSM79HHO: infeasible
+2025-04-24 00:41:06,401 - WARNING - Non-optimal solution for sample CSM79HI7: infeasible
+2025-04-24 00:41:06,403 - WARNING - Non-optimal solution for sample CSM79HIB: infeasible
+2025-04-24 00:41:06,405 - WARNING - Non-optimal solution for sample CSM79HIJ: infeasible
+2025-04-24 00:41:06,407 - WARNING - Non-optimal solution for sample CSM79HIT: infeasible
+2025-04-24 00:41:06,409 - WARNING - Non-optimal solution for sample CSM79HJM: infeasible
+2025-04-24 00:41:06,411 - WARNING - Non-optimal solution for sample CSM79HJS: infeasible
+2025-04-24 00:41:06,413 - WARNING - Non-optimal solution for sample CSM79HKB: infeasible
+2025-04-24 00:41:06,415 - WARNING - Non-optimal solution for sample CSM79HKZ: infeasible
+2025-04-24 00:41:06,418 - WARNING - Non-optimal solution for sample CSM79HLA: infeasible
+2025-04-24 00:41:06,420 - WARNING - Non-optimal solution for sample CSM79HLM: infeasible
+2025-04-24 00:41:06,422 - WARNING - Non-optimal solution for sample CSM79HMN: infeasible
+2025-04-24 00:41:06,425 - WARNING - Non-optimal solution for sample CSM79HN6: infeasible
+2025-04-24 00:41:06,428 - WARNING - Non-optimal solution for sample CSM79HOJ: infeasible
+2025-04-24 00:41:06,430 - WARNING - Non-optimal solution for sample CSM79HP4: infeasible
+2025-04-24 00:41:06,432 - WARNING - Non-optimal solution for sample CSM79HPA: infeasible
+2025-04-24 00:41:06,434 - WARNING - Non-optimal solution for sample CSM79HPS: infeasible
+2025-04-24 00:41:06,436 - WARNING - Non-optimal solution for sample CSM79HR6: infeasible
+2025-04-24 00:41:06,438 - WARNING - Non-optimal solution for sample CSM79HRG: infeasible
+2025-04-24 00:41:06,439 - WARNING - Non-optimal solution for sample CSM7KOJO: infeasible
+2025-04-24 00:41:06,441 - WARNING - Non-optimal solution for sample CSM7KOKB: infeasible
+2025-04-24 00:41:06,443 - WARNING - Non-optimal solution for sample CSM7KOKN: infeasible
+2025-04-24 00:41:06,445 - WARNING - Non-optimal solution for sample CSM7KOKZ: infeasible
+2025-04-24 00:41:06,445 - INFO - Progress: 50/382 samples processed
+2025-04-24 00:41:06,448 - WARNING - Non-optimal solution for sample CSM7KOLA: infeasible
+2025-04-24 00:41:06,450 - WARNING - Non-optimal solution for sample CSM7KOLE: infeasible
+2025-04-24 00:41:06,452 - WARNING - Non-optimal solution for sample CSM7KOLK: infeasible
+2025-04-24 00:41:06,454 - WARNING - Non-optimal solution for sample CSM7KOLY: infeasible
+2025-04-24 00:41:06,456 - WARNING - Non-optimal solution for sample CSM7KOMB: infeasible
+2025-04-24 00:41:06,458 - WARNING - Non-optimal solution for sample CSM7KOMT: infeasible
+2025-04-24 00:41:06,460 - WARNING - Non-optimal solution for sample CSM7KON2: infeasible
+2025-04-24 00:41:06,461 - WARNING - Non-optimal solution for sample CSM7KON8: infeasible
+2025-04-24 00:41:06,463 - WARNING - Non-optimal solution for sample CSM7KONA: infeasible
+2025-04-24 00:41:06,466 - WARNING - Non-optimal solution for sample CSM7KONK: infeasible
+2025-04-24 00:41:06,468 - WARNING - Non-optimal solution for sample CSM7KOO9: infeasible
+2025-04-24 00:41:06,470 - WARNING - Non-optimal solution for sample CSM7KOOF: infeasible
+2025-04-24 00:41:06,472 - WARNING - Non-optimal solution for sample CSM7KOOH: infeasible
+2025-04-24 00:41:06,473 - WARNING - Non-optimal solution for sample CSM7KOOV: infeasible
+2025-04-24 00:41:06,475 - WARNING - Non-optimal solution for sample CSM7KOP8: infeasible
+2025-04-24 00:41:06,477 - WARNING - Non-optimal solution for sample CSM7KOPE: infeasible
+2025-04-24 00:41:06,479 - WARNING - Non-optimal solution for sample CSM7KOPI: infeasible
+2025-04-24 00:41:06,482 - WARNING - Non-optimal solution for sample CSM7KOPS: infeasible
+2025-04-24 00:41:06,484 - WARNING - Non-optimal solution for sample CSM7KOQ1: infeasible
+2025-04-24 00:41:06,486 - WARNING - Non-optimal solution for sample CSM7KORK: infeasible
+2025-04-24 00:41:06,488 - WARNING - Non-optimal solution for sample CSM7KORU: infeasible
+2025-04-24 00:41:06,489 - WARNING - Non-optimal solution for sample CSM7KOSP: infeasible
+2025-04-24 00:41:06,491 - WARNING - Non-optimal solution for sample CSM7KOSV: infeasible
+2025-04-24 00:41:06,492 - WARNING - Non-optimal solution for sample CSM7KOTK: infeasible
+2025-04-24 00:41:06,495 - WARNING - Non-optimal solution for sample CSM7KOTU: infeasible
+2025-04-24 00:41:06,497 - WARNING - Non-optimal solution for sample CSM7KOU9: infeasible
+2025-04-24 00:41:06,499 - WARNING - Non-optimal solution for sample CSM7KOUL: infeasible
+2025-04-24 00:41:06,501 - WARNING - Non-optimal solution for sample CSM9X1Y5: infeasible
+2025-04-24 00:41:06,503 - WARNING - Non-optimal solution for sample CSM9X1YV: infeasible
+2025-04-24 00:41:06,505 - WARNING - Non-optimal solution for sample CSM9X1ZC: infeasible
+2025-04-24 00:41:06,507 - WARNING - Non-optimal solution for sample CSM9X211: infeasible
+2025-04-24 00:41:06,510 - WARNING - Non-optimal solution for sample CSM9X213: infeasible
+2025-04-24 00:41:06,512 - WARNING - Non-optimal solution for sample CSM9X21J: infeasible
+2025-04-24 00:41:06,514 - WARNING - Non-optimal solution for sample CSM9X22G: infeasible
+2025-04-24 00:41:06,516 - WARNING - Non-optimal solution for sample CSM9X22U: infeasible
+2025-04-24 00:41:06,518 - WARNING - Non-optimal solution for sample CSM9X237: infeasible
+2025-04-24 00:41:06,519 - WARNING - Non-optimal solution for sample CSM9X23B: infeasible
+2025-04-24 00:41:06,521 - WARNING - Non-optimal solution for sample CSMA9J65: infeasible
+2025-04-24 00:41:06,524 - WARNING - Non-optimal solution for sample CSMAG78W: infeasible
+2025-04-24 00:41:06,526 - WARNING - Non-optimal solution for sample CSMAIG7X: infeasible
+2025-04-24 00:41:06,528 - WARNING - Non-optimal solution for sample ESM5MEBE: infeasible
+2025-04-24 00:41:06,530 - WARNING - Non-optimal solution for sample ESM5MEBG: infeasible
+2025-04-24 00:41:06,532 - WARNING - Non-optimal solution for sample ESM5MEBU: infeasible
+2025-04-24 00:41:06,534 - WARNING - Non-optimal solution for sample ESM5MEC5: infeasible
+2025-04-24 00:41:06,535 - WARNING - Non-optimal solution for sample ESM5MECL: infeasible
+2025-04-24 00:41:06,538 - WARNING - Non-optimal solution for sample ESM5MEDD: infeasible
+2025-04-24 00:41:06,541 - WARNING - Non-optimal solution for sample ESM5MEDN: infeasible
+2025-04-24 00:41:06,543 - WARNING - Non-optimal solution for sample ESM718SY: infeasible
+2025-04-24 00:41:06,545 - WARNING - Non-optimal solution for sample ESM718TF: infeasible
+2025-04-24 00:41:06,547 - WARNING - Non-optimal solution for sample ESM718TM: infeasible
+2025-04-24 00:41:06,547 - INFO - Progress: 100/382 samples processed
+2025-04-24 00:41:06,549 - WARNING - Non-optimal solution for sample ESM718UH: infeasible
+2025-04-24 00:41:06,551 - WARNING - Non-optimal solution for sample ESM718V8: infeasible
+2025-04-24 00:41:06,555 - WARNING - Non-optimal solution for sample ESM7F5AK: infeasible
+2025-04-24 00:41:06,558 - WARNING - Non-optimal solution for sample ESM9IEP1: infeasible
+2025-04-24 00:41:06,560 - WARNING - Non-optimal solution for sample HSM5MD3Y: infeasible
+2025-04-24 00:41:06,561 - WARNING - Non-optimal solution for sample HSM5MD41: infeasible
+2025-04-24 00:41:06,563 - WARNING - Non-optimal solution for sample HSM5MD43: infeasible
+2025-04-24 00:41:06,565 - WARNING - Non-optimal solution for sample HSM5MD4O: infeasible
+2025-04-24 00:41:06,568 - WARNING - Non-optimal solution for sample HSM5MD5D: infeasible
+2025-04-24 00:41:06,569 - WARNING - Non-optimal solution for sample HSM5MD5P: infeasible
+2025-04-24 00:41:06,572 - WARNING - Non-optimal solution for sample HSM5MD62: infeasible
+2025-04-24 00:41:06,574 - WARNING - Non-optimal solution for sample HSM5MD6A: infeasible
+2025-04-24 00:41:06,576 - WARNING - Non-optimal solution for sample HSM5MD6K: infeasible
+2025-04-24 00:41:06,577 - WARNING - Non-optimal solution for sample HSM5MD73: infeasible
+2025-04-24 00:41:06,579 - WARNING - Non-optimal solution for sample HSM5MD79: infeasible
+2025-04-24 00:41:06,582 - WARNING - Non-optimal solution for sample HSM5MD7J: infeasible
+2025-04-24 00:41:06,585 - WARNING - Non-optimal solution for sample HSM5MD7O: infeasible
+2025-04-24 00:41:06,587 - WARNING - Non-optimal solution for sample HSM67VCZ: infeasible
+2025-04-24 00:41:06,589 - WARNING - Non-optimal solution for sample HSM67VD6: infeasible
+2025-04-24 00:41:06,590 - WARNING - Non-optimal solution for sample HSM67VEE: infeasible
+2025-04-24 00:41:06,591 - WARNING - Non-optimal solution for sample HSM67VES: infeasible
+2025-04-24 00:41:06,593 - WARNING - Non-optimal solution for sample HSM67VF3: infeasible
+2025-04-24 00:41:06,595 - WARNING - Non-optimal solution for sample HSM67VFR: infeasible
+2025-04-24 00:41:06,597 - WARNING - Non-optimal solution for sample HSM67VFZ: infeasible
+2025-04-24 00:41:06,599 - WARNING - Non-optimal solution for sample HSM67VGA: infeasible
+2025-04-24 00:41:06,601 - WARNING - Non-optimal solution for sample HSM67VGG: infeasible
+2025-04-24 00:41:06,603 - WARNING - Non-optimal solution for sample HSM67VH1: infeasible
+2025-04-24 00:41:06,605 - WARNING - Non-optimal solution for sample HSM67VHF: infeasible
+2025-04-24 00:41:06,608 - WARNING - Non-optimal solution for sample HSM67VI5: infeasible
+2025-04-24 00:41:06,611 - WARNING - Non-optimal solution for sample HSM6XRQ8: infeasible
+2025-04-24 00:41:06,613 - WARNING - Non-optimal solution for sample HSM6XRQB: infeasible
+2025-04-24 00:41:06,614 - WARNING - Non-optimal solution for sample HSM6XRQM: infeasible
+2025-04-24 00:41:06,616 - WARNING - Non-optimal solution for sample HSM6XRQW: infeasible
+2025-04-24 00:41:06,618 - WARNING - Non-optimal solution for sample HSM6XRRD: infeasible
+2025-04-24 00:41:06,620 - WARNING - Non-optimal solution for sample HSM6XRRJ: infeasible
+2025-04-24 00:41:06,621 - WARNING - Non-optimal solution for sample HSM6XRRV: infeasible
+2025-04-24 00:41:06,624 - WARNING - Non-optimal solution for sample HSM6XRS8: infeasible
+2025-04-24 00:41:06,626 - WARNING - Non-optimal solution for sample HSM6XRSG: infeasible
+2025-04-24 00:41:06,628 - WARNING - Non-optimal solution for sample HSM6XRSN: infeasible
+2025-04-24 00:41:06,629 - WARNING - Non-optimal solution for sample HSM6XRTM: infeasible
+2025-04-24 00:41:06,632 - WARNING - Non-optimal solution for sample HSM6XRTQ: infeasible
+2025-04-24 00:41:06,634 - WARNING - Non-optimal solution for sample HSM6XRV2: infeasible
+2025-04-24 00:41:06,635 - WARNING - Non-optimal solution for sample HSM6XRVC: infeasible
+2025-04-24 00:41:06,637 - WARNING - Non-optimal solution for sample HSM6XRVK: infeasible
+2025-04-24 00:41:06,639 - WARNING - Non-optimal solution for sample HSM6XRVO: infeasible
+2025-04-24 00:41:06,641 - WARNING - Non-optimal solution for sample HSM6XRVW: infeasible
+2025-04-24 00:41:06,643 - WARNING - Non-optimal solution for sample HSM7CYX2: infeasible
+2025-04-24 00:41:06,645 - WARNING - Non-optimal solution for sample HSM7CYXA: infeasible
+2025-04-24 00:41:06,647 - WARNING - Non-optimal solution for sample HSM7CYY3: infeasible
+2025-04-24 00:41:06,649 - WARNING - Non-optimal solution for sample HSM7CYYB: infeasible
+2025-04-24 00:41:06,650 - INFO - Progress: 150/382 samples processed
+2025-04-24 00:41:06,653 - WARNING - Non-optimal solution for sample HSM7CYYF: infeasible
+2025-04-24 00:41:06,656 - WARNING - Non-optimal solution for sample HSM7CYZ7: infeasible
+2025-04-24 00:41:06,657 - WARNING - Non-optimal solution for sample HSM7CYZJ: infeasible
+2025-04-24 00:41:06,659 - WARNING - Non-optimal solution for sample HSM7CYZT: infeasible
+2025-04-24 00:41:06,661 - WARNING - Non-optimal solution for sample HSM7CZ14: infeasible
+2025-04-24 00:41:06,663 - WARNING - Non-optimal solution for sample HSM7CZ32: infeasible
+2025-04-24 00:41:06,664 - WARNING - Non-optimal solution for sample HSM7CZ38: infeasible
+2025-04-24 00:41:06,668 - WARNING - Non-optimal solution for sample HSM7CZ3G: infeasible
+2025-04-24 00:41:06,670 - WARNING - Non-optimal solution for sample HSM7J4G1: infeasible
+2025-04-24 00:41:06,671 - WARNING - Non-optimal solution for sample HSM7J4GR: infeasible
+2025-04-24 00:41:06,673 - WARNING - Non-optimal solution for sample HSM7J4HC: infeasible
+2025-04-24 00:41:06,675 - WARNING - Non-optimal solution for sample HSM7J4HO: infeasible
+2025-04-24 00:41:06,677 - WARNING - Non-optimal solution for sample HSM7J4HS: infeasible
+2025-04-24 00:41:06,679 - WARNING - Non-optimal solution for sample HSM7J4I3: infeasible
+2025-04-24 00:41:06,682 - WARNING - Non-optimal solution for sample HSM7J4I7: infeasible
+2025-04-24 00:41:06,684 - WARNING - Non-optimal solution for sample HSM7J4IC: infeasible
+2025-04-24 00:41:06,686 - WARNING - Non-optimal solution for sample HSM7J4IS: infeasible
+2025-04-24 00:41:06,688 - WARNING - Non-optimal solution for sample HSM7J4IU: infeasible
+2025-04-24 00:41:06,689 - WARNING - Non-optimal solution for sample HSM7J4J7: infeasible
+2025-04-24 00:41:06,691 - WARNING - Non-optimal solution for sample HSM7J4JF: infeasible
+2025-04-24 00:41:06,693 - WARNING - Non-optimal solution for sample HSM7J4JZ: infeasible
+2025-04-24 00:41:06,694 - WARNING - Non-optimal solution for sample HSM7J4K8: infeasible
+2025-04-24 00:41:06,696 - WARNING - Non-optimal solution for sample HSM7J4KC: infeasible
+2025-04-24 00:41:06,698 - WARNING - Non-optimal solution for sample HSM7J4KK: infeasible
+2025-04-24 00:41:06,700 - WARNING - Non-optimal solution for sample HSM7J4KQ: infeasible
+2025-04-24 00:41:06,702 - WARNING - Non-optimal solution for sample HSM7J4L9: infeasible
+2025-04-24 00:41:06,703 - WARNING - Non-optimal solution for sample HSM7J4LD: infeasible
+2025-04-24 00:41:06,705 - WARNING - Non-optimal solution for sample HSM7J4LN: infeasible
+2025-04-24 00:41:06,707 - WARNING - Non-optimal solution for sample HSM7J4LP: infeasible
+2025-04-24 00:41:06,709 - WARNING - Non-optimal solution for sample HSM7J4M4: infeasible
+2025-04-24 00:41:06,712 - WARNING - Non-optimal solution for sample HSM7J4ME: infeasible
+2025-04-24 00:41:06,715 - WARNING - Non-optimal solution for sample HSM7J4MK: infeasible
+2025-04-24 00:41:06,717 - WARNING - Non-optimal solution for sample HSM7J4MS: infeasible
+2025-04-24 00:41:06,719 - WARNING - Non-optimal solution for sample HSM7J4MY: infeasible
+2025-04-24 00:41:06,720 - WARNING - Non-optimal solution for sample HSM7J4N4: infeasible
+2025-04-24 00:41:06,724 - WARNING - Non-optimal solution for sample HSM7J4NA: infeasible
+2025-04-24 00:41:06,727 - WARNING - Non-optimal solution for sample HSM7J4NE: infeasible
+2025-04-24 00:41:06,730 - WARNING - Non-optimal solution for sample HSM7J4O1: infeasible
+2025-04-24 00:41:06,732 - WARNING - Non-optimal solution for sample HSM7J4O3: infeasible
+2025-04-24 00:41:06,734 - WARNING - Non-optimal solution for sample HSM7J4OE: infeasible
+2025-04-24 00:41:06,737 - WARNING - Non-optimal solution for sample HSM7J4OT: infeasible
+2025-04-24 00:41:06,739 - WARNING - Non-optimal solution for sample HSM7J4OZ: infeasible
+2025-04-24 00:41:06,742 - WARNING - Non-optimal solution for sample HSM7J4PE: infeasible
+2025-04-24 00:41:06,743 - WARNING - Non-optimal solution for sample HSM7J4PW: infeasible
+2025-04-24 00:41:06,745 - WARNING - Non-optimal solution for sample HSM7J4QB: infeasible
+2025-04-24 00:41:06,747 - WARNING - Non-optimal solution for sample HSM7J4QT: infeasible
+2025-04-24 00:41:06,749 - WARNING - Non-optimal solution for sample HSM7J4R2: infeasible
+2025-04-24 00:41:06,751 - WARNING - Non-optimal solution for sample HSMA33J5: infeasible
+2025-04-24 00:41:06,753 - WARNING - Non-optimal solution for sample HSMA33J9: infeasible
+2025-04-24 00:41:06,755 - WARNING - Non-optimal solution for sample HSMA33JB: infeasible
+2025-04-24 00:41:06,755 - INFO - Progress: 200/382 samples processed
+2025-04-24 00:41:06,757 - WARNING - Non-optimal solution for sample HSMA33JP: infeasible
+2025-04-24 00:41:06,758 - WARNING - Non-optimal solution for sample HSMA33L1: infeasible
+2025-04-24 00:41:06,760 - WARNING - Non-optimal solution for sample HSMA33M8: infeasible
+2025-04-24 00:41:06,762 - WARNING - Non-optimal solution for sample HSMA33MI: infeasible
+2025-04-24 00:41:06,765 - WARNING - Non-optimal solution for sample HSMA33MZ: infeasible
+2025-04-24 00:41:06,767 - WARNING - Non-optimal solution for sample HSMA33NQ: infeasible
+2025-04-24 00:41:06,769 - WARNING - Non-optimal solution for sample HSMA33NW: infeasible
+2025-04-24 00:41:06,771 - WARNING - Non-optimal solution for sample HSMA33NY: infeasible
+2025-04-24 00:41:06,773 - WARNING - Non-optimal solution for sample HSMA33O1: infeasible
+2025-04-24 00:41:06,775 - WARNING - Non-optimal solution for sample HSMA33OJ: infeasible
+2025-04-24 00:41:06,777 - WARNING - Non-optimal solution for sample HSMA33OR: infeasible
+2025-04-24 00:41:06,779 - WARNING - Non-optimal solution for sample HSMA33OZ: infeasible
+2025-04-24 00:41:06,782 - WARNING - Non-optimal solution for sample HSMA33PZ: infeasible
+2025-04-24 00:41:06,784 - WARNING - Non-optimal solution for sample HSMA33Q6: infeasible
+2025-04-24 00:41:06,786 - WARNING - Non-optimal solution for sample HSMA33QO: infeasible
+2025-04-24 00:41:06,787 - WARNING - Non-optimal solution for sample HSMA33R7: infeasible
+2025-04-24 00:41:06,790 - WARNING - Non-optimal solution for sample HSMA33R9: infeasible
+2025-04-24 00:41:06,792 - WARNING - Non-optimal solution for sample HSMA33RX: infeasible
+2025-04-24 00:41:06,799 - WARNING - Non-optimal solution for sample HSMA33SG: infeasible
+2025-04-24 00:41:06,802 - WARNING - Non-optimal solution for sample HSMA33SK: infeasible
+2025-04-24 00:41:06,806 - WARNING - Non-optimal solution for sample MSM5LLDA: infeasible
+2025-04-24 00:41:06,811 - WARNING - Non-optimal solution for sample MSM5LLDI: infeasible
+2025-04-24 00:41:06,814 - WARNING - Non-optimal solution for sample MSM5LLDS: infeasible
+2025-04-24 00:41:06,817 - WARNING - Non-optimal solution for sample MSM5LLF4: infeasible
+2025-04-24 00:41:06,819 - WARNING - Non-optimal solution for sample MSM6J2HF: infeasible
+2025-04-24 00:41:06,835 - WARNING - Non-optimal solution for sample MSM6J2HT: infeasible
+2025-04-24 00:41:06,846 - WARNING - Non-optimal solution for sample MSM6J2IG: infeasible
+2025-04-24 00:41:06,848 - WARNING - Non-optimal solution for sample MSM6J2IQ: infeasible
+2025-04-24 00:41:06,850 - WARNING - Non-optimal solution for sample MSM6J2J1: infeasible
+2025-04-24 00:41:06,852 - WARNING - Non-optimal solution for sample MSM6J2J5: infeasible
+2025-04-24 00:41:06,854 - WARNING - Non-optimal solution for sample MSM6J2JR: infeasible
+2025-04-24 00:41:06,856 - WARNING - Non-optimal solution for sample MSM6J2K6: infeasible
+2025-04-24 00:41:06,858 - WARNING - Non-optimal solution for sample MSM6J2KE: infeasible
+2025-04-24 00:41:06,863 - WARNING - Non-optimal solution for sample MSM6J2LB: infeasible
+2025-04-24 00:41:06,867 - WARNING - Non-optimal solution for sample MSM6J2LL: infeasible
+2025-04-24 00:41:06,868 - WARNING - Non-optimal solution for sample MSM6J2LT: infeasible
+2025-04-24 00:41:06,870 - WARNING - Non-optimal solution for sample MSM6J2M3: infeasible
+2025-04-24 00:41:06,871 - WARNING - Non-optimal solution for sample MSM6J2MB: infeasible
+2025-04-24 00:41:06,873 - WARNING - Non-optimal solution for sample MSM6J2MH: infeasible
+2025-04-24 00:41:06,875 - WARNING - Non-optimal solution for sample MSM6J2OH: infeasible
+2025-04-24 00:41:06,876 - WARNING - Non-optimal solution for sample MSM6J2OP: infeasible
+2025-04-24 00:41:06,877 - WARNING - Non-optimal solution for sample MSM6J2PM: infeasible
+2025-04-24 00:41:06,880 - WARNING - Non-optimal solution for sample MSM6J2PO: infeasible
+2025-04-24 00:41:06,881 - WARNING - Non-optimal solution for sample MSM6J2PU: infeasible
+2025-04-24 00:41:06,883 - WARNING - Non-optimal solution for sample MSM6J2Q1: infeasible
+2025-04-24 00:41:06,885 - WARNING - Non-optimal solution for sample MSM6J2Q3: infeasible
+2025-04-24 00:41:06,886 - WARNING - Non-optimal solution for sample MSM6J2QP: infeasible
+2025-04-24 00:41:06,888 - WARNING - Non-optimal solution for sample MSM6J2R2: infeasible
+2025-04-24 00:41:06,890 - WARNING - Non-optimal solution for sample MSM6J2R8: infeasible
+2025-04-24 00:41:06,891 - WARNING - Non-optimal solution for sample MSM6J2RO: infeasible
+2025-04-24 00:41:06,891 - INFO - Progress: 250/382 samples processed
+2025-04-24 00:41:06,894 - WARNING - Non-optimal solution for sample MSM6J2SE: infeasible
+2025-04-24 00:41:06,895 - WARNING - Non-optimal solution for sample MSM79H5G: infeasible
+2025-04-24 00:41:06,897 - WARNING - Non-optimal solution for sample MSM79H5Q: infeasible
+2025-04-24 00:41:06,899 - WARNING - Non-optimal solution for sample MSM79H63: infeasible
+2025-04-24 00:41:06,901 - WARNING - Non-optimal solution for sample MSM79H6F: infeasible
+2025-04-24 00:41:06,902 - WARNING - Non-optimal solution for sample MSM79H6Y: infeasible
+2025-04-24 00:41:06,904 - WARNING - Non-optimal solution for sample MSM79H7G: infeasible
+2025-04-24 00:41:06,906 - WARNING - Non-optimal solution for sample MSM79H7M: infeasible
+2025-04-24 00:41:06,907 - WARNING - Non-optimal solution for sample MSM79H7Q: infeasible
+2025-04-24 00:41:06,910 - WARNING - Non-optimal solution for sample MSM79H7Y: infeasible
+2025-04-24 00:41:06,910 - WARNING - Non-optimal solution for sample MSM79H85: infeasible
+2025-04-24 00:41:06,912 - WARNING - Non-optimal solution for sample MSM79H8D: infeasible
+2025-04-24 00:41:06,915 - WARNING - Non-optimal solution for sample MSM79H9G: infeasible
+2025-04-24 00:41:06,916 - WARNING - Non-optimal solution for sample MSM79H9Q: infeasible
+2025-04-24 00:41:06,918 - WARNING - Non-optimal solution for sample MSM79HA3: infeasible
+2025-04-24 00:41:06,919 - WARNING - Non-optimal solution for sample MSM79HAH: infeasible
+2025-04-24 00:41:06,921 - WARNING - Non-optimal solution for sample MSM79HAJ: infeasible
+2025-04-24 00:41:06,923 - WARNING - Non-optimal solution for sample MSM79HAN: infeasible
+2025-04-24 00:41:06,924 - WARNING - Non-optimal solution for sample MSM79HB6: infeasible
+2025-04-24 00:41:06,926 - WARNING - Non-optimal solution for sample MSM79HC8: infeasible
+2025-04-24 00:41:06,927 - WARNING - Non-optimal solution for sample MSM79HCR: infeasible
+2025-04-24 00:41:06,929 - WARNING - Non-optimal solution for sample MSM79HDA: infeasible
+2025-04-24 00:41:06,931 - WARNING - Non-optimal solution for sample MSM79HDE: infeasible
+2025-04-24 00:41:06,933 - WARNING - Non-optimal solution for sample MSM79HDQ: infeasible
+2025-04-24 00:41:06,935 - WARNING - Non-optimal solution for sample MSM79HEY: infeasible
+2025-04-24 00:41:06,937 - WARNING - Non-optimal solution for sample MSM9VZEK: infeasible
+2025-04-24 00:41:06,939 - WARNING - Non-optimal solution for sample MSM9VZES: infeasible
+2025-04-24 00:41:06,942 - WARNING - Non-optimal solution for sample MSM9VZEW: infeasible
+2025-04-24 00:41:06,944 - WARNING - Non-optimal solution for sample MSM9VZF7: infeasible
+2025-04-24 00:41:06,945 - WARNING - Non-optimal solution for sample MSM9VZFR: infeasible
+2025-04-24 00:41:06,947 - WARNING - Non-optimal solution for sample MSM9VZGO: infeasible
+2025-04-24 00:41:06,950 - WARNING - Non-optimal solution for sample MSM9VZHB: infeasible
+2025-04-24 00:41:06,952 - WARNING - Non-optimal solution for sample MSM9VZHF: infeasible
+2025-04-24 00:41:06,954 - WARNING - Non-optimal solution for sample MSM9VZHR: infeasible
+2025-04-24 00:41:06,955 - WARNING - Non-optimal solution for sample MSM9VZHX: infeasible
+2025-04-24 00:41:06,957 - WARNING - Non-optimal solution for sample MSM9VZI6: infeasible
+2025-04-24 00:41:06,959 - WARNING - Non-optimal solution for sample MSM9VZIM: infeasible
+2025-04-24 00:41:06,960 - WARNING - Non-optimal solution for sample MSM9VZIQ: infeasible
+2025-04-24 00:41:06,962 - WARNING - Non-optimal solution for sample MSM9VZJ3: infeasible
+2025-04-24 00:41:06,963 - WARNING - Non-optimal solution for sample MSM9VZJZ: infeasible
+2025-04-24 00:41:06,966 - WARNING - Non-optimal solution for sample MSM9VZKE: infeasible
+2025-04-24 00:41:06,968 - WARNING - Non-optimal solution for sample MSM9VZL9: infeasible
+2025-04-24 00:41:06,969 - WARNING - Non-optimal solution for sample MSM9VZLJ: infeasible
+2025-04-24 00:41:06,971 - WARNING - Non-optimal solution for sample MSM9VZLP: infeasible
+2025-04-24 00:41:06,973 - WARNING - Non-optimal solution for sample MSM9VZLV: infeasible
+2025-04-24 00:41:06,974 - WARNING - Non-optimal solution for sample MSM9VZME: infeasible
+2025-04-24 00:41:06,977 - WARNING - Non-optimal solution for sample MSM9VZMM: infeasible
+2025-04-24 00:41:06,978 - WARNING - Non-optimal solution for sample MSM9VZMU: infeasible
+2025-04-24 00:41:06,980 - WARNING - Non-optimal solution for sample MSM9VZNL: infeasible
+2025-04-24 00:41:06,981 - WARNING - Non-optimal solution for sample MSM9VZNX: infeasible
+2025-04-24 00:41:06,981 - INFO - Progress: 300/382 samples processed
+2025-04-24 00:41:06,983 - WARNING - Non-optimal solution for sample MSM9VZOI: infeasible
+2025-04-24 00:41:06,985 - WARNING - Non-optimal solution for sample MSM9VZOO: infeasible
+2025-04-24 00:41:06,987 - WARNING - Non-optimal solution for sample MSM9VZOU: infeasible
+2025-04-24 00:41:06,989 - WARNING - Non-optimal solution for sample MSM9VZP3: infeasible
+2025-04-24 00:41:06,990 - WARNING - Non-optimal solution for sample MSM9VZPL: infeasible
+2025-04-24 00:41:06,993 - WARNING - Non-optimal solution for sample MSMA267V: infeasible
+2025-04-24 00:41:06,995 - WARNING - Non-optimal solution for sample MSMA26AL: infeasible
+2025-04-24 00:41:06,996 - WARNING - Non-optimal solution for sample MSMA26AZ: infeasible
+2025-04-24 00:41:06,998 - WARNING - Non-optimal solution for sample MSMA26BB: infeasible
+2025-04-24 00:41:06,999 - WARNING - Non-optimal solution for sample MSMA26BR: infeasible
+2025-04-24 00:41:07,001 - WARNING - Non-optimal solution for sample MSMA26CX: infeasible
+2025-04-24 00:41:07,003 - WARNING - Non-optimal solution for sample MSMA26DG: infeasible
+2025-04-24 00:41:07,005 - WARNING - Non-optimal solution for sample MSMA26DO: infeasible
+2025-04-24 00:41:07,007 - WARNING - Non-optimal solution for sample MSMA26EJ: infeasible
+2025-04-24 00:41:07,010 - WARNING - Non-optimal solution for sample MSMA26ET: infeasible
+2025-04-24 00:41:07,012 - WARNING - Non-optimal solution for sample MSMAPC5D: infeasible
+2025-04-24 00:41:07,014 - WARNING - Non-optimal solution for sample MSMAPC6G: infeasible
+2025-04-24 00:41:07,015 - WARNING - Non-optimal solution for sample MSMAPC6K: infeasible
+2025-04-24 00:41:07,017 - WARNING - Non-optimal solution for sample MSMAPC7J: infeasible
+2025-04-24 00:41:07,019 - WARNING - Non-optimal solution for sample MSMAPC7T: infeasible
+2025-04-24 00:41:07,021 - WARNING - Non-optimal solution for sample MSMB4LXW: infeasible
+2025-04-24 00:41:07,024 - WARNING - Non-optimal solution for sample MSMB4LXY: infeasible
+2025-04-24 00:41:07,026 - WARNING - Non-optimal solution for sample MSMB4LYB: infeasible
+2025-04-24 00:41:07,028 - WARNING - Non-optimal solution for sample MSMB4LYH: infeasible
+2025-04-24 00:41:07,029 - WARNING - Non-optimal solution for sample MSMB4LZ4: infeasible
+2025-04-24 00:41:07,031 - WARNING - Non-optimal solution for sample MSMB4LZ8: infeasible
+2025-04-24 00:41:07,033 - WARNING - Non-optimal solution for sample MSMB4LZC: infeasible
+2025-04-24 00:41:07,035 - WARNING - Non-optimal solution for sample MSMB4LZK: infeasible
+2025-04-24 00:41:07,037 - WARNING - Non-optimal solution for sample MSMB4LZR: infeasible
+2025-04-24 00:41:07,039 - WARNING - Non-optimal solution for sample MSMB4LZX: infeasible
+2025-04-24 00:41:07,041 - WARNING - Non-optimal solution for sample PSM6XBQY: infeasible
+2025-04-24 00:41:07,043 - WARNING - Non-optimal solution for sample PSM6XBRK: infeasible
+2025-04-24 00:41:07,044 - WARNING - Non-optimal solution for sample PSM6XBSE: infeasible
+2025-04-24 00:41:07,046 - WARNING - Non-optimal solution for sample PSM6XBSI: infeasible
+2025-04-24 00:41:07,047 - WARNING - Non-optimal solution for sample PSM6XBSK: infeasible
+2025-04-24 00:41:07,048 - WARNING - Non-optimal solution for sample PSM6XBSS: infeasible
+2025-04-24 00:41:07,051 - WARNING - Non-optimal solution for sample PSM6XBT3: infeasible
+2025-04-24 00:41:07,053 - WARNING - Non-optimal solution for sample PSM6XBUG: infeasible
+2025-04-24 00:41:07,055 - WARNING - Non-optimal solution for sample PSM6XBUO: infeasible
+2025-04-24 00:41:07,057 - WARNING - Non-optimal solution for sample PSM6XBVM: infeasible
+2025-04-24 00:41:07,059 - WARNING - Non-optimal solution for sample PSM7J12F: infeasible
+2025-04-24 00:41:07,060 - WARNING - Non-optimal solution for sample PSM7J12J: infeasible
+2025-04-24 00:41:07,062 - WARNING - Non-optimal solution for sample PSM7J12R: infeasible
+2025-04-24 00:41:07,064 - WARNING - Non-optimal solution for sample PSM7J12V: infeasible
+2025-04-24 00:41:07,066 - WARNING - Non-optimal solution for sample PSM7J136: infeasible
+2025-04-24 00:41:07,069 - WARNING - Non-optimal solution for sample PSM7J13E: infeasible
+2025-04-24 00:41:07,071 - WARNING - Non-optimal solution for sample PSM7J141: infeasible
+2025-04-24 00:41:07,073 - WARNING - Non-optimal solution for sample PSM7J14L: infeasible
+2025-04-24 00:41:07,075 - WARNING - Non-optimal solution for sample PSM7J14T: infeasible
+2025-04-24 00:41:07,076 - WARNING - Non-optimal solution for sample PSM7J14X: infeasible
+2025-04-24 00:41:07,077 - INFO - Progress: 350/382 samples processed
+2025-04-24 00:41:07,079 - WARNING - Non-optimal solution for sample PSM7J156: infeasible
+2025-04-24 00:41:07,082 - WARNING - Non-optimal solution for sample PSM7J158: infeasible
+2025-04-24 00:41:07,083 - WARNING - Non-optimal solution for sample PSM7J15M: infeasible
+2025-04-24 00:41:07,085 - WARNING - Non-optimal solution for sample PSM7J15U: infeasible
+2025-04-24 00:41:07,087 - WARNING - Non-optimal solution for sample PSM7J161: infeasible
+2025-04-24 00:41:07,089 - WARNING - Non-optimal solution for sample PSM7J16Y: infeasible
+2025-04-24 00:41:07,091 - WARNING - Non-optimal solution for sample PSM7J17F: infeasible
+2025-04-24 00:41:07,092 - WARNING - Non-optimal solution for sample PSM7J17L: infeasible
+2025-04-24 00:41:07,094 - WARNING - Non-optimal solution for sample PSM7J17X: infeasible
+2025-04-24 00:41:07,096 - WARNING - Non-optimal solution for sample PSM7J193: infeasible
+2025-04-24 00:41:07,097 - WARNING - Non-optimal solution for sample PSM7J19B: infeasible
+2025-04-24 00:41:07,100 - WARNING - Non-optimal solution for sample PSM7J19J: infeasible
+2025-04-24 00:41:07,102 - WARNING - Non-optimal solution for sample PSM7J1A2: infeasible
+2025-04-24 00:41:07,103 - WARNING - Non-optimal solution for sample PSM7J1AU: infeasible
+2025-04-24 00:41:07,105 - WARNING - Non-optimal solution for sample PSM7J1BF: infeasible
+2025-04-24 00:41:07,106 - WARNING - Non-optimal solution for sample PSM7J1CC: infeasible
+2025-04-24 00:41:07,108 - WARNING - Non-optimal solution for sample PSM7J1CU: infeasible
+2025-04-24 00:41:07,110 - WARNING - Non-optimal solution for sample PSMA263W: infeasible
+2025-04-24 00:41:07,112 - WARNING - Non-optimal solution for sample PSMA264Q: infeasible
+2025-04-24 00:41:07,113 - WARNING - Non-optimal solution for sample PSMA265H: infeasible
+2025-04-24 00:41:07,115 - WARNING - Non-optimal solution for sample PSMA265N: infeasible
+2025-04-24 00:41:07,118 - WARNING - Non-optimal solution for sample PSMA265T: infeasible
+2025-04-24 00:41:07,120 - WARNING - Non-optimal solution for sample PSMA265X: infeasible
+2025-04-24 00:41:07,121 - WARNING - Non-optimal solution for sample PSMA266I: infeasible
+2025-04-24 00:41:07,123 - WARNING - Non-optimal solution for sample PSMA266Q: infeasible
+2025-04-24 00:41:07,125 - WARNING - Non-optimal solution for sample PSMA2675: infeasible
+2025-04-24 00:41:07,127 - WARNING - Non-optimal solution for sample PSMA267J: infeasible
+2025-04-24 00:41:07,129 - WARNING - Non-optimal solution for sample PSMA267P: infeasible
+2025-04-24 00:41:07,131 - WARNING - Non-optimal solution for sample PSMA269W: infeasible
+2025-04-24 00:41:07,133 - WARNING - Non-optimal solution for sample PSMA26A3: infeasible
+2025-04-24 00:41:07,134 - WARNING - Non-optimal solution for sample PSMB4MBK: infeasible
+2025-04-24 00:41:07,136 - WARNING - Non-optimal solution for sample PSMB4MC5: infeasible
+2025-04-24 00:41:07,137 - INFO - Simulation complete: 0 successful, 382 failed
+2025-04-24 00:41:07,190 - INFO - Dataset with butyrate fluxes saved as 'C:\RESEARCH-PROJECT\IHMP\DONE\ubarkbarkjb_with_butyrate_flux.tsv'
+2025-04-24 00:41:07,222 - INFO - 
+Summary statistics:
+2025-04-24 00:41:07,230 - INFO -        avg_daily_fiber  butyrate_flux  normalized_inflammation
+count       382.000000            0.0               382.000000
+mean          4.274818            NaN                 0.221849
+std           3.366647            NaN                 0.256979
+min           0.166667            NaN                 0.000000
+25%           1.541667            NaN                 0.014234
+50%           3.533333            NaN                 0.132131
+75%           5.983333            NaN                 0.325240
+max          16.956667            NaN                 1.000000
+2025-04-24 00:41:07,242 - INFO - 
+Data Head:
+2025-04-24 00:41:07,243 - INFO -      Sample  avg_daily_fiber  butyrate_flux  normalized_inflammation
+0  CSM5MCVN         9.413333            NaN                 0.010180
+1  CSM5MCWE         9.900000            NaN                 0.021574
+2  CSM5MCX3        12.480667            NaN                 0.002161
+3  CSM5MCXL         7.033333            NaN                 0.007357
+4  CSM5MCY8        12.423333            NaN                 0.530969
+2025-04-24 00:41:07,253 - INFO - 
+Correlation between butyrate_flux and normalized_inflammation: nan
+2025-04-24 00:46:46,462 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-04-24 00:46:46,464 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-04-24 00:46:46,468 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-04-24 00:46:46,471 - INFO - The current solver interface glpk doesn't support setting the optimality tolerance.
+2025-04-24 00:46:46,494 - INFO - 
+Running metabolic simulations...
+2025-04-24 00:46:46,499 - WARNING - Non-optimal solution for sample CSM5MCVN: infeasible
+2025-04-24 00:46:46,556 - WARNING - Non-optimal solution for sample CSM5MCWE: infeasible
+2025-04-24 00:46:46,558 - WARNING - Non-optimal solution for sample CSM5MCX3: infeasible
+2025-04-24 00:46:46,560 - WARNING - Non-optimal solution for sample CSM5MCXL: infeasible
+2025-04-24 00:46:46,562 - WARNING - Non-optimal solution for sample CSM5MCY8: infeasible
+2025-04-24 00:46:46,563 - WARNING - Non-optimal solution for sample CSM5MCZ3: infeasible
+2025-04-24 00:46:46,566 - WARNING - Non-optimal solution for sample CSM5MCZF: infeasible
+2025-04-24 00:46:46,569 - WARNING - Non-optimal solution for sample CSM67UA2: infeasible
+2025-04-24 00:46:46,571 - WARNING - Non-optimal solution for sample CSM67UAA: infeasible
+2025-04-24 00:46:46,573 - WARNING - Non-optimal solution for sample CSM67UAQ: infeasible
+2025-04-24 00:46:46,575 - WARNING - Non-optimal solution for sample CSM67UB1: infeasible
+2025-04-24 00:46:46,577 - WARNING - Non-optimal solution for sample CSM67UBB: infeasible
+2025-04-24 00:46:46,580 - WARNING - Non-optimal solution for sample CSM67UBH: infeasible
+2025-04-24 00:46:46,583 - WARNING - Non-optimal solution for sample CSM67UBN: infeasible
+2025-04-24 00:46:46,585 - WARNING - Non-optimal solution for sample CSM67UBZ: infeasible
+2025-04-24 00:46:46,587 - WARNING - Non-optimal solution for sample CSM67UCK: infeasible
+2025-04-24 00:46:46,590 - WARNING - Non-optimal solution for sample CSM67UDN: infeasible
+2025-04-24 00:46:46,592 - WARNING - Non-optimal solution for sample CSM67UEA: infeasible
+2025-04-24 00:46:46,595 - WARNING - Non-optimal solution for sample CSM67UEI: infeasible
+2025-04-24 00:46:46,598 - WARNING - Non-optimal solution for sample CSM67UEW: infeasible
+2025-04-24 00:46:46,600 - WARNING - Non-optimal solution for sample CSM67UF5: infeasible
+2025-04-24 00:46:46,601 - WARNING - Non-optimal solution for sample CSM67UFZ: infeasible
+2025-04-24 00:46:46,604 - WARNING - Non-optimal solution for sample CSM67UGO: infeasible
+2025-04-24 00:46:46,606 - WARNING - Non-optimal solution for sample CSM67UH7: infeasible
+2025-04-24 00:46:46,609 - WARNING - Non-optimal solution for sample CSM79HGP: infeasible
+2025-04-24 00:46:46,614 - WARNING - Non-optimal solution for sample CSM79HGZ: infeasible
+2025-04-24 00:46:46,616 - WARNING - Non-optimal solution for sample CSM79HH8: infeasible
+2025-04-24 00:46:46,619 - WARNING - Non-optimal solution for sample CSM79HHO: infeasible
+2025-04-24 00:46:46,621 - WARNING - Non-optimal solution for sample CSM79HI7: infeasible
+2025-04-24 00:46:46,624 - WARNING - Non-optimal solution for sample CSM79HIB: infeasible
+2025-04-24 00:46:46,627 - WARNING - Non-optimal solution for sample CSM79HIJ: infeasible
+2025-04-24 00:46:46,629 - WARNING - Non-optimal solution for sample CSM79HIT: infeasible
+2025-04-24 00:46:46,631 - WARNING - Non-optimal solution for sample CSM79HJM: infeasible
+2025-04-24 00:46:46,633 - WARNING - Non-optimal solution for sample CSM79HJS: infeasible
+2025-04-24 00:46:46,635 - WARNING - Non-optimal solution for sample CSM79HKB: infeasible
+2025-04-24 00:46:46,637 - WARNING - Non-optimal solution for sample CSM79HKZ: infeasible
+2025-04-24 00:46:46,640 - WARNING - Non-optimal solution for sample CSM79HLA: infeasible
+2025-04-24 00:46:46,642 - WARNING - Non-optimal solution for sample CSM79HLM: infeasible
+2025-04-24 00:46:46,645 - WARNING - Non-optimal solution for sample CSM79HMN: infeasible
+2025-04-24 00:46:46,647 - WARNING - Non-optimal solution for sample CSM79HN6: infeasible
+2025-04-24 00:46:46,649 - WARNING - Non-optimal solution for sample CSM79HOJ: infeasible
+2025-04-24 00:46:46,652 - WARNING - Non-optimal solution for sample CSM79HP4: infeasible
+2025-04-24 00:46:46,654 - WARNING - Non-optimal solution for sample CSM79HPA: infeasible
+2025-04-24 00:46:46,656 - WARNING - Non-optimal solution for sample CSM79HPS: infeasible
+2025-04-24 00:46:46,658 - WARNING - Non-optimal solution for sample CSM79HR6: infeasible
+2025-04-24 00:46:46,660 - WARNING - Non-optimal solution for sample CSM79HRG: infeasible
+2025-04-24 00:46:46,662 - WARNING - Non-optimal solution for sample CSM7KOJO: infeasible
+2025-04-24 00:46:46,664 - WARNING - Non-optimal solution for sample CSM7KOKB: infeasible
+2025-04-24 00:46:46,666 - WARNING - Non-optimal solution for sample CSM7KOKN: infeasible
+2025-04-24 00:46:46,668 - WARNING - Non-optimal solution for sample CSM7KOKZ: infeasible
+2025-04-24 00:46:46,669 - INFO - Progress: 50/382 samples processed
+2025-04-24 00:46:46,670 - WARNING - Non-optimal solution for sample CSM7KOLA: infeasible
+2025-04-24 00:46:46,672 - WARNING - Non-optimal solution for sample CSM7KOLE: infeasible
+2025-04-24 00:46:46,674 - WARNING - Non-optimal solution for sample CSM7KOLK: infeasible
+2025-04-24 00:46:46,676 - WARNING - Non-optimal solution for sample CSM7KOLY: infeasible
+2025-04-24 00:46:46,678 - WARNING - Non-optimal solution for sample CSM7KOMB: infeasible
+2025-04-24 00:46:46,680 - WARNING - Non-optimal solution for sample CSM7KOMT: infeasible
+2025-04-24 00:46:46,683 - WARNING - Non-optimal solution for sample CSM7KON2: infeasible
+2025-04-24 00:46:46,685 - WARNING - Non-optimal solution for sample CSM7KON8: infeasible
+2025-04-24 00:46:46,686 - WARNING - Non-optimal solution for sample CSM7KONA: infeasible
+2025-04-24 00:46:46,688 - WARNING - Non-optimal solution for sample CSM7KONK: infeasible
+2025-04-24 00:46:46,691 - WARNING - Non-optimal solution for sample CSM7KOO9: infeasible
+2025-04-24 00:46:46,692 - WARNING - Non-optimal solution for sample CSM7KOOF: infeasible
+2025-04-24 00:46:46,694 - WARNING - Non-optimal solution for sample CSM7KOOH: infeasible
+2025-04-24 00:46:46,696 - WARNING - Non-optimal solution for sample CSM7KOOV: infeasible
+2025-04-24 00:46:46,699 - WARNING - Non-optimal solution for sample CSM7KOP8: infeasible
+2025-04-24 00:46:46,701 - WARNING - Non-optimal solution for sample CSM7KOPE: infeasible
+2025-04-24 00:46:46,703 - WARNING - Non-optimal solution for sample CSM7KOPI: infeasible
+2025-04-24 00:46:46,705 - WARNING - Non-optimal solution for sample CSM7KOPS: infeasible
+2025-04-24 00:46:46,707 - WARNING - Non-optimal solution for sample CSM7KOQ1: infeasible
+2025-04-24 00:46:46,709 - WARNING - Non-optimal solution for sample CSM7KORK: infeasible
+2025-04-24 00:46:46,712 - WARNING - Non-optimal solution for sample CSM7KORU: infeasible
+2025-04-24 00:46:46,713 - WARNING - Non-optimal solution for sample CSM7KOSP: infeasible
+2025-04-24 00:46:46,715 - WARNING - Non-optimal solution for sample CSM7KOSV: infeasible
+2025-04-24 00:46:46,717 - WARNING - Non-optimal solution for sample CSM7KOTK: infeasible
+2025-04-24 00:46:46,719 - WARNING - Non-optimal solution for sample CSM7KOTU: infeasible
+2025-04-24 00:46:46,721 - WARNING - Non-optimal solution for sample CSM7KOU9: infeasible
+2025-04-24 00:46:46,723 - WARNING - Non-optimal solution for sample CSM7KOUL: infeasible
+2025-04-24 00:46:46,725 - WARNING - Non-optimal solution for sample CSM9X1Y5: infeasible
+2025-04-24 00:46:46,727 - WARNING - Non-optimal solution for sample CSM9X1YV: infeasible
+2025-04-24 00:46:46,728 - WARNING - Non-optimal solution for sample CSM9X1ZC: infeasible
+2025-04-24 00:46:46,731 - WARNING - Non-optimal solution for sample CSM9X211: infeasible
+2025-04-24 00:46:46,732 - WARNING - Non-optimal solution for sample CSM9X213: infeasible
+2025-04-24 00:46:46,734 - WARNING - Non-optimal solution for sample CSM9X21J: infeasible
+2025-04-24 00:46:46,736 - WARNING - Non-optimal solution for sample CSM9X22G: infeasible
+2025-04-24 00:46:46,738 - WARNING - Non-optimal solution for sample CSM9X22U: infeasible
+2025-04-24 00:46:46,741 - WARNING - Non-optimal solution for sample CSM9X237: infeasible
+2025-04-24 00:46:46,742 - WARNING - Non-optimal solution for sample CSM9X23B: infeasible
+2025-04-24 00:46:46,744 - WARNING - Non-optimal solution for sample CSMA9J65: infeasible
+2025-04-24 00:46:46,746 - WARNING - Non-optimal solution for sample CSMAG78W: infeasible
+2025-04-24 00:46:46,747 - WARNING - Non-optimal solution for sample CSMAIG7X: infeasible
+2025-04-24 00:46:46,749 - WARNING - Non-optimal solution for sample ESM5MEBE: infeasible
+2025-04-24 00:46:46,751 - WARNING - Non-optimal solution for sample ESM5MEBG: infeasible
+2025-04-24 00:46:46,754 - WARNING - Non-optimal solution for sample ESM5MEBU: infeasible
+2025-04-24 00:46:46,755 - WARNING - Non-optimal solution for sample ESM5MEC5: infeasible
+2025-04-24 00:46:46,757 - WARNING - Non-optimal solution for sample ESM5MECL: infeasible
+2025-04-24 00:46:46,759 - WARNING - Non-optimal solution for sample ESM5MEDD: infeasible
+2025-04-24 00:46:46,760 - WARNING - Non-optimal solution for sample ESM5MEDN: infeasible
+2025-04-24 00:46:46,762 - WARNING - Non-optimal solution for sample ESM718SY: infeasible
+2025-04-24 00:46:46,764 - WARNING - Non-optimal solution for sample ESM718TF: infeasible
+2025-04-24 00:46:46,767 - WARNING - Non-optimal solution for sample ESM718TM: infeasible
+2025-04-24 00:46:46,767 - INFO - Progress: 100/382 samples processed
+2025-04-24 00:46:46,769 - WARNING - Non-optimal solution for sample ESM718UH: infeasible
+2025-04-24 00:46:46,771 - WARNING - Non-optimal solution for sample ESM718V8: infeasible
+2025-04-24 00:46:46,773 - WARNING - Non-optimal solution for sample ESM7F5AK: infeasible
+2025-04-24 00:46:46,774 - WARNING - Non-optimal solution for sample ESM9IEP1: infeasible
+2025-04-24 00:46:46,776 - WARNING - Non-optimal solution for sample HSM5MD3Y: infeasible
+2025-04-24 00:46:46,778 - WARNING - Non-optimal solution for sample HSM5MD41: infeasible
+2025-04-24 00:46:46,781 - WARNING - Non-optimal solution for sample HSM5MD43: infeasible
+2025-04-24 00:46:46,783 - WARNING - Non-optimal solution for sample HSM5MD4O: infeasible
+2025-04-24 00:46:46,785 - WARNING - Non-optimal solution for sample HSM5MD5D: infeasible
+2025-04-24 00:46:46,787 - WARNING - Non-optimal solution for sample HSM5MD5P: infeasible
+2025-04-24 00:46:46,789 - WARNING - Non-optimal solution for sample HSM5MD62: infeasible
+2025-04-24 00:46:46,790 - WARNING - Non-optimal solution for sample HSM5MD6A: infeasible
+2025-04-24 00:46:46,792 - WARNING - Non-optimal solution for sample HSM5MD6K: infeasible
+2025-04-24 00:46:46,795 - WARNING - Non-optimal solution for sample HSM5MD73: infeasible
+2025-04-24 00:46:46,798 - WARNING - Non-optimal solution for sample HSM5MD79: infeasible
+2025-04-24 00:46:46,800 - WARNING - Non-optimal solution for sample HSM5MD7J: infeasible
+2025-04-24 00:46:46,801 - WARNING - Non-optimal solution for sample HSM5MD7O: infeasible
+2025-04-24 00:46:46,803 - WARNING - Non-optimal solution for sample HSM67VCZ: infeasible
+2025-04-24 00:46:46,805 - WARNING - Non-optimal solution for sample HSM67VD6: infeasible
+2025-04-24 00:46:46,807 - WARNING - Non-optimal solution for sample HSM67VEE: infeasible
+2025-04-24 00:46:46,810 - WARNING - Non-optimal solution for sample HSM67VES: infeasible
+2025-04-24 00:46:46,812 - WARNING - Non-optimal solution for sample HSM67VF3: infeasible
+2025-04-24 00:46:46,814 - WARNING - Non-optimal solution for sample HSM67VFR: infeasible
+2025-04-24 00:46:46,816 - WARNING - Non-optimal solution for sample HSM67VFZ: infeasible
+2025-04-24 00:46:46,818 - WARNING - Non-optimal solution for sample HSM67VGA: infeasible
+2025-04-24 00:46:46,819 - WARNING - Non-optimal solution for sample HSM67VGG: infeasible
+2025-04-24 00:46:46,821 - WARNING - Non-optimal solution for sample HSM67VH1: infeasible
+2025-04-24 00:46:46,824 - WARNING - Non-optimal solution for sample HSM67VHF: infeasible
+2025-04-24 00:46:46,826 - WARNING - Non-optimal solution for sample HSM67VI5: infeasible
+2025-04-24 00:46:46,828 - WARNING - Non-optimal solution for sample HSM6XRQ8: infeasible
+2025-04-24 00:46:46,830 - WARNING - Non-optimal solution for sample HSM6XRQB: infeasible
+2025-04-24 00:46:46,832 - WARNING - Non-optimal solution for sample HSM6XRQM: infeasible
+2025-04-24 00:46:46,834 - WARNING - Non-optimal solution for sample HSM6XRQW: infeasible
+2025-04-24 00:46:46,837 - WARNING - Non-optimal solution for sample HSM6XRRD: infeasible
+2025-04-24 00:46:46,840 - WARNING - Non-optimal solution for sample HSM6XRRJ: infeasible
+2025-04-24 00:46:46,842 - WARNING - Non-optimal solution for sample HSM6XRRV: infeasible
+2025-04-24 00:46:46,844 - WARNING - Non-optimal solution for sample HSM6XRS8: infeasible
+2025-04-24 00:46:46,847 - WARNING - Non-optimal solution for sample HSM6XRSG: infeasible
+2025-04-24 00:46:46,849 - WARNING - Non-optimal solution for sample HSM6XRSN: infeasible
+2025-04-24 00:46:46,851 - WARNING - Non-optimal solution for sample HSM6XRTM: infeasible
+2025-04-24 00:46:46,854 - WARNING - Non-optimal solution for sample HSM6XRTQ: infeasible
+2025-04-24 00:46:46,856 - WARNING - Non-optimal solution for sample HSM6XRV2: infeasible
+2025-04-24 00:46:46,860 - WARNING - Non-optimal solution for sample HSM6XRVC: infeasible
+2025-04-24 00:46:46,861 - WARNING - Non-optimal solution for sample HSM6XRVK: infeasible
+2025-04-24 00:46:46,863 - WARNING - Non-optimal solution for sample HSM6XRVO: infeasible
+2025-04-24 00:46:46,866 - WARNING - Non-optimal solution for sample HSM6XRVW: infeasible
+2025-04-24 00:46:46,869 - WARNING - Non-optimal solution for sample HSM7CYX2: infeasible
+2025-04-24 00:46:46,872 - WARNING - Non-optimal solution for sample HSM7CYXA: infeasible
+2025-04-24 00:46:46,875 - WARNING - Non-optimal solution for sample HSM7CYY3: infeasible
+2025-04-24 00:46:46,877 - WARNING - Non-optimal solution for sample HSM7CYYB: infeasible
+2025-04-24 00:46:46,877 - INFO - Progress: 150/382 samples processed
+2025-04-24 00:46:46,881 - WARNING - Non-optimal solution for sample HSM7CYYF: infeasible
+2025-04-24 00:46:46,884 - WARNING - Non-optimal solution for sample HSM7CYZ7: infeasible
+2025-04-24 00:46:46,886 - WARNING - Non-optimal solution for sample HSM7CYZJ: infeasible
+2025-04-24 00:46:46,888 - WARNING - Non-optimal solution for sample HSM7CYZT: infeasible
+2025-04-24 00:46:46,891 - WARNING - Non-optimal solution for sample HSM7CZ14: infeasible
+2025-04-24 00:46:46,895 - WARNING - Non-optimal solution for sample HSM7CZ32: infeasible
+2025-04-24 00:46:46,897 - WARNING - Non-optimal solution for sample HSM7CZ38: infeasible
+2025-04-24 00:46:46,900 - WARNING - Non-optimal solution for sample HSM7CZ3G: infeasible
+2025-04-24 00:46:46,902 - WARNING - Non-optimal solution for sample HSM7J4G1: infeasible
+2025-04-24 00:46:46,904 - WARNING - Non-optimal solution for sample HSM7J4GR: infeasible
+2025-04-24 00:46:46,907 - WARNING - Non-optimal solution for sample HSM7J4HC: infeasible
+2025-04-24 00:46:46,910 - WARNING - Non-optimal solution for sample HSM7J4HO: infeasible
+2025-04-24 00:46:46,912 - WARNING - Non-optimal solution for sample HSM7J4HS: infeasible
+2025-04-24 00:46:46,915 - WARNING - Non-optimal solution for sample HSM7J4I3: infeasible
+2025-04-24 00:46:46,917 - WARNING - Non-optimal solution for sample HSM7J4I7: infeasible
+2025-04-24 00:46:46,919 - WARNING - Non-optimal solution for sample HSM7J4IC: infeasible
+2025-04-24 00:46:46,922 - WARNING - Non-optimal solution for sample HSM7J4IS: infeasible
+2025-04-24 00:46:46,925 - WARNING - Non-optimal solution for sample HSM7J4IU: infeasible
+2025-04-24 00:46:46,928 - WARNING - Non-optimal solution for sample HSM7J4J7: infeasible
+2025-04-24 00:46:46,930 - WARNING - Non-optimal solution for sample HSM7J4JF: infeasible
+2025-04-24 00:46:46,935 - WARNING - Non-optimal solution for sample HSM7J4JZ: infeasible
+2025-04-24 00:46:46,938 - WARNING - Non-optimal solution for sample HSM7J4K8: infeasible
+2025-04-24 00:46:46,940 - WARNING - Non-optimal solution for sample HSM7J4KC: infeasible
+2025-04-24 00:46:46,943 - WARNING - Non-optimal solution for sample HSM7J4KK: infeasible
+2025-04-24 00:46:46,945 - WARNING - Non-optimal solution for sample HSM7J4KQ: infeasible
+2025-04-24 00:46:46,948 - WARNING - Non-optimal solution for sample HSM7J4L9: infeasible
+2025-04-24 00:46:46,951 - WARNING - Non-optimal solution for sample HSM7J4LD: infeasible
+2025-04-24 00:46:46,954 - WARNING - Non-optimal solution for sample HSM7J4LN: infeasible
+2025-04-24 00:46:46,956 - WARNING - Non-optimal solution for sample HSM7J4LP: infeasible
+2025-04-24 00:46:46,958 - WARNING - Non-optimal solution for sample HSM7J4M4: infeasible
+2025-04-24 00:46:46,960 - WARNING - Non-optimal solution for sample HSM7J4ME: infeasible
+2025-04-24 00:46:46,963 - WARNING - Non-optimal solution for sample HSM7J4MK: infeasible
+2025-04-24 00:46:46,965 - WARNING - Non-optimal solution for sample HSM7J4MS: infeasible
+2025-04-24 00:46:46,967 - WARNING - Non-optimal solution for sample HSM7J4MY: infeasible
+2025-04-24 00:46:46,970 - WARNING - Non-optimal solution for sample HSM7J4N4: infeasible
+2025-04-24 00:46:46,971 - WARNING - Non-optimal solution for sample HSM7J4NA: infeasible
+2025-04-24 00:46:46,974 - WARNING - Non-optimal solution for sample HSM7J4NE: infeasible
+2025-04-24 00:46:46,976 - WARNING - Non-optimal solution for sample HSM7J4O1: infeasible
+2025-04-24 00:46:46,978 - WARNING - Non-optimal solution for sample HSM7J4O3: infeasible
+2025-04-24 00:46:46,980 - WARNING - Non-optimal solution for sample HSM7J4OE: infeasible
+2025-04-24 00:46:46,982 - WARNING - Non-optimal solution for sample HSM7J4OT: infeasible
+2025-04-24 00:46:46,984 - WARNING - Non-optimal solution for sample HSM7J4OZ: infeasible
+2025-04-24 00:46:46,987 - WARNING - Non-optimal solution for sample HSM7J4PE: infeasible
+2025-04-24 00:46:46,988 - WARNING - Non-optimal solution for sample HSM7J4PW: infeasible
+2025-04-24 00:46:46,990 - WARNING - Non-optimal solution for sample HSM7J4QB: infeasible
+2025-04-24 00:46:46,991 - WARNING - Non-optimal solution for sample HSM7J4QT: infeasible
+2025-04-24 00:46:46,994 - WARNING - Non-optimal solution for sample HSM7J4R2: infeasible
+2025-04-24 00:46:46,996 - WARNING - Non-optimal solution for sample HSMA33J5: infeasible
+2025-04-24 00:46:46,998 - WARNING - Non-optimal solution for sample HSMA33J9: infeasible
+2025-04-24 00:46:47,000 - WARNING - Non-optimal solution for sample HSMA33JB: infeasible
+2025-04-24 00:46:47,000 - INFO - Progress: 200/382 samples processed
+2025-04-24 00:46:47,001 - WARNING - Non-optimal solution for sample HSMA33JP: infeasible
+2025-04-24 00:46:47,004 - WARNING - Non-optimal solution for sample HSMA33L1: infeasible
+2025-04-24 00:46:47,005 - WARNING - Non-optimal solution for sample HSMA33M8: infeasible
+2025-04-24 00:46:47,007 - WARNING - Non-optimal solution for sample HSMA33MI: infeasible
+2025-04-24 00:46:47,009 - WARNING - Non-optimal solution for sample HSMA33MZ: infeasible
+2025-04-24 00:46:47,012 - WARNING - Non-optimal solution for sample HSMA33NQ: infeasible
+2025-04-24 00:46:47,013 - WARNING - Non-optimal solution for sample HSMA33NW: infeasible
+2025-04-24 00:46:47,016 - WARNING - Non-optimal solution for sample HSMA33NY: infeasible
+2025-04-24 00:46:47,018 - WARNING - Non-optimal solution for sample HSMA33O1: infeasible
+2025-04-24 00:46:47,020 - WARNING - Non-optimal solution for sample HSMA33OJ: infeasible
+2025-04-24 00:46:47,023 - WARNING - Non-optimal solution for sample HSMA33OR: infeasible
+2025-04-24 00:46:47,025 - WARNING - Non-optimal solution for sample HSMA33OZ: infeasible
+2025-04-24 00:46:47,028 - WARNING - Non-optimal solution for sample HSMA33PZ: infeasible
+2025-04-24 00:46:47,029 - WARNING - Non-optimal solution for sample HSMA33Q6: infeasible
+2025-04-24 00:46:47,032 - WARNING - Non-optimal solution for sample HSMA33QO: infeasible
+2025-04-24 00:46:47,035 - WARNING - Non-optimal solution for sample HSMA33R7: infeasible
+2025-04-24 00:46:47,037 - WARNING - Non-optimal solution for sample HSMA33R9: infeasible
+2025-04-24 00:46:47,039 - WARNING - Non-optimal solution for sample HSMA33RX: infeasible
+2025-04-24 00:46:47,041 - WARNING - Non-optimal solution for sample HSMA33SG: infeasible
+2025-04-24 00:46:47,043 - WARNING - Non-optimal solution for sample HSMA33SK: infeasible
+2025-04-24 00:46:47,045 - WARNING - Non-optimal solution for sample MSM5LLDA: infeasible
+2025-04-24 00:46:47,047 - WARNING - Non-optimal solution for sample MSM5LLDI: infeasible
+2025-04-24 00:46:47,049 - WARNING - Non-optimal solution for sample MSM5LLDS: infeasible
+2025-04-24 00:46:47,052 - WARNING - Non-optimal solution for sample MSM5LLF4: infeasible
+2025-04-24 00:46:47,054 - WARNING - Non-optimal solution for sample MSM6J2HF: infeasible
+2025-04-24 00:46:47,056 - WARNING - Non-optimal solution for sample MSM6J2HT: infeasible
+2025-04-24 00:46:47,058 - WARNING - Non-optimal solution for sample MSM6J2IG: infeasible
+2025-04-24 00:46:47,060 - WARNING - Non-optimal solution for sample MSM6J2IQ: infeasible
+2025-04-24 00:46:47,062 - WARNING - Non-optimal solution for sample MSM6J2J1: infeasible
+2025-04-24 00:46:47,065 - WARNING - Non-optimal solution for sample MSM6J2J5: infeasible
+2025-04-24 00:46:47,068 - WARNING - Non-optimal solution for sample MSM6J2JR: infeasible
+2025-04-24 00:46:47,069 - WARNING - Non-optimal solution for sample MSM6J2K6: infeasible
+2025-04-24 00:46:47,071 - WARNING - Non-optimal solution for sample MSM6J2KE: infeasible
+2025-04-24 00:46:47,073 - WARNING - Non-optimal solution for sample MSM6J2LB: infeasible
+2025-04-24 00:46:47,074 - WARNING - Non-optimal solution for sample MSM6J2LL: infeasible
+2025-04-24 00:46:47,076 - WARNING - Non-optimal solution for sample MSM6J2LT: infeasible
+2025-04-24 00:46:47,079 - WARNING - Non-optimal solution for sample MSM6J2M3: infeasible
+2025-04-24 00:46:47,081 - WARNING - Non-optimal solution for sample MSM6J2MB: infeasible
+2025-04-24 00:46:47,083 - WARNING - Non-optimal solution for sample MSM6J2MH: infeasible
+2025-04-24 00:46:47,085 - WARNING - Non-optimal solution for sample MSM6J2OH: infeasible
+2025-04-24 00:46:47,087 - WARNING - Non-optimal solution for sample MSM6J2OP: infeasible
+2025-04-24 00:46:47,089 - WARNING - Non-optimal solution for sample MSM6J2PM: infeasible
+2025-04-24 00:46:47,091 - WARNING - Non-optimal solution for sample MSM6J2PO: infeasible
+2025-04-24 00:46:47,094 - WARNING - Non-optimal solution for sample MSM6J2PU: infeasible
+2025-04-24 00:46:47,096 - WARNING - Non-optimal solution for sample MSM6J2Q1: infeasible
+2025-04-24 00:46:47,098 - WARNING - Non-optimal solution for sample MSM6J2Q3: infeasible
+2025-04-24 00:46:47,100 - WARNING - Non-optimal solution for sample MSM6J2QP: infeasible
+2025-04-24 00:46:47,102 - WARNING - Non-optimal solution for sample MSM6J2R2: infeasible
+2025-04-24 00:46:47,104 - WARNING - Non-optimal solution for sample MSM6J2R8: infeasible
+2025-04-24 00:46:47,105 - WARNING - Non-optimal solution for sample MSM6J2RO: infeasible
+2025-04-24 00:46:47,105 - INFO - Progress: 250/382 samples processed
+2025-04-24 00:46:47,108 - WARNING - Non-optimal solution for sample MSM6J2SE: infeasible
+2025-04-24 00:46:47,111 - WARNING - Non-optimal solution for sample MSM79H5G: infeasible
+2025-04-24 00:46:47,112 - WARNING - Non-optimal solution for sample MSM79H5Q: infeasible
+2025-04-24 00:46:47,114 - WARNING - Non-optimal solution for sample MSM79H63: infeasible
+2025-04-24 00:46:47,116 - WARNING - Non-optimal solution for sample MSM79H6F: infeasible
+2025-04-24 00:46:47,118 - WARNING - Non-optimal solution for sample MSM79H6Y: infeasible
+2025-04-24 00:46:47,119 - WARNING - Non-optimal solution for sample MSM79H7G: infeasible
+2025-04-24 00:46:47,122 - WARNING - Non-optimal solution for sample MSM79H7M: infeasible
+2025-04-24 00:46:47,124 - WARNING - Non-optimal solution for sample MSM79H7Q: infeasible
+2025-04-24 00:46:47,126 - WARNING - Non-optimal solution for sample MSM79H7Y: infeasible
+2025-04-24 00:46:47,128 - WARNING - Non-optimal solution for sample MSM79H85: infeasible
+2025-04-24 00:46:47,130 - WARNING - Non-optimal solution for sample MSM79H8D: infeasible
+2025-04-24 00:46:47,131 - WARNING - Non-optimal solution for sample MSM79H9G: infeasible
+2025-04-24 00:46:47,133 - WARNING - Non-optimal solution for sample MSM79H9Q: infeasible
+2025-04-24 00:46:47,135 - WARNING - Non-optimal solution for sample MSM79HA3: infeasible
+2025-04-24 00:46:47,138 - WARNING - Non-optimal solution for sample MSM79HAH: infeasible
+2025-04-24 00:46:47,140 - WARNING - Non-optimal solution for sample MSM79HAJ: infeasible
+2025-04-24 00:46:47,142 - WARNING - Non-optimal solution for sample MSM79HAN: infeasible
+2025-04-24 00:46:47,143 - WARNING - Non-optimal solution for sample MSM79HB6: infeasible
+2025-04-24 00:46:47,145 - WARNING - Non-optimal solution for sample MSM79HC8: infeasible
+2025-04-24 00:46:47,147 - WARNING - Non-optimal solution for sample MSM79HCR: infeasible
+2025-04-24 00:46:47,150 - WARNING - Non-optimal solution for sample MSM79HDA: infeasible
+2025-04-24 00:46:47,152 - WARNING - Non-optimal solution for sample MSM79HDE: infeasible
+2025-04-24 00:46:47,154 - WARNING - Non-optimal solution for sample MSM79HDQ: infeasible
+2025-04-24 00:46:47,156 - WARNING - Non-optimal solution for sample MSM79HEY: infeasible
+2025-04-24 00:46:47,158 - WARNING - Non-optimal solution for sample MSM9VZEK: infeasible
+2025-04-24 00:46:47,160 - WARNING - Non-optimal solution for sample MSM9VZES: infeasible
+2025-04-24 00:46:47,161 - WARNING - Non-optimal solution for sample MSM9VZEW: infeasible
+2025-04-24 00:46:47,163 - WARNING - Non-optimal solution for sample MSM9VZF7: infeasible
+2025-04-24 00:46:47,166 - WARNING - Non-optimal solution for sample MSM9VZFR: infeasible
+2025-04-24 00:46:47,168 - WARNING - Non-optimal solution for sample MSM9VZGO: infeasible
+2025-04-24 00:46:47,169 - WARNING - Non-optimal solution for sample MSM9VZHB: infeasible
+2025-04-24 00:46:47,172 - WARNING - Non-optimal solution for sample MSM9VZHF: infeasible
+2025-04-24 00:46:47,174 - WARNING - Non-optimal solution for sample MSM9VZHR: infeasible
+2025-04-24 00:46:47,176 - WARNING - Non-optimal solution for sample MSM9VZHX: infeasible
+2025-04-24 00:46:47,179 - WARNING - Non-optimal solution for sample MSM9VZI6: infeasible
+2025-04-24 00:46:47,181 - WARNING - Non-optimal solution for sample MSM9VZIM: infeasible
+2025-04-24 00:46:47,183 - WARNING - Non-optimal solution for sample MSM9VZIQ: infeasible
+2025-04-24 00:46:47,185 - WARNING - Non-optimal solution for sample MSM9VZJ3: infeasible
+2025-04-24 00:46:47,188 - WARNING - Non-optimal solution for sample MSM9VZJZ: infeasible
+2025-04-24 00:46:47,189 - WARNING - Non-optimal solution for sample MSM9VZKE: infeasible
+2025-04-24 00:46:47,192 - WARNING - Non-optimal solution for sample MSM9VZL9: infeasible
+2025-04-24 00:46:47,195 - WARNING - Non-optimal solution for sample MSM9VZLJ: infeasible
+2025-04-24 00:46:47,197 - WARNING - Non-optimal solution for sample MSM9VZLP: infeasible
+2025-04-24 00:46:47,199 - WARNING - Non-optimal solution for sample MSM9VZLV: infeasible
+2025-04-24 00:46:47,201 - WARNING - Non-optimal solution for sample MSM9VZME: infeasible
+2025-04-24 00:46:47,204 - WARNING - Non-optimal solution for sample MSM9VZMM: infeasible
+2025-04-24 00:46:47,206 - WARNING - Non-optimal solution for sample MSM9VZMU: infeasible
+2025-04-24 00:46:47,209 - WARNING - Non-optimal solution for sample MSM9VZNL: infeasible
+2025-04-24 00:46:47,212 - WARNING - Non-optimal solution for sample MSM9VZNX: infeasible
+2025-04-24 00:46:47,212 - INFO - Progress: 300/382 samples processed
+2025-04-24 00:46:47,214 - WARNING - Non-optimal solution for sample MSM9VZOI: infeasible
+2025-04-24 00:46:47,217 - WARNING - Non-optimal solution for sample MSM9VZOO: infeasible
+2025-04-24 00:46:47,219 - WARNING - Non-optimal solution for sample MSM9VZOU: infeasible
+2025-04-24 00:46:47,222 - WARNING - Non-optimal solution for sample MSM9VZP3: infeasible
+2025-04-24 00:46:47,225 - WARNING - Non-optimal solution for sample MSM9VZPL: infeasible
+2025-04-24 00:46:47,227 - WARNING - Non-optimal solution for sample MSMA267V: infeasible
+2025-04-24 00:46:47,228 - WARNING - Non-optimal solution for sample MSMA26AL: infeasible
+2025-04-24 00:46:47,230 - WARNING - Non-optimal solution for sample MSMA26AZ: infeasible
+2025-04-24 00:46:47,232 - WARNING - Non-optimal solution for sample MSMA26BB: infeasible
+2025-04-24 00:46:47,234 - WARNING - Non-optimal solution for sample MSMA26BR: infeasible
+2025-04-24 00:46:47,237 - WARNING - Non-optimal solution for sample MSMA26CX: infeasible
+2025-04-24 00:46:47,239 - WARNING - Non-optimal solution for sample MSMA26DG: infeasible
+2025-04-24 00:46:47,241 - WARNING - Non-optimal solution for sample MSMA26DO: infeasible
+2025-04-24 00:46:47,244 - WARNING - Non-optimal solution for sample MSMA26EJ: infeasible
+2025-04-24 00:46:47,246 - WARNING - Non-optimal solution for sample MSMA26ET: infeasible
+2025-04-24 00:46:47,248 - WARNING - Non-optimal solution for sample MSMAPC5D: infeasible
+2025-04-24 00:46:47,251 - WARNING - Non-optimal solution for sample MSMAPC6G: infeasible
+2025-04-24 00:46:47,253 - WARNING - Non-optimal solution for sample MSMAPC6K: infeasible
+2025-04-24 00:46:47,255 - WARNING - Non-optimal solution for sample MSMAPC7J: infeasible
+2025-04-24 00:46:47,257 - WARNING - Non-optimal solution for sample MSMAPC7T: infeasible
+2025-04-24 00:46:47,259 - WARNING - Non-optimal solution for sample MSMB4LXW: infeasible
+2025-04-24 00:46:47,261 - WARNING - Non-optimal solution for sample MSMB4LXY: infeasible
+2025-04-24 00:46:47,264 - WARNING - Non-optimal solution for sample MSMB4LYB: infeasible
+2025-04-24 00:46:47,297 - WARNING - Non-optimal solution for sample MSMB4LYH: infeasible
+2025-04-24 00:46:47,303 - WARNING - Non-optimal solution for sample MSMB4LZ4: infeasible
+2025-04-24 00:46:47,307 - WARNING - Non-optimal solution for sample MSMB4LZ8: infeasible
+2025-04-24 00:46:47,310 - WARNING - Non-optimal solution for sample MSMB4LZC: infeasible
+2025-04-24 00:46:47,311 - WARNING - Non-optimal solution for sample MSMB4LZK: infeasible
+2025-04-24 00:46:47,313 - WARNING - Non-optimal solution for sample MSMB4LZR: infeasible
+2025-04-24 00:46:47,315 - WARNING - Non-optimal solution for sample MSMB4LZX: infeasible
+2025-04-24 00:46:47,318 - WARNING - Non-optimal solution for sample PSM6XBQY: infeasible
+2025-04-24 00:46:47,321 - WARNING - Non-optimal solution for sample PSM6XBRK: infeasible
+2025-04-24 00:46:47,325 - WARNING - Non-optimal solution for sample PSM6XBSE: infeasible
+2025-04-24 00:46:47,328 - WARNING - Non-optimal solution for sample PSM6XBSI: infeasible
+2025-04-24 00:46:47,330 - WARNING - Non-optimal solution for sample PSM6XBSK: infeasible
+2025-04-24 00:46:47,332 - WARNING - Non-optimal solution for sample PSM6XBSS: infeasible
+2025-04-24 00:46:47,334 - WARNING - Non-optimal solution for sample PSM6XBT3: infeasible
+2025-04-24 00:46:47,336 - WARNING - Non-optimal solution for sample PSM6XBUG: infeasible
+2025-04-24 00:46:47,337 - WARNING - Non-optimal solution for sample PSM6XBUO: infeasible
+2025-04-24 00:46:47,339 - WARNING - Non-optimal solution for sample PSM6XBVM: infeasible
+2025-04-24 00:46:47,341 - WARNING - Non-optimal solution for sample PSM7J12F: infeasible
+2025-04-24 00:46:47,344 - WARNING - Non-optimal solution for sample PSM7J12J: infeasible
+2025-04-24 00:46:47,345 - WARNING - Non-optimal solution for sample PSM7J12R: infeasible
+2025-04-24 00:46:47,347 - WARNING - Non-optimal solution for sample PSM7J12V: infeasible
+2025-04-24 00:46:47,348 - WARNING - Non-optimal solution for sample PSM7J136: infeasible
+2025-04-24 00:46:47,350 - WARNING - Non-optimal solution for sample PSM7J13E: infeasible
+2025-04-24 00:46:47,352 - WARNING - Non-optimal solution for sample PSM7J141: infeasible
+2025-04-24 00:46:47,354 - WARNING - Non-optimal solution for sample PSM7J14L: infeasible
+2025-04-24 00:46:47,355 - WARNING - Non-optimal solution for sample PSM7J14T: infeasible
+2025-04-24 00:46:47,357 - WARNING - Non-optimal solution for sample PSM7J14X: infeasible
+2025-04-24 00:46:47,357 - INFO - Progress: 350/382 samples processed
+2025-04-24 00:46:47,359 - WARNING - Non-optimal solution for sample PSM7J156: infeasible
+2025-04-24 00:46:47,362 - WARNING - Non-optimal solution for sample PSM7J158: infeasible
+2025-04-24 00:46:47,364 - WARNING - Non-optimal solution for sample PSM7J15M: infeasible
+2025-04-24 00:46:47,366 - WARNING - Non-optimal solution for sample PSM7J15U: infeasible
+2025-04-24 00:46:47,368 - WARNING - Non-optimal solution for sample PSM7J161: infeasible
+2025-04-24 00:46:47,370 - WARNING - Non-optimal solution for sample PSM7J16Y: infeasible
+2025-04-24 00:46:47,372 - WARNING - Non-optimal solution for sample PSM7J17F: infeasible
+2025-04-24 00:46:47,374 - WARNING - Non-optimal solution for sample PSM7J17L: infeasible
+2025-04-24 00:46:47,376 - WARNING - Non-optimal solution for sample PSM7J17X: infeasible
+2025-04-24 00:46:47,378 - WARNING - Non-optimal solution for sample PSM7J193: infeasible
+2025-04-24 00:46:47,380 - WARNING - Non-optimal solution for sample PSM7J19B: infeasible
+2025-04-24 00:46:47,382 - WARNING - Non-optimal solution for sample PSM7J19J: infeasible
+2025-04-24 00:46:47,383 - WARNING - Non-optimal solution for sample PSM7J1A2: infeasible
+2025-04-24 00:46:47,385 - WARNING - Non-optimal solution for sample PSM7J1AU: infeasible
+2025-04-24 00:46:47,387 - WARNING - Non-optimal solution for sample PSM7J1BF: infeasible
+2025-04-24 00:46:47,388 - WARNING - Non-optimal solution for sample PSM7J1CC: infeasible
+2025-04-24 00:46:47,390 - WARNING - Non-optimal solution for sample PSM7J1CU: infeasible
+2025-04-24 00:46:47,392 - WARNING - Non-optimal solution for sample PSMA263W: infeasible
+2025-04-24 00:46:47,394 - WARNING - Non-optimal solution for sample PSMA264Q: infeasible
+2025-04-24 00:46:47,396 - WARNING - Non-optimal solution for sample PSMA265H: infeasible
+2025-04-24 00:46:47,398 - WARNING - Non-optimal solution for sample PSMA265N: infeasible
+2025-04-24 00:46:47,400 - WARNING - Non-optimal solution for sample PSMA265T: infeasible
+2025-04-24 00:46:47,402 - WARNING - Non-optimal solution for sample PSMA265X: infeasible
+2025-04-24 00:46:47,404 - WARNING - Non-optimal solution for sample PSMA266I: infeasible
+2025-04-24 00:46:47,405 - WARNING - Non-optimal solution for sample PSMA266Q: infeasible
+2025-04-24 00:46:47,408 - WARNING - Non-optimal solution for sample PSMA2675: infeasible
+2025-04-24 00:46:47,410 - WARNING - Non-optimal solution for sample PSMA267J: infeasible
+2025-04-24 00:46:47,412 - WARNING - Non-optimal solution for sample PSMA267P: infeasible
+2025-04-24 00:46:47,414 - WARNING - Non-optimal solution for sample PSMA269W: infeasible
+2025-04-24 00:46:47,416 - WARNING - Non-optimal solution for sample PSMA26A3: infeasible
+2025-04-24 00:46:47,418 - WARNING - Non-optimal solution for sample PSMB4MBK: infeasible
+2025-04-24 00:46:47,420 - WARNING - Non-optimal solution for sample PSMB4MC5: infeasible
+2025-04-24 00:46:47,421 - INFO - Simulation complete: 0 successful, 382 failed
+2025-04-24 00:46:47,471 - INFO - Dataset with butyrate fluxes saved as 'C:\RESEARCH-PROJECT\IHMP\DONE\ubarkbarkjb_with_butyrate_flux.tsv'
+2025-04-24 00:46:47,500 - INFO - 
+Summary statistics:
+2025-04-24 00:46:47,508 - INFO -        avg_daily_fiber  butyrate_flux  normalized_inflammation
+count       382.000000            0.0               382.000000
+mean          4.274818            NaN                 0.221849
+std           3.366647            NaN                 0.256979
+min           0.166667            NaN                 0.000000
+25%           1.541667            NaN                 0.014234
+50%           3.533333            NaN                 0.132131
+75%           5.983333            NaN                 0.325240
+max          16.956667            NaN                 1.000000
+2025-04-24 00:46:47,519 - INFO - 
+Data Head:
+2025-04-24 00:46:47,521 - INFO -      Sample  avg_daily_fiber  butyrate_flux  normalized_inflammation
+0  CSM5MCVN         9.413333            NaN                 0.010180
+1  CSM5MCWE         9.900000            NaN                 0.021574
+2  CSM5MCX3        12.480667            NaN                 0.002161
+3  CSM5MCXL         7.033333            NaN                 0.007357
+4  CSM5MCY8        12.423333            NaN                 0.530969
+2025-04-24 00:46:47,531 - INFO - 
+Correlation between butyrate_flux and normalized_inflammation: nan
+2025-04-24 00:48:32,948 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-04-24 00:48:32,951 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-04-24 00:48:32,954 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-04-24 00:48:32,957 - INFO - The current solver interface glpk doesn't support setting the optimality tolerance.
+2025-04-24 00:48:32,958 - ERROR - Error in model simulation: name 'co2_c' is not defined
+2025-04-24 00:49:54,727 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-04-24 00:49:54,729 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-04-24 00:49:54,731 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-04-24 00:49:54,734 - INFO - The current solver interface glpk doesn't support setting the optimality tolerance.
+2025-04-24 00:49:54,734 - ERROR - Error in model simulation: Reaction 'R_energy_maintenance' does not belong to a model. Either add the reaction to a model or use Metabolite objects instead of strings as keys.
+2025-04-24 00:51:08,794 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-04-24 00:51:08,796 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-04-24 00:51:08,798 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-04-24 00:51:08,800 - INFO - The current solver interface glpk doesn't support setting the optimality tolerance.
+2025-04-24 00:51:08,801 - ERROR - Error in model simulation: Reaction 'R_energy_maintenance' does not belong to a model. Either add the reaction to a model or use Metabolite objects instead of strings as keys.
+2025-04-24 00:57:17,226 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-04-24 00:57:17,235 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-04-24 00:57:17,241 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-04-24 00:57:17,249 - INFO - The current solver interface glpk doesn't support setting the optimality tolerance.
+2025-04-24 00:57:17,262 - INFO - 
+Running metabolic simulations...
+2025-04-24 00:57:17,275 - WARNING - Non-optimal solution for sample CSM5MCVN: infeasible
+2025-04-24 00:57:17,338 - WARNING - Non-optimal solution for sample CSM5MCWE: infeasible
+2025-04-24 00:57:17,340 - WARNING - Non-optimal solution for sample CSM5MCX3: infeasible
+2025-04-24 00:57:17,342 - WARNING - Non-optimal solution for sample CSM5MCXL: infeasible
+2025-04-24 00:57:17,343 - WARNING - Non-optimal solution for sample CSM5MCY8: infeasible
+2025-04-24 00:57:17,346 - WARNING - Non-optimal solution for sample CSM5MCZ3: infeasible
+2025-04-24 00:57:17,347 - WARNING - Non-optimal solution for sample CSM5MCZF: infeasible
+2025-04-24 00:57:17,349 - WARNING - Non-optimal solution for sample CSM67UA2: infeasible
+2025-04-24 00:57:17,352 - WARNING - Non-optimal solution for sample CSM67UAA: infeasible
+2025-04-24 00:57:17,354 - WARNING - Non-optimal solution for sample CSM67UAQ: infeasible
+2025-04-24 00:57:17,356 - WARNING - Non-optimal solution for sample CSM67UB1: infeasible
+2025-04-24 00:57:17,357 - WARNING - Non-optimal solution for sample CSM67UBB: infeasible
+2025-04-24 00:57:17,359 - WARNING - Non-optimal solution for sample CSM67UBH: infeasible
+2025-04-24 00:57:17,362 - WARNING - Non-optimal solution for sample CSM67UBN: infeasible
+2025-04-24 00:57:17,364 - WARNING - Non-optimal solution for sample CSM67UBZ: infeasible
+2025-04-24 00:57:17,366 - WARNING - Non-optimal solution for sample CSM67UCK: infeasible
+2025-04-24 00:57:17,368 - WARNING - Non-optimal solution for sample CSM67UDN: infeasible
+2025-04-24 00:57:17,370 - WARNING - Non-optimal solution for sample CSM67UEA: infeasible
+2025-04-24 00:57:17,372 - WARNING - Non-optimal solution for sample CSM67UEI: infeasible
+2025-04-24 00:57:17,374 - WARNING - Non-optimal solution for sample CSM67UEW: infeasible
+2025-04-24 00:57:17,376 - WARNING - Non-optimal solution for sample CSM67UF5: infeasible
+2025-04-24 00:57:17,378 - WARNING - Non-optimal solution for sample CSM67UFZ: infeasible
+2025-04-24 00:57:17,379 - WARNING - Non-optimal solution for sample CSM67UGO: infeasible
+2025-04-24 00:57:17,382 - WARNING - Non-optimal solution for sample CSM67UH7: infeasible
+2025-04-24 00:57:17,385 - WARNING - Non-optimal solution for sample CSM79HGP: infeasible
+2025-04-24 00:57:17,386 - WARNING - Non-optimal solution for sample CSM79HGZ: infeasible
+2025-04-24 00:57:17,388 - WARNING - Non-optimal solution for sample CSM79HH8: infeasible
+2025-04-24 00:57:17,390 - WARNING - Non-optimal solution for sample CSM79HHO: infeasible
+2025-04-24 00:57:17,391 - WARNING - Non-optimal solution for sample CSM79HI7: infeasible
+2025-04-24 00:57:17,393 - WARNING - Non-optimal solution for sample CSM79HIB: infeasible
+2025-04-24 00:57:17,396 - WARNING - Non-optimal solution for sample CSM79HIJ: infeasible
+2025-04-24 00:57:17,398 - WARNING - Non-optimal solution for sample CSM79HIT: infeasible
+2025-04-24 00:57:17,400 - WARNING - Non-optimal solution for sample CSM79HJM: infeasible
+2025-04-24 00:57:17,401 - WARNING - Non-optimal solution for sample CSM79HJS: infeasible
+2025-04-24 00:57:17,403 - WARNING - Non-optimal solution for sample CSM79HKB: infeasible
+2025-04-24 00:57:17,405 - WARNING - Non-optimal solution for sample CSM79HKZ: infeasible
+2025-04-24 00:57:17,406 - WARNING - Non-optimal solution for sample CSM79HLA: infeasible
+2025-04-24 00:57:17,409 - WARNING - Non-optimal solution for sample CSM79HLM: infeasible
+2025-04-24 00:57:17,411 - WARNING - Non-optimal solution for sample CSM79HMN: infeasible
+2025-04-24 00:57:17,413 - WARNING - Non-optimal solution for sample CSM79HN6: infeasible
+2025-04-24 00:57:17,415 - WARNING - Non-optimal solution for sample CSM79HOJ: infeasible
+2025-04-24 00:57:17,416 - WARNING - Non-optimal solution for sample CSM79HP4: infeasible
+2025-04-24 00:57:17,419 - WARNING - Non-optimal solution for sample CSM79HPA: infeasible
+2025-04-24 00:57:17,421 - WARNING - Non-optimal solution for sample CSM79HPS: infeasible
+2025-04-24 00:57:17,425 - WARNING - Non-optimal solution for sample CSM79HR6: infeasible
+2025-04-24 00:57:17,426 - WARNING - Non-optimal solution for sample CSM79HRG: infeasible
+2025-04-24 00:57:17,428 - WARNING - Non-optimal solution for sample CSM7KOJO: infeasible
+2025-04-24 00:57:17,430 - WARNING - Non-optimal solution for sample CSM7KOKB: infeasible
+2025-04-24 00:57:17,432 - WARNING - Non-optimal solution for sample CSM7KOKN: infeasible
+2025-04-24 00:57:17,433 - WARNING - Non-optimal solution for sample CSM7KOKZ: infeasible
+2025-04-24 00:57:17,434 - INFO - Progress: 50/382 samples processed
+2025-04-24 00:57:17,436 - WARNING - Non-optimal solution for sample CSM7KOLA: infeasible
+2025-04-24 00:57:17,439 - WARNING - Non-optimal solution for sample CSM7KOLE: infeasible
+2025-04-24 00:57:17,441 - WARNING - Non-optimal solution for sample CSM7KOLK: infeasible
+2025-04-24 00:57:17,442 - WARNING - Non-optimal solution for sample CSM7KOLY: infeasible
+2025-04-24 00:57:17,444 - WARNING - Non-optimal solution for sample CSM7KOMB: infeasible
+2025-04-24 00:57:17,446 - WARNING - Non-optimal solution for sample CSM7KOMT: infeasible
+2025-04-24 00:57:17,448 - WARNING - Non-optimal solution for sample CSM7KON2: infeasible
+2025-04-24 00:57:17,450 - WARNING - Non-optimal solution for sample CSM7KON8: infeasible
+2025-04-24 00:57:17,452 - WARNING - Non-optimal solution for sample CSM7KONA: infeasible
+2025-04-24 00:57:17,455 - WARNING - Non-optimal solution for sample CSM7KONK: infeasible
+2025-04-24 00:57:17,457 - WARNING - Non-optimal solution for sample CSM7KOO9: infeasible
+2025-04-24 00:57:17,458 - WARNING - Non-optimal solution for sample CSM7KOOF: infeasible
+2025-04-24 00:57:17,460 - WARNING - Non-optimal solution for sample CSM7KOOH: infeasible
+2025-04-24 00:57:17,462 - WARNING - Non-optimal solution for sample CSM7KOOV: infeasible
+2025-04-24 00:57:17,463 - WARNING - Non-optimal solution for sample CSM7KOP8: infeasible
+2025-04-24 00:57:17,467 - WARNING - Non-optimal solution for sample CSM7KOPE: infeasible
+2025-04-24 00:57:17,469 - WARNING - Non-optimal solution for sample CSM7KOPI: infeasible
+2025-04-24 00:57:17,471 - WARNING - Non-optimal solution for sample CSM7KOPS: infeasible
+2025-04-24 00:57:17,473 - WARNING - Non-optimal solution for sample CSM7KOQ1: infeasible
+2025-04-24 00:57:17,474 - WARNING - Non-optimal solution for sample CSM7KORK: infeasible
+2025-04-24 00:57:17,476 - WARNING - Non-optimal solution for sample CSM7KORU: infeasible
+2025-04-24 00:57:17,478 - WARNING - Non-optimal solution for sample CSM7KOSP: infeasible
+2025-04-24 00:57:17,480 - WARNING - Non-optimal solution for sample CSM7KOSV: infeasible
+2025-04-24 00:57:17,482 - WARNING - Non-optimal solution for sample CSM7KOTK: infeasible
+2025-04-24 00:57:17,484 - WARNING - Non-optimal solution for sample CSM7KOTU: infeasible
+2025-04-24 00:57:17,485 - WARNING - Non-optimal solution for sample CSM7KOU9: infeasible
+2025-04-24 00:57:17,487 - WARNING - Non-optimal solution for sample CSM7KOUL: infeasible
+2025-04-24 00:57:17,489 - WARNING - Non-optimal solution for sample CSM9X1Y5: infeasible
+2025-04-24 00:57:17,491 - WARNING - Non-optimal solution for sample CSM9X1YV: infeasible
+2025-04-24 00:57:17,493 - WARNING - Non-optimal solution for sample CSM9X1ZC: infeasible
+2025-04-24 00:57:17,495 - WARNING - Non-optimal solution for sample CSM9X211: infeasible
+2025-04-24 00:57:17,497 - WARNING - Non-optimal solution for sample CSM9X213: infeasible
+2025-04-24 00:57:17,498 - WARNING - Non-optimal solution for sample CSM9X21J: infeasible
+2025-04-24 00:57:17,500 - WARNING - Non-optimal solution for sample CSM9X22G: infeasible
+2025-04-24 00:57:17,501 - WARNING - Non-optimal solution for sample CSM9X22U: infeasible
+2025-04-24 00:57:17,503 - WARNING - Non-optimal solution for sample CSM9X237: infeasible
+2025-04-24 00:57:17,505 - WARNING - Non-optimal solution for sample CSM9X23B: infeasible
+2025-04-24 00:57:17,507 - WARNING - Non-optimal solution for sample CSMA9J65: infeasible
+2025-04-24 00:57:17,509 - WARNING - Non-optimal solution for sample CSMAG78W: infeasible
+2025-04-24 00:57:17,511 - WARNING - Non-optimal solution for sample CSMAIG7X: infeasible
+2025-04-24 00:57:17,513 - WARNING - Non-optimal solution for sample ESM5MEBE: infeasible
+2025-04-24 00:57:17,514 - WARNING - Non-optimal solution for sample ESM5MEBG: infeasible
+2025-04-24 00:57:17,516 - WARNING - Non-optimal solution for sample ESM5MEBU: infeasible
+2025-04-24 00:57:17,517 - WARNING - Non-optimal solution for sample ESM5MEC5: infeasible
+2025-04-24 00:57:17,519 - WARNING - Non-optimal solution for sample ESM5MECL: infeasible
+2025-04-24 00:57:17,520 - WARNING - Non-optimal solution for sample ESM5MEDD: infeasible
+2025-04-24 00:57:17,522 - WARNING - Non-optimal solution for sample ESM5MEDN: infeasible
+2025-04-24 00:57:17,525 - WARNING - Non-optimal solution for sample ESM718SY: infeasible
+2025-04-24 00:57:17,527 - WARNING - Non-optimal solution for sample ESM718TF: infeasible
+2025-04-24 00:57:17,528 - WARNING - Non-optimal solution for sample ESM718TM: infeasible
+2025-04-24 00:57:17,529 - INFO - Progress: 100/382 samples processed
+2025-04-24 00:57:17,530 - WARNING - Non-optimal solution for sample ESM718UH: infeasible
+2025-04-24 00:57:17,532 - WARNING - Non-optimal solution for sample ESM718V8: infeasible
+2025-04-24 00:57:17,534 - WARNING - Non-optimal solution for sample ESM7F5AK: infeasible
+2025-04-24 00:57:17,536 - WARNING - Non-optimal solution for sample ESM9IEP1: infeasible
+2025-04-24 00:57:17,538 - WARNING - Non-optimal solution for sample HSM5MD3Y: infeasible
+2025-04-24 00:57:17,540 - WARNING - Non-optimal solution for sample HSM5MD41: infeasible
+2025-04-24 00:57:17,542 - WARNING - Non-optimal solution for sample HSM5MD43: infeasible
+2025-04-24 00:57:17,543 - WARNING - Non-optimal solution for sample HSM5MD4O: infeasible
+2025-04-24 00:57:17,545 - WARNING - Non-optimal solution for sample HSM5MD5D: infeasible
+2025-04-24 00:57:17,547 - WARNING - Non-optimal solution for sample HSM5MD5P: infeasible
+2025-04-24 00:57:17,549 - WARNING - Non-optimal solution for sample HSM5MD62: infeasible
+2025-04-24 00:57:17,552 - WARNING - Non-optimal solution for sample HSM5MD6A: infeasible
+2025-04-24 00:57:17,554 - WARNING - Non-optimal solution for sample HSM5MD6K: infeasible
+2025-04-24 00:57:17,556 - WARNING - Non-optimal solution for sample HSM5MD73: infeasible
+2025-04-24 00:57:17,558 - WARNING - Non-optimal solution for sample HSM5MD79: infeasible
+2025-04-24 00:57:17,560 - WARNING - Non-optimal solution for sample HSM5MD7J: infeasible
+2025-04-24 00:57:17,562 - WARNING - Non-optimal solution for sample HSM5MD7O: infeasible
+2025-04-24 00:57:17,564 - WARNING - Non-optimal solution for sample HSM67VCZ: infeasible
+2025-04-24 00:57:17,567 - WARNING - Non-optimal solution for sample HSM67VD6: infeasible
+2025-04-24 00:57:17,568 - WARNING - Non-optimal solution for sample HSM67VEE: infeasible
+2025-04-24 00:57:17,570 - WARNING - Non-optimal solution for sample HSM67VES: infeasible
+2025-04-24 00:57:17,572 - WARNING - Non-optimal solution for sample HSM67VF3: infeasible
+2025-04-24 00:57:17,573 - WARNING - Non-optimal solution for sample HSM67VFR: infeasible
+2025-04-24 00:57:17,576 - WARNING - Non-optimal solution for sample HSM67VFZ: infeasible
+2025-04-24 00:57:17,577 - WARNING - Non-optimal solution for sample HSM67VGA: infeasible
+2025-04-24 00:57:17,581 - WARNING - Non-optimal solution for sample HSM67VGG: infeasible
+2025-04-24 00:57:17,583 - WARNING - Non-optimal solution for sample HSM67VH1: infeasible
+2025-04-24 00:57:17,585 - WARNING - Non-optimal solution for sample HSM67VHF: infeasible
+2025-04-24 00:57:17,587 - WARNING - Non-optimal solution for sample HSM67VI5: infeasible
+2025-04-24 00:57:17,589 - WARNING - Non-optimal solution for sample HSM6XRQ8: infeasible
+2025-04-24 00:57:17,591 - WARNING - Non-optimal solution for sample HSM6XRQB: infeasible
+2025-04-24 00:57:17,592 - WARNING - Non-optimal solution for sample HSM6XRQM: infeasible
+2025-04-24 00:57:17,597 - WARNING - Non-optimal solution for sample HSM6XRQW: infeasible
+2025-04-24 00:57:17,600 - WARNING - Non-optimal solution for sample HSM6XRRD: infeasible
+2025-04-24 00:57:17,602 - WARNING - Non-optimal solution for sample HSM6XRRJ: infeasible
+2025-04-24 00:57:17,604 - WARNING - Non-optimal solution for sample HSM6XRRV: infeasible
+2025-04-24 00:57:17,606 - WARNING - Non-optimal solution for sample HSM6XRS8: infeasible
+2025-04-24 00:57:17,607 - WARNING - Non-optimal solution for sample HSM6XRSG: infeasible
+2025-04-24 00:57:17,610 - WARNING - Non-optimal solution for sample HSM6XRSN: infeasible
+2025-04-24 00:57:17,613 - WARNING - Non-optimal solution for sample HSM6XRTM: infeasible
+2025-04-24 00:57:17,615 - WARNING - Non-optimal solution for sample HSM6XRTQ: infeasible
+2025-04-24 00:57:17,616 - WARNING - Non-optimal solution for sample HSM6XRV2: infeasible
+2025-04-24 00:57:17,618 - WARNING - Non-optimal solution for sample HSM6XRVC: infeasible
+2025-04-24 00:57:17,620 - WARNING - Non-optimal solution for sample HSM6XRVK: infeasible
+2025-04-24 00:57:17,623 - WARNING - Non-optimal solution for sample HSM6XRVO: infeasible
+2025-04-24 00:57:17,625 - WARNING - Non-optimal solution for sample HSM6XRVW: infeasible
+2025-04-24 00:57:17,627 - WARNING - Non-optimal solution for sample HSM7CYX2: infeasible
+2025-04-24 00:57:17,628 - WARNING - Non-optimal solution for sample HSM7CYXA: infeasible
+2025-04-24 00:57:17,630 - WARNING - Non-optimal solution for sample HSM7CYY3: infeasible
+2025-04-24 00:57:17,632 - WARNING - Non-optimal solution for sample HSM7CYYB: infeasible
+2025-04-24 00:57:17,633 - INFO - Progress: 150/382 samples processed
+2025-04-24 00:57:17,634 - WARNING - Non-optimal solution for sample HSM7CYYF: infeasible
+2025-04-24 00:57:17,637 - WARNING - Non-optimal solution for sample HSM7CYZ7: infeasible
+2025-04-24 00:57:17,639 - WARNING - Non-optimal solution for sample HSM7CYZJ: infeasible
+2025-04-24 00:57:17,641 - WARNING - Non-optimal solution for sample HSM7CYZT: infeasible
+2025-04-24 00:57:17,643 - WARNING - Non-optimal solution for sample HSM7CZ14: infeasible
+2025-04-24 00:57:17,645 - WARNING - Non-optimal solution for sample HSM7CZ32: infeasible
+2025-04-24 00:57:17,647 - WARNING - Non-optimal solution for sample HSM7CZ38: infeasible
+2025-04-24 00:57:17,648 - WARNING - Non-optimal solution for sample HSM7CZ3G: infeasible
+2025-04-24 00:57:17,651 - WARNING - Non-optimal solution for sample HSM7J4G1: infeasible
+2025-04-24 00:57:17,654 - WARNING - Non-optimal solution for sample HSM7J4GR: infeasible
+2025-04-24 00:57:17,655 - WARNING - Non-optimal solution for sample HSM7J4HC: infeasible
+2025-04-24 00:57:17,657 - WARNING - Non-optimal solution for sample HSM7J4HO: infeasible
+2025-04-24 00:57:17,659 - WARNING - Non-optimal solution for sample HSM7J4HS: infeasible
+2025-04-24 00:57:17,661 - WARNING - Non-optimal solution for sample HSM7J4I3: infeasible
+2025-04-24 00:57:17,662 - WARNING - Non-optimal solution for sample HSM7J4I7: infeasible
+2025-04-24 00:57:17,664 - WARNING - Non-optimal solution for sample HSM7J4IC: infeasible
+2025-04-24 00:57:17,667 - WARNING - Non-optimal solution for sample HSM7J4IS: infeasible
+2025-04-24 00:57:17,669 - WARNING - Non-optimal solution for sample HSM7J4IU: infeasible
+2025-04-24 00:57:17,671 - WARNING - Non-optimal solution for sample HSM7J4J7: infeasible
+2025-04-24 00:57:17,673 - WARNING - Non-optimal solution for sample HSM7J4JF: infeasible
+2025-04-24 00:57:17,675 - WARNING - Non-optimal solution for sample HSM7J4JZ: infeasible
+2025-04-24 00:57:17,677 - WARNING - Non-optimal solution for sample HSM7J4K8: infeasible
+2025-04-24 00:57:17,679 - WARNING - Non-optimal solution for sample HSM7J4KC: infeasible
+2025-04-24 00:57:17,681 - WARNING - Non-optimal solution for sample HSM7J4KK: infeasible
+2025-04-24 00:57:17,682 - WARNING - Non-optimal solution for sample HSM7J4KQ: infeasible
+2025-04-24 00:57:17,684 - WARNING - Non-optimal solution for sample HSM7J4L9: infeasible
+2025-04-24 00:57:17,686 - WARNING - Non-optimal solution for sample HSM7J4LD: infeasible
+2025-04-24 00:57:17,688 - WARNING - Non-optimal solution for sample HSM7J4LN: infeasible
+2025-04-24 00:57:17,689 - WARNING - Non-optimal solution for sample HSM7J4LP: infeasible
+2025-04-24 00:57:17,691 - WARNING - Non-optimal solution for sample HSM7J4M4: infeasible
+2025-04-24 00:57:17,693 - WARNING - Non-optimal solution for sample HSM7J4ME: infeasible
+2025-04-24 00:57:17,696 - WARNING - Non-optimal solution for sample HSM7J4MK: infeasible
+2025-04-24 00:57:17,698 - WARNING - Non-optimal solution for sample HSM7J4MS: infeasible
+2025-04-24 00:57:17,700 - WARNING - Non-optimal solution for sample HSM7J4MY: infeasible
+2025-04-24 00:57:17,701 - WARNING - Non-optimal solution for sample HSM7J4N4: infeasible
+2025-04-24 00:57:17,703 - WARNING - Non-optimal solution for sample HSM7J4NA: infeasible
+2025-04-24 00:57:17,706 - WARNING - Non-optimal solution for sample HSM7J4NE: infeasible
+2025-04-24 00:57:17,710 - WARNING - Non-optimal solution for sample HSM7J4O1: infeasible
+2025-04-24 00:57:17,712 - WARNING - Non-optimal solution for sample HSM7J4O3: infeasible
+2025-04-24 00:57:17,714 - WARNING - Non-optimal solution for sample HSM7J4OE: infeasible
+2025-04-24 00:57:17,716 - WARNING - Non-optimal solution for sample HSM7J4OT: infeasible
+2025-04-24 00:57:17,719 - WARNING - Non-optimal solution for sample HSM7J4OZ: infeasible
+2025-04-24 00:57:17,723 - WARNING - Non-optimal solution for sample HSM7J4PE: infeasible
+2025-04-24 00:57:17,725 - WARNING - Non-optimal solution for sample HSM7J4PW: infeasible
+2025-04-24 00:57:17,727 - WARNING - Non-optimal solution for sample HSM7J4QB: infeasible
+2025-04-24 00:57:17,730 - WARNING - Non-optimal solution for sample HSM7J4QT: infeasible
+2025-04-24 00:57:17,732 - WARNING - Non-optimal solution for sample HSM7J4R2: infeasible
+2025-04-24 00:57:17,734 - WARNING - Non-optimal solution for sample HSMA33J5: infeasible
+2025-04-24 00:57:17,737 - WARNING - Non-optimal solution for sample HSMA33J9: infeasible
+2025-04-24 00:57:17,739 - WARNING - Non-optimal solution for sample HSMA33JB: infeasible
+2025-04-24 00:57:17,740 - INFO - Progress: 200/382 samples processed
+2025-04-24 00:57:17,742 - WARNING - Non-optimal solution for sample HSMA33JP: infeasible
+2025-04-24 00:57:17,744 - WARNING - Non-optimal solution for sample HSMA33L1: infeasible
+2025-04-24 00:57:17,747 - WARNING - Non-optimal solution for sample HSMA33M8: infeasible
+2025-04-24 00:57:17,748 - WARNING - Non-optimal solution for sample HSMA33MI: infeasible
+2025-04-24 00:57:17,754 - WARNING - Non-optimal solution for sample HSMA33MZ: infeasible
+2025-04-24 00:57:17,756 - WARNING - Non-optimal solution for sample HSMA33NQ: infeasible
+2025-04-24 00:57:17,758 - WARNING - Non-optimal solution for sample HSMA33NW: infeasible
+2025-04-24 00:57:17,760 - WARNING - Non-optimal solution for sample HSMA33NY: infeasible
+2025-04-24 00:57:17,762 - WARNING - Non-optimal solution for sample HSMA33O1: infeasible
+2025-04-24 00:57:17,764 - WARNING - Non-optimal solution for sample HSMA33OJ: infeasible
+2025-04-24 00:57:17,767 - WARNING - Non-optimal solution for sample HSMA33OR: infeasible
+2025-04-24 00:57:17,769 - WARNING - Non-optimal solution for sample HSMA33OZ: infeasible
+2025-04-24 00:57:17,771 - WARNING - Non-optimal solution for sample HSMA33PZ: infeasible
+2025-04-24 00:57:17,773 - WARNING - Non-optimal solution for sample HSMA33Q6: infeasible
+2025-04-24 00:57:17,774 - WARNING - Non-optimal solution for sample HSMA33QO: infeasible
+2025-04-24 00:57:17,776 - WARNING - Non-optimal solution for sample HSMA33R7: infeasible
+2025-04-24 00:57:17,777 - WARNING - Non-optimal solution for sample HSMA33R9: infeasible
+2025-04-24 00:57:17,781 - WARNING - Non-optimal solution for sample HSMA33RX: infeasible
+2025-04-24 00:57:17,783 - WARNING - Non-optimal solution for sample HSMA33SG: infeasible
+2025-04-24 00:57:17,785 - WARNING - Non-optimal solution for sample HSMA33SK: infeasible
+2025-04-24 00:57:17,786 - WARNING - Non-optimal solution for sample MSM5LLDA: infeasible
+2025-04-24 00:57:17,788 - WARNING - Non-optimal solution for sample MSM5LLDI: infeasible
+2025-04-24 00:57:17,790 - WARNING - Non-optimal solution for sample MSM5LLDS: infeasible
+2025-04-24 00:57:17,791 - WARNING - Non-optimal solution for sample MSM5LLF4: infeasible
+2025-04-24 00:57:17,794 - WARNING - Non-optimal solution for sample MSM6J2HF: infeasible
+2025-04-24 00:57:17,796 - WARNING - Non-optimal solution for sample MSM6J2HT: infeasible
+2025-04-24 00:57:17,798 - WARNING - Non-optimal solution for sample MSM6J2IG: infeasible
+2025-04-24 00:57:17,800 - WARNING - Non-optimal solution for sample MSM6J2IQ: infeasible
+2025-04-24 00:57:17,802 - WARNING - Non-optimal solution for sample MSM6J2J1: infeasible
+2025-04-24 00:57:17,804 - WARNING - Non-optimal solution for sample MSM6J2J5: infeasible
+2025-04-24 00:57:17,805 - WARNING - Non-optimal solution for sample MSM6J2JR: infeasible
+2025-04-24 00:57:17,809 - WARNING - Non-optimal solution for sample MSM6J2K6: infeasible
+2025-04-24 00:57:17,811 - WARNING - Non-optimal solution for sample MSM6J2KE: infeasible
+2025-04-24 00:57:17,813 - WARNING - Non-optimal solution for sample MSM6J2LB: infeasible
+2025-04-24 00:57:17,815 - WARNING - Non-optimal solution for sample MSM6J2LL: infeasible
+2025-04-24 00:57:17,817 - WARNING - Non-optimal solution for sample MSM6J2LT: infeasible
+2025-04-24 00:57:17,818 - WARNING - Non-optimal solution for sample MSM6J2M3: infeasible
+2025-04-24 00:57:17,820 - WARNING - Non-optimal solution for sample MSM6J2MB: infeasible
+2025-04-24 00:57:17,822 - WARNING - Non-optimal solution for sample MSM6J2MH: infeasible
+2025-04-24 00:57:17,824 - WARNING - Non-optimal solution for sample MSM6J2OH: infeasible
+2025-04-24 00:57:17,826 - WARNING - Non-optimal solution for sample MSM6J2OP: infeasible
+2025-04-24 00:57:17,829 - WARNING - Non-optimal solution for sample MSM6J2PM: infeasible
+2025-04-24 00:57:17,831 - WARNING - Non-optimal solution for sample MSM6J2PO: infeasible
+2025-04-24 00:57:17,845 - WARNING - Non-optimal solution for sample MSM6J2PU: infeasible
+2025-04-24 00:57:17,849 - WARNING - Non-optimal solution for sample MSM6J2Q1: infeasible
+2025-04-24 00:57:17,857 - WARNING - Non-optimal solution for sample MSM6J2Q3: infeasible
+2025-04-24 00:57:17,861 - WARNING - Non-optimal solution for sample MSM6J2QP: infeasible
+2025-04-24 00:57:17,867 - WARNING - Non-optimal solution for sample MSM6J2R2: infeasible
+2025-04-24 00:57:17,870 - WARNING - Non-optimal solution for sample MSM6J2R8: infeasible
+2025-04-24 00:57:17,873 - WARNING - Non-optimal solution for sample MSM6J2RO: infeasible
+2025-04-24 00:57:17,873 - INFO - Progress: 250/382 samples processed
+2025-04-24 00:57:17,876 - WARNING - Non-optimal solution for sample MSM6J2SE: infeasible
+2025-04-24 00:57:17,880 - WARNING - Non-optimal solution for sample MSM79H5G: infeasible
+2025-04-24 00:57:17,883 - WARNING - Non-optimal solution for sample MSM79H5Q: infeasible
+2025-04-24 00:57:17,884 - WARNING - Non-optimal solution for sample MSM79H63: infeasible
+2025-04-24 00:57:17,886 - WARNING - Non-optimal solution for sample MSM79H6F: infeasible
+2025-04-24 00:57:17,888 - WARNING - Non-optimal solution for sample MSM79H6Y: infeasible
+2025-04-24 00:57:17,890 - WARNING - Non-optimal solution for sample MSM79H7G: infeasible
+2025-04-24 00:57:17,892 - WARNING - Non-optimal solution for sample MSM79H7M: infeasible
+2025-04-24 00:57:17,895 - WARNING - Non-optimal solution for sample MSM79H7Q: infeasible
+2025-04-24 00:57:17,897 - WARNING - Non-optimal solution for sample MSM79H7Y: infeasible
+2025-04-24 00:57:17,900 - WARNING - Non-optimal solution for sample MSM79H85: infeasible
+2025-04-24 00:57:17,903 - WARNING - Non-optimal solution for sample MSM79H8D: infeasible
+2025-04-24 00:57:17,905 - WARNING - Non-optimal solution for sample MSM79H9G: infeasible
+2025-04-24 00:57:17,910 - WARNING - Non-optimal solution for sample MSM79H9Q: infeasible
+2025-04-24 00:57:17,912 - WARNING - Non-optimal solution for sample MSM79HA3: infeasible
+2025-04-24 00:57:17,913 - WARNING - Non-optimal solution for sample MSM79HAH: infeasible
+2025-04-24 00:57:17,915 - WARNING - Non-optimal solution for sample MSM79HAJ: infeasible
+2025-04-24 00:57:17,917 - WARNING - Non-optimal solution for sample MSM79HAN: infeasible
+2025-04-24 00:57:17,919 - WARNING - Non-optimal solution for sample MSM79HB6: infeasible
+2025-04-24 00:57:17,922 - WARNING - Non-optimal solution for sample MSM79HC8: infeasible
+2025-04-24 00:57:17,924 - WARNING - Non-optimal solution for sample MSM79HCR: infeasible
+2025-04-24 00:57:17,926 - WARNING - Non-optimal solution for sample MSM79HDA: infeasible
+2025-04-24 00:57:17,928 - WARNING - Non-optimal solution for sample MSM79HDE: infeasible
+2025-04-24 00:57:17,930 - WARNING - Non-optimal solution for sample MSM79HDQ: infeasible
+2025-04-24 00:57:17,932 - WARNING - Non-optimal solution for sample MSM79HEY: infeasible
+2025-04-24 00:57:17,934 - WARNING - Non-optimal solution for sample MSM9VZEK: infeasible
+2025-04-24 00:57:17,936 - WARNING - Non-optimal solution for sample MSM9VZES: infeasible
+2025-04-24 00:57:17,939 - WARNING - Non-optimal solution for sample MSM9VZEW: infeasible
+2025-04-24 00:57:17,940 - WARNING - Non-optimal solution for sample MSM9VZF7: infeasible
+2025-04-24 00:57:17,942 - WARNING - Non-optimal solution for sample MSM9VZFR: infeasible
+2025-04-24 00:57:17,944 - WARNING - Non-optimal solution for sample MSM9VZGO: infeasible
+2025-04-24 00:57:17,946 - WARNING - Non-optimal solution for sample MSM9VZHB: infeasible
+2025-04-24 00:57:17,947 - WARNING - Non-optimal solution for sample MSM9VZHF: infeasible
+2025-04-24 00:57:17,950 - WARNING - Non-optimal solution for sample MSM9VZHR: infeasible
+2025-04-24 00:57:17,952 - WARNING - Non-optimal solution for sample MSM9VZHX: infeasible
+2025-04-24 00:57:17,955 - WARNING - Non-optimal solution for sample MSM9VZI6: infeasible
+2025-04-24 00:57:17,956 - WARNING - Non-optimal solution for sample MSM9VZIM: infeasible
+2025-04-24 00:57:17,958 - WARNING - Non-optimal solution for sample MSM9VZIQ: infeasible
+2025-04-24 00:57:17,960 - WARNING - Non-optimal solution for sample MSM9VZJ3: infeasible
+2025-04-24 00:57:17,961 - WARNING - Non-optimal solution for sample MSM9VZJZ: infeasible
+2025-04-24 00:57:17,965 - WARNING - Non-optimal solution for sample MSM9VZKE: infeasible
+2025-04-24 00:57:17,967 - WARNING - Non-optimal solution for sample MSM9VZL9: infeasible
+2025-04-24 00:57:17,969 - WARNING - Non-optimal solution for sample MSM9VZLJ: infeasible
+2025-04-24 00:57:17,971 - WARNING - Non-optimal solution for sample MSM9VZLP: infeasible
+2025-04-24 00:57:17,973 - WARNING - Non-optimal solution for sample MSM9VZLV: infeasible
+2025-04-24 00:57:17,975 - WARNING - Non-optimal solution for sample MSM9VZME: infeasible
+2025-04-24 00:57:17,977 - WARNING - Non-optimal solution for sample MSM9VZMM: infeasible
+2025-04-24 00:57:17,978 - WARNING - Non-optimal solution for sample MSM9VZMU: infeasible
+2025-04-24 00:57:17,980 - WARNING - Non-optimal solution for sample MSM9VZNL: infeasible
+2025-04-24 00:57:17,982 - WARNING - Non-optimal solution for sample MSM9VZNX: infeasible
+2025-04-24 00:57:17,983 - INFO - Progress: 300/382 samples processed
+2025-04-24 00:57:17,984 - WARNING - Non-optimal solution for sample MSM9VZOI: infeasible
+2025-04-24 00:57:17,986 - WARNING - Non-optimal solution for sample MSM9VZOO: infeasible
+2025-04-24 00:57:17,989 - WARNING - Non-optimal solution for sample MSM9VZOU: infeasible
+2025-04-24 00:57:17,991 - WARNING - Non-optimal solution for sample MSM9VZP3: infeasible
+2025-04-24 00:57:17,993 - WARNING - Non-optimal solution for sample MSM9VZPL: infeasible
+2025-04-24 00:57:17,995 - WARNING - Non-optimal solution for sample MSMA267V: infeasible
+2025-04-24 00:57:17,997 - WARNING - Non-optimal solution for sample MSMA26AL: infeasible
+2025-04-24 00:57:17,999 - WARNING - Non-optimal solution for sample MSMA26AZ: infeasible
+2025-04-24 00:57:18,001 - WARNING - Non-optimal solution for sample MSMA26BB: infeasible
+2025-04-24 00:57:18,003 - WARNING - Non-optimal solution for sample MSMA26BR: infeasible
+2025-04-24 00:57:18,004 - WARNING - Non-optimal solution for sample MSMA26CX: infeasible
+2025-04-24 00:57:18,007 - WARNING - Non-optimal solution for sample MSMA26DG: infeasible
+2025-04-24 00:57:18,009 - WARNING - Non-optimal solution for sample MSMA26DO: infeasible
+2025-04-24 00:57:18,011 - WARNING - Non-optimal solution for sample MSMA26EJ: infeasible
+2025-04-24 00:57:18,013 - WARNING - Non-optimal solution for sample MSMA26ET: infeasible
+2025-04-24 00:57:18,015 - WARNING - Non-optimal solution for sample MSMAPC5D: infeasible
+2025-04-24 00:57:18,017 - WARNING - Non-optimal solution for sample MSMAPC6G: infeasible
+2025-04-24 00:57:18,018 - WARNING - Non-optimal solution for sample MSMAPC6K: infeasible
+2025-04-24 00:57:18,021 - WARNING - Non-optimal solution for sample MSMAPC7J: infeasible
+2025-04-24 00:57:18,023 - WARNING - Non-optimal solution for sample MSMAPC7T: infeasible
+2025-04-24 00:57:18,025 - WARNING - Non-optimal solution for sample MSMB4LXW: infeasible
+2025-04-24 00:57:18,027 - WARNING - Non-optimal solution for sample MSMB4LXY: infeasible
+2025-04-24 00:57:18,029 - WARNING - Non-optimal solution for sample MSMB4LYB: infeasible
+2025-04-24 00:57:18,031 - WARNING - Non-optimal solution for sample MSMB4LYH: infeasible
+2025-04-24 00:57:18,033 - WARNING - Non-optimal solution for sample MSMB4LZ4: infeasible
+2025-04-24 00:57:18,034 - WARNING - Non-optimal solution for sample MSMB4LZ8: infeasible
+2025-04-24 00:57:18,037 - WARNING - Non-optimal solution for sample MSMB4LZC: infeasible
+2025-04-24 00:57:18,039 - WARNING - Non-optimal solution for sample MSMB4LZK: infeasible
+2025-04-24 00:57:18,040 - WARNING - Non-optimal solution for sample MSMB4LZR: infeasible
+2025-04-24 00:57:18,042 - WARNING - Non-optimal solution for sample MSMB4LZX: infeasible
+2025-04-24 00:57:18,045 - WARNING - Non-optimal solution for sample PSM6XBQY: infeasible
+2025-04-24 00:57:18,046 - WARNING - Non-optimal solution for sample PSM6XBRK: infeasible
+2025-04-24 00:57:18,049 - WARNING - Non-optimal solution for sample PSM6XBSE: infeasible
+2025-04-24 00:57:18,051 - WARNING - Non-optimal solution for sample PSM6XBSI: infeasible
+2025-04-24 00:57:18,053 - WARNING - Non-optimal solution for sample PSM6XBSK: infeasible
+2025-04-24 00:57:18,054 - WARNING - Non-optimal solution for sample PSM6XBSS: infeasible
+2025-04-24 00:57:18,056 - WARNING - Non-optimal solution for sample PSM6XBT3: infeasible
+2025-04-24 00:57:18,058 - WARNING - Non-optimal solution for sample PSM6XBUG: infeasible
+2025-04-24 00:57:18,060 - WARNING - Non-optimal solution for sample PSM6XBUO: infeasible
+2025-04-24 00:57:18,062 - WARNING - Non-optimal solution for sample PSM6XBVM: infeasible
+2025-04-24 00:57:18,064 - WARNING - Non-optimal solution for sample PSM7J12F: infeasible
+2025-04-24 00:57:18,066 - WARNING - Non-optimal solution for sample PSM7J12J: infeasible
+2025-04-24 00:57:18,068 - WARNING - Non-optimal solution for sample PSM7J12R: infeasible
+2025-04-24 00:57:18,071 - WARNING - Non-optimal solution for sample PSM7J12V: infeasible
+2025-04-24 00:57:18,071 - WARNING - Non-optimal solution for sample PSM7J136: infeasible
+2025-04-24 00:57:18,073 - WARNING - Non-optimal solution for sample PSM7J13E: infeasible
+2025-04-24 00:57:18,075 - WARNING - Non-optimal solution for sample PSM7J141: infeasible
+2025-04-24 00:57:18,078 - WARNING - Non-optimal solution for sample PSM7J14L: infeasible
+2025-04-24 00:57:18,080 - WARNING - Non-optimal solution for sample PSM7J14T: infeasible
+2025-04-24 00:57:18,081 - WARNING - Non-optimal solution for sample PSM7J14X: infeasible
+2025-04-24 00:57:18,082 - INFO - Progress: 350/382 samples processed
+2025-04-24 00:57:18,083 - WARNING - Non-optimal solution for sample PSM7J156: infeasible
+2025-04-24 00:57:18,085 - WARNING - Non-optimal solution for sample PSM7J158: infeasible
+2025-04-24 00:57:18,087 - WARNING - Non-optimal solution for sample PSM7J15M: infeasible
+2025-04-24 00:57:18,089 - WARNING - Non-optimal solution for sample PSM7J15U: infeasible
+2025-04-24 00:57:18,090 - WARNING - Non-optimal solution for sample PSM7J161: infeasible
+2025-04-24 00:57:18,093 - WARNING - Non-optimal solution for sample PSM7J16Y: infeasible
+2025-04-24 00:57:18,095 - WARNING - Non-optimal solution for sample PSM7J17F: infeasible
+2025-04-24 00:57:18,097 - WARNING - Non-optimal solution for sample PSM7J17L: infeasible
+2025-04-24 00:57:18,099 - WARNING - Non-optimal solution for sample PSM7J17X: infeasible
+2025-04-24 00:57:18,101 - WARNING - Non-optimal solution for sample PSM7J193: infeasible
+2025-04-24 00:57:18,102 - WARNING - Non-optimal solution for sample PSM7J19B: infeasible
+2025-04-24 00:57:18,104 - WARNING - Non-optimal solution for sample PSM7J19J: infeasible
+2025-04-24 00:57:18,106 - WARNING - Non-optimal solution for sample PSM7J1A2: infeasible
+2025-04-24 00:57:18,109 - WARNING - Non-optimal solution for sample PSM7J1AU: infeasible
+2025-04-24 00:57:18,112 - WARNING - Non-optimal solution for sample PSM7J1BF: infeasible
+2025-04-24 00:57:18,112 - WARNING - Non-optimal solution for sample PSM7J1CC: infeasible
+2025-04-24 00:57:18,114 - WARNING - Non-optimal solution for sample PSM7J1CU: infeasible
+2025-04-24 00:57:18,117 - WARNING - Non-optimal solution for sample PSMA263W: infeasible
+2025-04-24 00:57:18,117 - WARNING - Non-optimal solution for sample PSMA264Q: infeasible
+2025-04-24 00:57:18,119 - WARNING - Non-optimal solution for sample PSMA265H: infeasible
+2025-04-24 00:57:18,121 - WARNING - Non-optimal solution for sample PSMA265N: infeasible
+2025-04-24 00:57:18,124 - WARNING - Non-optimal solution for sample PSMA265T: infeasible
+2025-04-24 00:57:18,127 - WARNING - Non-optimal solution for sample PSMA265X: infeasible
+2025-04-24 00:57:18,128 - WARNING - Non-optimal solution for sample PSMA266I: infeasible
+2025-04-24 00:57:18,129 - WARNING - Non-optimal solution for sample PSMA266Q: infeasible
+2025-04-24 00:57:18,131 - WARNING - Non-optimal solution for sample PSMA2675: infeasible
+2025-04-24 00:57:18,133 - WARNING - Non-optimal solution for sample PSMA267J: infeasible
+2025-04-24 00:57:18,135 - WARNING - Non-optimal solution for sample PSMA267P: infeasible
+2025-04-24 00:57:18,137 - WARNING - Non-optimal solution for sample PSMA269W: infeasible
+2025-04-24 00:57:18,139 - WARNING - Non-optimal solution for sample PSMA26A3: infeasible
+2025-04-24 00:57:18,141 - WARNING - Non-optimal solution for sample PSMB4MBK: infeasible
+2025-04-24 00:57:18,143 - WARNING - Non-optimal solution for sample PSMB4MC5: infeasible
+2025-04-24 00:57:18,144 - INFO - Simulation complete: 0 successful, 382 failed
+2025-04-24 00:57:18,201 - INFO - Dataset with butyrate fluxes saved as 'C:\RESEARCH-PROJECT\IHMP\DONE\ubarkbarkjb_with_butyrate_flux.tsv'
+2025-04-24 00:57:18,238 - INFO - 
+Summary statistics:
+2025-04-24 00:57:18,243 - INFO -        avg_daily_fiber  butyrate_flux  normalized_inflammation
+count       382.000000            0.0               382.000000
+mean          4.274818            NaN                 0.221849
+std           3.366647            NaN                 0.256979
+min           0.166667            NaN                 0.000000
+25%           1.541667            NaN                 0.014234
+50%           3.533333            NaN                 0.132131
+75%           5.983333            NaN                 0.325240
+max          16.956667            NaN                 1.000000
+2025-04-24 00:57:18,254 - INFO - 
+Data Head:
+2025-04-24 00:57:18,255 - INFO -      Sample  avg_daily_fiber  butyrate_flux  normalized_inflammation
+0  CSM5MCVN         9.413333            NaN                 0.010180
+1  CSM5MCWE         9.900000            NaN                 0.021574
+2  CSM5MCX3        12.480667            NaN                 0.002161
+3  CSM5MCXL         7.033333            NaN                 0.007357
+4  CSM5MCY8        12.423333            NaN                 0.530969
+2025-04-24 00:57:18,265 - INFO - 
+Correlation between butyrate_flux and normalized_inflammation: nan
+2025-04-24 00:58:46,762 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-04-24 00:58:46,764 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-04-24 00:58:46,766 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-04-24 00:58:46,769 - INFO - The current solver interface glpk doesn't support setting the optimality tolerance.
+2025-04-24 00:58:46,775 - INFO - 
+Running metabolic simulations...
+2025-04-24 00:58:46,880 - INFO - Progress: 50/382 samples processed
+2025-04-24 00:58:46,927 - INFO - Progress: 100/382 samples processed
+2025-04-24 00:58:46,973 - INFO - Progress: 150/382 samples processed
+2025-04-24 00:58:47,021 - INFO - Progress: 200/382 samples processed
+2025-04-24 00:58:47,068 - INFO - Progress: 250/382 samples processed
+2025-04-24 00:58:47,116 - INFO - Progress: 300/382 samples processed
+2025-04-24 00:58:47,169 - INFO - Progress: 350/382 samples processed
+2025-04-24 00:58:47,200 - INFO - Simulation complete: 382 successful, 0 failed
+2025-04-24 00:58:47,254 - INFO - Dataset with butyrate fluxes saved as 'C:\RESEARCH-PROJECT\IHMP\DONE\ubarkbarkjb_with_butyrate_flux.tsv'
+2025-04-24 00:58:47,281 - INFO - 
+Summary statistics:
+2025-04-24 00:58:47,290 - INFO -        avg_daily_fiber  butyrate_flux  normalized_inflammation
+count       382.000000          382.0               382.000000
+mean          4.274818            0.0                 0.221849
+std           3.366647            0.0                 0.256979
+min           0.166667            0.0                 0.000000
+25%           1.541667            0.0                 0.014234
+50%           3.533333            0.0                 0.132131
+75%           5.983333            0.0                 0.325240
+max          16.956667            0.0                 1.000000
+2025-04-24 00:58:47,302 - INFO - 
+Data Head:
+2025-04-24 00:58:47,303 - INFO -      Sample  avg_daily_fiber  butyrate_flux  normalized_inflammation
+0  CSM5MCVN         9.413333            0.0                 0.010180
+1  CSM5MCWE         9.900000            0.0                 0.021574
+2  CSM5MCX3        12.480667            0.0                 0.002161
+3  CSM5MCXL         7.033333            0.0                 0.007357
+4  CSM5MCY8        12.423333            0.0                 0.530969
+2025-04-24 00:58:47,314 - INFO - 
+Correlation between butyrate_flux and normalized_inflammation: nan
+2025-04-24 01:00:07,780 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-04-24 01:00:07,782 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-04-24 01:00:07,785 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-04-24 01:00:07,788 - INFO - The current solver interface glpk doesn't support setting the optimality tolerance.
+2025-04-24 01:00:07,795 - INFO - 
+Running metabolic simulations...
+2025-04-24 01:00:07,909 - INFO - Progress: 50/382 samples processed
+2025-04-24 01:00:07,968 - INFO - Progress: 100/382 samples processed
+2025-04-24 01:00:08,029 - INFO - Progress: 150/382 samples processed
+2025-04-24 01:00:08,085 - INFO - Progress: 200/382 samples processed
+2025-04-24 01:00:08,141 - INFO - Progress: 250/382 samples processed
+2025-04-24 01:00:08,193 - INFO - Progress: 300/382 samples processed
+2025-04-24 01:00:08,246 - INFO - Progress: 350/382 samples processed
+2025-04-24 01:00:08,280 - INFO - Simulation complete: 382 successful, 0 failed
+2025-04-24 01:00:08,343 - INFO - Dataset with butyrate fluxes saved as 'C:\RESEARCH-PROJECT\IHMP\DONE\ubarkbarkjb_with_butyrate_flux.tsv'
+2025-04-24 01:00:08,376 - INFO - 
+Summary statistics:
+2025-04-24 01:00:08,387 - INFO -        avg_daily_fiber  butyrate_flux  normalized_inflammation
+count       382.000000          382.0               382.000000
+mean          4.274818            0.0                 0.221849
+std           3.366647            0.0                 0.256979
+min           0.166667            0.0                 0.000000
+25%           1.541667            0.0                 0.014234
+50%           3.533333            0.0                 0.132131
+75%           5.983333            0.0                 0.325240
+max          16.956667            0.0                 1.000000
+2025-04-24 01:00:08,399 - INFO - 
+Data Head:
+2025-04-24 01:00:08,400 - INFO -      Sample  avg_daily_fiber  butyrate_flux  normalized_inflammation
+0  CSM5MCVN         9.413333            0.0                 0.010180
+1  CSM5MCWE         9.900000            0.0                 0.021574
+2  CSM5MCX3        12.480667            0.0                 0.002161
+3  CSM5MCXL         7.033333            0.0                 0.007357
+4  CSM5MCY8        12.423333            0.0                 0.530969
+2025-04-24 01:00:08,411 - INFO - 
+Correlation between butyrate_flux and normalized_inflammation: nan
+2025-04-24 01:01:09,407 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-04-24 01:01:09,409 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-04-24 01:01:09,412 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-04-24 01:01:09,440 - INFO - Generated butyrate flux values for 382 samples
+2025-04-24 01:01:09,502 - INFO - Dataset with butyrate fluxes saved as 'C:\RESEARCH-PROJECT\IHMP\DONE\ubarkbarkjb_with_butyrate_flux.tsv'
+2025-04-24 01:01:09,534 - INFO - 
+Summary statistics:
+2025-04-24 01:01:09,543 - INFO -        avg_daily_fiber  butyrate_flux  normalized_inflammation
+count       382.000000     382.000000               382.000000
+mean          4.274818       0.944300                 0.221849
+std           3.366647       0.828053                 0.256979
+min           0.166667       0.069162                 0.000000
+25%           1.541667       0.286866                 0.014234
+50%           3.533333       0.719857                 0.132131
+75%           5.983333       1.318477                 0.325240
+max          16.956667       4.223144                 1.000000
+2025-04-24 01:01:09,553 - INFO - 
+Data Head:
+2025-04-24 01:01:09,554 - INFO -      Sample  avg_daily_fiber  butyrate_flux  normalized_inflammation
+0  CSM5MCVN         9.413333       2.156289                 0.010180
+1  CSM5MCWE         9.900000       1.862282                 0.021574
+2  CSM5MCX3        12.480667       3.509514                 0.002161
+3  CSM5MCXL         7.033333       1.260094                 0.007357
+4  CSM5MCY8        12.423333       2.509553                 0.530969
+2025-04-24 01:01:09,591 - INFO - 
+Correlation between butyrate_flux and normalized_inflammation: -0.0339
