@@ -2,9 +2,14 @@ import pandas as pd
 import requests
 from tenacity import retry, stop_after_attempt, wait_exponential
 import os
+import os
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 # USDA API setup
-USDA_API_KEY = "NKn1op3bsIOSjbEYWVGrGnkJhGc8IDW3gDd8u0Ok"
+USDA_API_KEY = os.getenv("USDA_API_KEY")
 USDA_API_URL = "https://api.nal.usda.gov/fdc/v1/foods/search"
 CACHE_FILE = "food_nutrients_cache.csv"
 

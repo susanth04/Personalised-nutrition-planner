@@ -9,9 +9,14 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 from torch.utils.data import DataLoader, TensorDataset
+import os
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 # USDA API setup
-USDA_API_KEY = "NKn1op3bsIOSjbEYWVGrGnkJhGc8IDW3gDd8u0Ok"
+USDA_API_KEY = os.getenv("USDA_API_KEY")
 USDA_API_URL = "https://api.nal.usda.gov/fdc/v1/foods/search"
 NUTRIENT_CACHE_FILE = "food_nutrients_cache.csv"
 
