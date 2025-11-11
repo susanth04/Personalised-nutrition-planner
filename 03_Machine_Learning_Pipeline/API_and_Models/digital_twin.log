@@ -2201,3 +2201,107 @@ Data Head:
 4  CSM5MCY8        12.423333       2.509553                 0.530969
 2025-04-24 01:01:09,591 - INFO - 
 Correlation between butyrate_flux and normalized_inflammation: -0.0339
+2025-07-30 21:21:50,070 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-07-30 21:21:50,074 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-07-30 21:21:50,076 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-07-30 21:21:50,096 - INFO - Generated butyrate flux values for 382 samples
+2025-07-30 21:21:50,139 - INFO - Dataset with butyrate fluxes saved as 'C:\RESEARCH-PROJECT\03_Machine_Learning_Pipeline\API_and_Models\integrated_multiomics_with_butyrate.tsv'
+2025-07-30 21:21:50,169 - INFO - 
+Summary statistics:
+2025-07-30 21:21:50,172 - INFO -        avg_daily_fiber  butyrate_flux  normalized_inflammation
+count       382.000000     382.000000               382.000000
+mean          4.274818       0.978441                 0.221849
+std           3.366647       0.878078                 0.256979
+min           0.166667       0.072588                 0.000000
+25%           1.541667       0.295420                 0.014234
+50%           3.533333       0.747950                 0.132131
+75%           5.983333       1.356814                 0.325240
+max          16.956667       4.820066                 1.000000
+2025-07-30 21:21:50,179 - INFO - 
+Data Head:
+2025-07-30 21:21:50,179 - INFO -      Sample  avg_daily_fiber  butyrate_flux  normalized_inflammation
+0  CSM5MCVN         9.413333       2.357065                 0.010180
+1  CSM5MCWE         9.900000       2.397225                 0.021574
+2  CSM5MCX3        12.480667       3.086023                 0.002161
+3  CSM5MCXL         7.033333       1.255309                 0.007357
+4  CSM5MCY8        12.423333       3.549788                 0.530969
+2025-07-30 21:21:50,185 - INFO - 
+Correlation between butyrate_flux and normalized_inflammation: -0.0466
+2025-11-11 19:38:52,672 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-11-11 19:38:52,695 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-11-11 19:38:52,705 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-11-11 19:38:52,736 - INFO - Generated butyrate flux values for 382 samples
+2025-11-11 19:38:52,794 - INFO - Dataset with butyrate fluxes saved as 'C:\RESEARCH-PROJECT\03_Machine_Learning_Pipeline\API_and_Models\integrated_multiomics_with_butyrate.tsv'
+2025-11-11 19:38:52,834 - INFO - 
+Summary statistics:
+2025-11-11 19:38:52,840 - INFO -        avg_daily_fiber  butyrate_flux  normalized_inflammation
+count       382.000000     382.000000               382.000000
+mean          4.274818       0.950193                 0.221849
+std           3.366647       0.831674                 0.256979
+min           0.166667       0.068986                 0.000000
+25%           1.541667       0.295824                 0.014234
+50%           3.533333       0.674398                 0.132131
+75%           5.983333       1.371910                 0.325240
+max          16.956667       4.713778                 1.000000
+2025-11-11 19:38:52,849 - INFO - 
+Data Head:
+2025-11-11 19:38:52,850 - INFO -      Sample  avg_daily_fiber  butyrate_flux  normalized_inflammation
+0  CSM5MCVN         9.413333       1.910097                 0.010180
+1  CSM5MCWE         9.900000       2.209217                 0.021574
+2  CSM5MCX3        12.480667       2.608752                 0.002161
+3  CSM5MCXL         7.033333       1.465826                 0.007357
+4  CSM5MCY8        12.423333       2.804900                 0.530969
+2025-11-11 19:38:52,861 - INFO - 
+Correlation between butyrate_flux and normalized_inflammation: -0.0351
+2025-11-11 19:39:28,113 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-11-11 19:39:28,114 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-11-11 19:39:28,116 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-11-11 19:39:28,145 - INFO - Generated butyrate flux values for 382 samples
+2025-11-11 19:39:28,202 - INFO - Dataset with butyrate fluxes saved as 'C:\RESEARCH-PROJECT\03_Machine_Learning_Pipeline\API_and_Models\integrated_multiomics_with_butyrate.tsv'
+2025-11-11 19:39:28,232 - INFO - 
+Summary statistics:
+2025-11-11 19:39:28,239 - INFO -        avg_daily_fiber  butyrate_flux  normalized_inflammation
+count       382.000000     382.000000               382.000000
+mean          4.274818       0.953659                 0.221849
+std           3.366647       0.841906                 0.256979
+min           0.166667       0.072213                 0.000000
+25%           1.541667       0.304314                 0.014234
+50%           3.533333       0.682243                 0.132131
+75%           5.983333       1.337581                 0.325240
+max          16.956667       4.025942                 1.000000
+2025-11-11 19:39:28,248 - INFO - 
+Data Head:
+2025-11-11 19:39:28,249 - INFO -      Sample  avg_daily_fiber  butyrate_flux  normalized_inflammation
+0  CSM5MCVN         9.413333       2.134407                 0.010180
+1  CSM5MCWE         9.900000       2.658161                 0.021574
+2  CSM5MCX3        12.480667       3.613430                 0.002161
+3  CSM5MCXL         7.033333       1.632417                 0.007357
+4  CSM5MCY8        12.423333       3.149172                 0.530969
+2025-11-11 19:39:28,260 - INFO - 
+Correlation between butyrate_flux and normalized_inflammation: -0.0370
+2025-11-11 19:40:03,996 - INFO - Successfully loaded dataset with 382 rows and 131 columns
+2025-11-11 19:40:03,998 - WARNING - 5 zeros and 0 NaNs in avg_daily_calories
+2025-11-11 19:40:04,000 - WARNING - 9 zeros and 0 NaNs in avg_daily_fiber
+2025-11-11 19:40:04,027 - INFO - Generated butyrate flux values for 382 samples
+2025-11-11 19:40:04,090 - INFO - Dataset with butyrate fluxes saved as 'C:\RESEARCH-PROJECT\03_Machine_Learning_Pipeline\API_and_Models\integrated_multiomics_with_butyrate.tsv'
+2025-11-11 19:40:04,120 - INFO - 
+Summary statistics:
+2025-11-11 19:40:04,126 - INFO -        avg_daily_fiber  butyrate_flux  normalized_inflammation
+count       382.000000     382.000000               382.000000
+mean          4.274818       0.955338                 0.221849
+std           3.366647       0.844759                 0.256979
+min           0.166667       0.069888                 0.000000
+25%           1.541667       0.283871                 0.014234
+50%           3.533333       0.699771                 0.132131
+75%           5.983333       1.354901                 0.325240
+max          16.956667       4.887213                 1.000000
+2025-11-11 19:40:04,134 - INFO - 
+Data Head:
+2025-11-11 19:40:04,135 - INFO -      Sample  avg_daily_fiber  butyrate_flux  normalized_inflammation
+0  CSM5MCVN         9.413333       2.037484                 0.010180
+1  CSM5MCWE         9.900000       2.109456                 0.021574
+2  CSM5MCX3        12.480667       2.493038                 0.002161
+3  CSM5MCXL         7.033333       1.537817                 0.007357
+4  CSM5MCY8        12.423333       3.232095                 0.530969
+2025-11-11 19:40:04,144 - INFO - 
+Correlation between butyrate_flux and normalized_inflammation: -0.0383

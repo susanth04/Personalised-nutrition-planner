@@ -1,0 +1,33 @@
+=== Butyrate Flux Analysis ===
+
+Summary Statistics:
+       avg_daily_fiber  butyrate_flux  normalized_inflammation
+count       382.000000     382.000000               382.000000
+mean          4.274818       0.955338                 0.221849
+std           3.366647       0.844759                 0.256979
+min           0.166667       0.069888                 0.000000
+25%           1.541667       0.283871                 0.014234
+50%           3.533333       0.699771                 0.132131
+75%           5.983333       1.354901                 0.325240
+max          16.956667       4.887213                 1.000000
+
+Top 10 Samples by Butyrate Flux:
+       Sample  avg_daily_fiber  butyrate_flux  normalized_inflammation
+246  MSM6J2QP        16.956667       4.887213                 0.001772
+103  ESM9IEP1        16.923333       3.829385                 0.013235
+204  HSMA33MZ        16.300000       3.686213                 0.835231
+132  HSM6XRQW        13.490000       3.597851                 0.035429
+182  HSM7J4MS        12.401667       3.552912                 0.329160
+193  HSM7J4PW        14.333333       3.492629                 0.193675
+145  HSM6XRVW        12.833333       3.422682                 0.523944
+229  MSM6J2J5        12.233333       3.289705                 0.017422
+128  HSM67VI5        13.200000       3.235503                 0.231137
+4    CSM5MCY8        12.423333       3.232095                 0.530969
+
+Correlations:
+                         avg_daily_fiber  ...  normalized_inflammation
+avg_daily_fiber                 1.000000  ...                -0.044610
+butyrate_flux                   0.985156  ...                -0.038254
+normalized_inflammation        -0.044610  ...                 1.000000
+
+[3 rows x 3 columns]

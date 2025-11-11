@@ -15,7 +15,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler("C:/RESEARCH-PROJECT/IHMP/DONE/digital_twin.log"),
+        logging.FileHandler("C:/RESEARCH-PROJECT/03_Machine_Learning_Pipeline/API_and_Models/digital_twin.log"),
         logging.StreamHandler(sys.stdout)
     ]
 )
@@ -24,8 +24,8 @@ print("=== Digital Twin Model Simulation ===")
 print(f"Start time: {pd.Timestamp.now()}\n")
 
 # Path handling
-DATA_PATH = Path("C:/RESEARCH-PROJECT/IHMP/DONE/integrated_multiomics_dataset.tsv")
-OUTPUT_DIR = Path("C:/RESEARCH-PROJECT/IHMP/DONE")
+DATA_PATH = Path("C:/RESEARCH-PROJECT/03_Machine_Learning_Pipeline/API_and_Models/integrated_multiomics_dataset.tsv")
+OUTPUT_DIR = Path("C:/RESEARCH-PROJECT/03_Machine_Learning_Pipeline/API_and_Models")
 OUTPUT_FILE = OUTPUT_DIR / "integrated_multiomics_with_butyrate.tsv"
 
 # Ensure output directory exists

@@ -133,22 +133,31 @@ dmypy.json
 Thumbs.db
 
 # Large data files (keep only essential models)
+# Exclude most CSVs but keep essential ones
 *.csv
+!XGBoost_Model_Predictions.csv
 *.tsv
+!integrated_multiomics_with_butyrate.tsv
+!final_dataset_with_food.tsv
 *.txt
+!requirements.txt
+!runtime.txt
+!butyrate_flux_details.txt
 *.log
+!digital_twin.log
 
-# Keep only essential model files
+# Keep essential model files
+!*.pkl
+!*.json
 # Uncomment to exclude large model files if not needed:
-# *.pkl
 # *.pth
 # *.h5
 # *.model
 # *.bin
-# *.json
 
-# Documentation
+# Documentation (keep README)
 *.md
+!README.md
 *.pdf
 *.docx
 
