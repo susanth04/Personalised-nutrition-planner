@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: microbiome-api
+    runtime: python3
+    buildCommand: pip install -r requirements.txt
+    startCommand: python render_launcher.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.9.18
+      - key: API_KEY
+        generateValue: true
