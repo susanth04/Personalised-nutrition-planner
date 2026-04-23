@@ -1,15 +1,32 @@
 "use client"
 
+"use client"
+
 import { useState } from "react"
 import Link from "next/link"
 import { usePathname } from "next/navigation"
-import { Menu, X } from "lucide-react"
+import { Menu, X, LogIn } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { ModeToggle } from "@/components/mode-toggle"
+import { useAuth } from "@/lib/auth-context"
+import { useLogout } from "@/lib/auth-hooks"
+import { useRouter } from "next/navigation"
 
 export function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
   const pathname = usePathname()
+  const { user, userProfile, loading } = useAuth()
+  const { logout } = useLogout()
+  const router = useRouter()
+
+  const handleLogout = async () => {
+    try {
+      await logout()
+      router.push("/login")
+    } catch (error) {
+      console.error("Logout failed:", error)
+    }
+  }
 
   const navigation = [
     { name: "Home", href: "/" },
@@ -47,6 +64,29 @@ export function Header() {
         <div className="flex items-center gap-2">
           <ModeToggle />
 
+          {/* Auth buttons (Desktop) */}
+          <div className="hidden md:flex md:items-center md:gap-2">
+            {!loading && user ? (
+              <>
+                <span className="text-sm text-muted-foreground mr-2">
+                  {userProfile?.firstName || user.email}
+                </span>
+                <Button variant="ghost" size="sm" onClick={handleLogout}>
+                  Logout
+                </Button>
+              </>
+            ) : !loading ? (
+              <>
+                <Button asChild variant="ghost" size="sm">
+                  <Link href="/login">Login</Link>
+                </Button>
+                <Button asChild size="sm">
+                  <Link href="/register">Sign Up</Link>
+                </Button>
+              </>
+            ) : null}
+          </div>
+
           {/* Mobile menu button */}
           <Button
             variant="ghost"
@@ -55,6 +95,45 @@ export function Header() {
             onClick={() => setIsMenuOpen(!isMenuOpen)}
             aria-label="Toggle menu"
           >
+            
+            {/* Mobile Auth buttons */}
+            <div className="border-t mt-3 pt-3 space-y-2">
+              {!loading && user ? (
+                <>
+                  <div className="px-3 py-2 text-sm font-medium text-muted-foreground">
+                    {userProfile?.firstName || user.email}
+                  </div>
+                  <Button
+                    variant="ghost"
+                    size="sm"
+                    className="w-full justify-start"
+                    onClick={() => {
+                      handleLogout()
+                      setIsMenuOpen(false)
+                    }}
+                  >
+                    Logout
+                  </Button>
+                </>
+              ) : !loading ? (
+                <>
+                  <Link
+                    href="/login"
+                    className="block px-3 py-2 text-base font-medium rounded-md text-muted-foreground hover:bg-gray-50 dark:hover:bg-gray-800 hover:text-foreground"
+                    onClick={() => setIsMenuOpen(false)}
+                  >
+                    Login
+                  </Link>
+                  <Link
+                    href="/register"
+                    className="block px-3 py-2 text-base font-medium rounded-md bg-emerald-600 text-white hover:bg-emerald-700"
+                    onClick={() => setIsMenuOpen(false)}
+                  >
+                    Sign Up
+                  </Link>
+                </>
+              ) : null}
+            </div>
             {isMenuOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
           </Button>
         </div>
